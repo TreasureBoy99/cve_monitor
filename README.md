@@ -1,6 +1,6 @@
 # CVE威胁情报推送系统
 
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/adminlove520/cve_monitor?label=version)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/anonymous99-Rise/cve_monitor?label=version)
 
 
 ## 📋 项目简介
