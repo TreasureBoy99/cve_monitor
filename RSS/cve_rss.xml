@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>威胁情报</title>
-        <link>https://github.com/adminlove520/CVE_pusher</link>
+        <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Tue, 28 Jul 2026 10:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 10:48:09 GMT</lastBuildDate>
 
         <item>
             <title>nice-select2 跨站脚本漏洞</title>
