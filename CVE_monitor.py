@@ -2472,7 +2472,7 @@ def generate_wordpress_rss(is_weekly=False):
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>威胁情报</title>
-        <link>https://github.com/adminlove520/CVE_pusher</link>
+        <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
         <lastBuildDate>{}</lastBuildDate>
