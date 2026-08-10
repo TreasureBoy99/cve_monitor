@@ -5,425 +5,299 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Tue, 28 Jul 2026 10:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 06:52:28 GMT</lastBuildDate>
 
         <item>
-            <title>nice-select2 跨站脚本漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-82sz-fqpl</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-17528</guid>
+            <title>Metabase 未授权SQL注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-510b-d826</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">MPS-510b-d826</guid>
             <description><![CDATA[
-                <h2>nice-select2 跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-17528</p>
+                <h2>Metabase 未授权SQL注入漏洞</h2>
+                <p><strong>编号：</strong>MPS-510b-d826</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-82sz-fqpl" target="_blank">https://www.oscs1024.com/hd/MPS-82sz-fqpl</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-510b-d826" target="_blank">https://www.oscs1024.com/hd/MPS-510b-d826</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>nice-select2 跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-17528</p>
+                <h2>Metabase 未授权SQL注入漏洞</h2>
+                <p><strong>编号：</strong>MPS-510b-d826</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-82sz-fqpl" target="_blank">https://www.oscs1024.com/hd/MPS-82sz-fqpl</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-510b-d826" target="_blank">https://www.oscs1024.com/hd/MPS-510b-d826</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>zip-lib 任意文件写入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-1mld-rcx7</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-17524</guid>
+            <title>libexpat UTF-16 转换越界读取与死循环漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-te2o-8srl</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-72522</guid>
             <description><![CDATA[
-                <h2>zip-lib 任意文件写入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-17524</p>
+                <h2>libexpat UTF-16 转换越界读取与死循环漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-72522</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1mld-rcx7" target="_blank">https://www.oscs1024.com/hd/MPS-1mld-rcx7</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-te2o-8srl" target="_blank">https://www.oscs1024.com/hd/MPS-te2o-8srl</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>zip-lib 任意文件写入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-17524</p>
+                <h2>libexpat UTF-16 转换越界读取与死循环漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-72522</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1mld-rcx7" target="_blank">https://www.oscs1024.com/hd/MPS-1mld-rcx7</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-te2o-8srl" target="_blank">https://www.oscs1024.com/hd/MPS-te2o-8srl</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>WordPress Ad Invalid Click Protector 插件未授权访问控制漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-ryv3-i0ea</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-65445</guid>
+            <title>GStreamer gst-plugins-bad adpcmdec IMA/DVI ADPCM 解码堆越界写入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-ay69-qgo7</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-19387</guid>
             <description><![CDATA[
-                <h2>WordPress Ad Invalid Click Protector 插件未授权访问控制漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65445</p>
+                <h2>GStreamer gst-plugins-bad adpcmdec IMA/DVI ADPCM 解码堆越界写入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-19387</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ryv3-i0ea" target="_blank">https://www.oscs1024.com/hd/MPS-ryv3-i0ea</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ay69-qgo7" target="_blank">https://www.oscs1024.com/hd/MPS-ay69-qgo7</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>WordPress Ad Invalid Click Protector 插件未授权访问控制漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65445</p>
+                <h2>GStreamer gst-plugins-bad adpcmdec IMA/DVI ADPCM 解码堆越界写入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-19387</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ryv3-i0ea" target="_blank">https://www.oscs1024.com/hd/MPS-ryv3-i0ea</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ay69-qgo7" target="_blank">https://www.oscs1024.com/hd/MPS-ay69-qgo7</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Contest Gallery WordPress 插件跨站脚本漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-10cx-ry5w</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-65447</guid>
+            <title>SourceCodester Simple Doctors Appointment System set_appointment SQL 注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-3rih-yd07</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-19384</guid>
             <description><![CDATA[
-                <h2>Contest Gallery WordPress 插件跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65447</p>
+                <h2>SourceCodester Simple Doctors Appointment System set_appointment SQL 注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-19384</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-10cx-ry5w" target="_blank">https://www.oscs1024.com/hd/MPS-10cx-ry5w</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-3rih-yd07" target="_blank">https://www.oscs1024.com/hd/MPS-3rih-yd07</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Contest Gallery WordPress 插件跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65447</p>
+                <h2>SourceCodester Simple Doctors Appointment System set_appointment SQL 注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-19384</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-10cx-ry5w" target="_blank">https://www.oscs1024.com/hd/MPS-10cx-ry5w</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-3rih-yd07" target="_blank">https://www.oscs1024.com/hd/MPS-3rih-yd07</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>BackWPup WordPress 插件跨站脚本漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-2pm0-sg1a</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-65443</guid>
+            <title>GStreamer gst-plugins-ugly ASF demuxer integer overflow/underflow leading to out-of-bounds heap read</title>
+            <link>https://www.oscs1024.com/hd/MPS-sxab-i8d4</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-19389</guid>
             <description><![CDATA[
-                <h2>BackWPup WordPress 插件跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65443</p>
+                <h2>GStreamer gst-plugins-ugly ASF demuxer integer overflow/underflow leading to out-of-bounds heap read</h2>
+                <p><strong>编号：</strong>CVE-2026-19389</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2pm0-sg1a" target="_blank">https://www.oscs1024.com/hd/MPS-2pm0-sg1a</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-sxab-i8d4" target="_blank">https://www.oscs1024.com/hd/MPS-sxab-i8d4</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>BackWPup WordPress 插件跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65443</p>
+                <h2>GStreamer gst-plugins-ugly ASF demuxer integer overflow/underflow leading to out-of-bounds heap read</h2>
+                <p><strong>编号：</strong>CVE-2026-19389</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2pm0-sg1a" target="_blank">https://www.oscs1024.com/hd/MPS-2pm0-sg1a</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-sxab-i8d4" target="_blank">https://www.oscs1024.com/hd/MPS-sxab-i8d4</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>GiveWP捐赠插件跨站脚本漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-9pra-zbu3</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-65441</guid>
+            <title>SaiAdmin插件上传漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-hxjn-m8p9</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-19383</guid>
             <description><![CDATA[
-                <h2>GiveWP捐赠插件跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65441</p>
+                <h2>SaiAdmin插件上传漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-19383</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9pra-zbu3" target="_blank">https://www.oscs1024.com/hd/MPS-9pra-zbu3</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-hxjn-m8p9" target="_blank">https://www.oscs1024.com/hd/MPS-hxjn-m8p9</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>GiveWP捐赠插件跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65441</p>
+                <h2>SaiAdmin插件上传漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-19383</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9pra-zbu3" target="_blank">https://www.oscs1024.com/hd/MPS-9pra-zbu3</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-hxjn-m8p9" target="_blank">https://www.oscs1024.com/hd/MPS-hxjn-m8p9</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Xendit Payment WordPress 插件未授权访问控制绕过漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-na20-6j75</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-66473</guid>
+            <title>Almico Speedfan 4.52 speedfan.sys MSR Index Handler 内存泄漏漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-8ea9-rhyu</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-19382</guid>
             <description><![CDATA[
-                <h2>Xendit Payment WordPress 插件未授权访问控制绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-66473</p>
+                <h2>Almico Speedfan 4.52 speedfan.sys MSR Index Handler 内存泄漏漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-19382</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-na20-6j75" target="_blank">https://www.oscs1024.com/hd/MPS-na20-6j75</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8ea9-rhyu" target="_blank">https://www.oscs1024.com/hd/MPS-8ea9-rhyu</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Xendit Payment WordPress 插件未授权访问控制绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-66473</p>
+                <h2>Almico Speedfan 4.52 speedfan.sys MSR Index Handler 内存泄漏漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-19382</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-na20-6j75" target="_blank">https://www.oscs1024.com/hd/MPS-na20-6j75</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8ea9-rhyu" target="_blank">https://www.oscs1024.com/hd/MPS-8ea9-rhyu</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>FormCraft SSRF 漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-s0lw-cd2p</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-65442</guid>
+            <title>Mullvad wireguard.sys AdapterState 引用计数缺陷</title>
+            <link>https://www.oscs1024.com/hd/MPS-x7ic-st5v</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-19380</guid>
             <description><![CDATA[
-                <h2>FormCraft SSRF 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65442</p>
+                <h2>Mullvad wireguard.sys AdapterState 引用计数缺陷</h2>
+                <p><strong>编号：</strong>CVE-2026-19380</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-s0lw-cd2p" target="_blank">https://www.oscs1024.com/hd/MPS-s0lw-cd2p</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-x7ic-st5v" target="_blank">https://www.oscs1024.com/hd/MPS-x7ic-st5v</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>FormCraft SSRF 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65442</p>
+                <h2>Mullvad wireguard.sys AdapterState 引用计数缺陷</h2>
+                <p><strong>编号：</strong>CVE-2026-19380</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-s0lw-cd2p" target="_blank">https://www.oscs1024.com/hd/MPS-s0lw-cd2p</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-x7ic-st5v" target="_blank">https://www.oscs1024.com/hd/MPS-x7ic-st5v</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>AcyChecker 插件跨站脚本漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-rifp-go1c</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-65448</guid>
+            <title>Kingston FURY CTRL 内核驱动权限管理漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-31sv-y70x</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-19381</guid>
             <description><![CDATA[
-                <h2>AcyChecker 插件跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65448</p>
+                <h2>Kingston FURY CTRL 内核驱动权限管理漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-19381</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rifp-go1c" target="_blank">https://www.oscs1024.com/hd/MPS-rifp-go1c</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-31sv-y70x" target="_blank">https://www.oscs1024.com/hd/MPS-31sv-y70x</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>AcyChecker 插件跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65448</p>
+                <h2>Kingston FURY CTRL 内核驱动权限管理漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-19381</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rifp-go1c" target="_blank">https://www.oscs1024.com/hd/MPS-rifp-go1c</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-31sv-y70x" target="_blank">https://www.oscs1024.com/hd/MPS-31sv-y70x</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Kali Forms WordPress 插件数字签名字段存储型 XSS 漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-639w-7lxz</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-65446</guid>
+            <title>ipTIME AX8004M 命令注入</title>
+            <link>https://www.oscs1024.com/hd/MPS-qs2r-h6dp</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-19379</guid>
             <description><![CDATA[
-                <h2>Kali Forms WordPress 插件数字签名字段存储型 XSS 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65446</p>
+                <h2>ipTIME AX8004M 命令注入</h2>
+                <p><strong>编号：</strong>CVE-2026-19379</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-639w-7lxz" target="_blank">https://www.oscs1024.com/hd/MPS-639w-7lxz</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qs2r-h6dp" target="_blank">https://www.oscs1024.com/hd/MPS-qs2r-h6dp</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Kali Forms WordPress 插件数字签名字段存储型 XSS 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65446</p>
+                <h2>ipTIME AX8004M 命令注入</h2>
+                <p><strong>编号：</strong>CVE-2026-19379</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-639w-7lxz" target="_blank">https://www.oscs1024.com/hd/MPS-639w-7lxz</a></p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qs2r-h6dp" target="_blank">https://www.oscs1024.com/hd/MPS-qs2r-h6dp</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-65624漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-51oh-w3d9</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-65624</guid>
+            <title>报装系统智能平台fileDownload任意文件读取漏洞(QVD-2026-49879)</title>
+            <link>https://ti.qianxin.com/</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">c9640f0ecbde9fc11bf30727a55c268b</guid>
             <description><![CDATA[
-                <h2>CVE-2026-65624漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65624</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-51oh-w3d9" target="_blank">https://www.oscs1024.com/hd/MPS-51oh-w3d9</a></p>
+                <h2>报装系统智能平台fileDownload任意文件读取漏洞(QVD-2026-49879)</h2>
+                <p><strong>编号：</strong>c9640f0ecbde9fc11bf30727a55c268b</p>
+                <p><strong>来源：</strong>奇安信CERT</p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://ti.qianxin.com/" target="_blank">https://ti.qianxin.com/</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-65624漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-65624</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-51oh-w3d9" target="_blank">https://www.oscs1024.com/hd/MPS-51oh-w3d9</a></p>
+                <h2>报装系统智能平台fileDownload任意文件读取漏洞(QVD-2026-49879)</h2>
+                <p><strong>编号：</strong>c9640f0ecbde9fc11bf30727a55c268b</p>
+                <p><strong>来源：</strong>奇安信CERT</p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://ti.qianxin.com/" target="_blank">https://ti.qianxin.com/</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-59248漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-75of-rqns</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-59248</guid>
+            <title>JumpServer KoKo Web Terminal SFTP路径遍历漏洞</title>
+            <link>https://x.threatbook.com/v5/vul/XVE-2026-46679</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">XVE-2026-46679</guid>
             <description><![CDATA[
-                <h2>CVE-2026-59248漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-59248</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-75of-rqns" target="_blank">https://www.oscs1024.com/hd/MPS-75of-rqns</a></p>
+                <h2>JumpServer KoKo Web Terminal SFTP路径遍历漏洞</h2>
+                <p><strong>编号：</strong>XVE-2026-46679</p>
+                <p><strong>来源：</strong>微步</p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-46679" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-46679</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-59248漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-59248</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-75of-rqns" target="_blank">https://www.oscs1024.com/hd/MPS-75of-rqns</a></p>
+                <h2>JumpServer KoKo Web Terminal SFTP路径遍历漏洞</h2>
+                <p><strong>编号：</strong>XVE-2026-46679</p>
+                <p><strong>来源：</strong>微步</p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-46679" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-46679</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>SAP NetWeaver Application Server for ABAP 诊断跟踪会话标识泄露漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-34g8-hro5</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-58246</guid>
+            <title>JetBrains TeamCity 远程代码执行漏洞</title>
+            <link>https://x.threatbook.com/v5/vul/XVE-2026-42927</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">XVE-2026-42927</guid>
             <description><![CDATA[
-                <h2>SAP NetWeaver Application Server for ABAP 诊断跟踪会话标识泄露漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-58246</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-34g8-hro5" target="_blank">https://www.oscs1024.com/hd/MPS-34g8-hro5</a></p>
+                <h2>JetBrains TeamCity 远程代码执行漏洞</h2>
+                <p><strong>编号：</strong>XVE-2026-42927</p>
+                <p><strong>来源：</strong>微步</p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-42927" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-42927</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>SAP NetWeaver Application Server for ABAP 诊断跟踪会话标识泄露漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-58246</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-34g8-hro5" target="_blank">https://www.oscs1024.com/hd/MPS-34g8-hro5</a></p>
+                <h2>JetBrains TeamCity 远程代码执行漏洞</h2>
+                <p><strong>编号：</strong>XVE-2026-42927</p>
+                <p><strong>来源：</strong>微步</p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-42927" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-42927</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-14785漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-tr9x-o4np</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-14785</guid>
+            <title>SiYuan /api/search/searchEmbedBlock SQL注入漏洞</title>
+            <link>https://x.threatbook.com/v5/vul/XVE-2026-45035</link>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">XVE-2026-45035</guid>
             <description><![CDATA[
-                <h2>CVE-2026-14785漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-14785</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-tr9x-o4np" target="_blank">https://www.oscs1024.com/hd/MPS-tr9x-o4np</a></p>
+                <h2>SiYuan /api/search/searchEmbedBlock SQL注入漏洞</h2>
+                <p><strong>编号：</strong>XVE-2026-45035</p>
+                <p><strong>来源：</strong>微步</p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-45035" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-45035</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-14785漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-14785</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-tr9x-o4np" target="_blank">https://www.oscs1024.com/hd/MPS-tr9x-o4np</a></p>
-            ]]></content:encoded>
-        </item>
-
-        <item>
-            <title>CVE-2026-16462漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-5ode-vm9l</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-16462</guid>
-            <description><![CDATA[
-                <h2>CVE-2026-16462漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-16462</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5ode-vm9l" target="_blank">https://www.oscs1024.com/hd/MPS-5ode-vm9l</a></p>
-            ]]></description>
-            <content:encoded><![CDATA[
-                <h2>CVE-2026-16462漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-16462</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5ode-vm9l" target="_blank">https://www.oscs1024.com/hd/MPS-5ode-vm9l</a></p>
-            ]]></content:encoded>
-        </item>
-
-        <item>
-            <title>CVE-2026-14328漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-r7dw-jem0</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-14328</guid>
-            <description><![CDATA[
-                <h2>CVE-2026-14328漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-14328</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-r7dw-jem0" target="_blank">https://www.oscs1024.com/hd/MPS-r7dw-jem0</a></p>
-            ]]></description>
-            <content:encoded><![CDATA[
-                <h2>CVE-2026-14328漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-14328</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-r7dw-jem0" target="_blank">https://www.oscs1024.com/hd/MPS-r7dw-jem0</a></p>
-            ]]></content:encoded>
-        </item>
-
-        <item>
-            <title>SICK InspectorP6xx AppEngine文件系统访问控制缺陷漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-xwms-jou4</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-11841</guid>
-            <description><![CDATA[
-                <h2>SICK InspectorP6xx AppEngine文件系统访问控制缺陷漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-11841</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xwms-jou4" target="_blank">https://www.oscs1024.com/hd/MPS-xwms-jou4</a></p>
-            ]]></description>
-            <content:encoded><![CDATA[
-                <h2>SICK InspectorP6xx AppEngine文件系统访问控制缺陷漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-11841</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xwms-jou4" target="_blank">https://www.oscs1024.com/hd/MPS-xwms-jou4</a></p>
-            ]]></content:encoded>
-        </item>
-
-        <item>
-            <title>CVE-2026-11598漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-fhz4-0e6c</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-11598</guid>
-            <description><![CDATA[
-                <h2>CVE-2026-11598漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-11598</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fhz4-0e6c" target="_blank">https://www.oscs1024.com/hd/MPS-fhz4-0e6c</a></p>
-            ]]></description>
-            <content:encoded><![CDATA[
-                <h2>CVE-2026-11598漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-11598</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fhz4-0e6c" target="_blank">https://www.oscs1024.com/hd/MPS-fhz4-0e6c</a></p>
-            ]]></content:encoded>
-        </item>
-
-        <item>
-            <title>CVE-2026-10207漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-j384-znhd</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-10207</guid>
-            <description><![CDATA[
-                <h2>CVE-2026-10207漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-10207</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j384-znhd" target="_blank">https://www.oscs1024.com/hd/MPS-j384-znhd</a></p>
-            ]]></description>
-            <content:encoded><![CDATA[
-                <h2>CVE-2026-10207漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-10207</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j384-znhd" target="_blank">https://www.oscs1024.com/hd/MPS-j384-znhd</a></p>
-            ]]></content:encoded>
-        </item>
-
-        <item>
-            <title>News Theme V8 反射型跨站脚本漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-y962-01al</link>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-8167</guid>
-            <description><![CDATA[
-                <h2>News Theme V8 反射型跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-8167</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-y962-01al" target="_blank">https://www.oscs1024.com/hd/MPS-y962-01al</a></p>
-            ]]></description>
-            <content:encoded><![CDATA[
-                <h2>News Theme V8 反射型跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-8167</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-07-28</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-y962-01al" target="_blank">https://www.oscs1024.com/hd/MPS-y962-01al</a></p>
+                <h2>SiYuan /api/search/searchEmbedBlock SQL注入漏洞</h2>
+                <p><strong>编号：</strong>XVE-2026-45035</p>
+                <p><strong>来源：</strong>微步</p>
+                <p><strong>时间：</strong>2026-08-10</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-45035" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-45035</a></p>
             ]]></content:encoded>
         </item>
 
