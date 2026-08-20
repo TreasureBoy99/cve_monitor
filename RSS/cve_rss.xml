@@ -5,215 +5,215 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Wed, 19 Aug 2026 02:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 02:18:16 GMT</lastBuildDate>
 
         <item>
-            <title>CVE-2026-75978漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-4dp1-98gb</link>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-75978</guid>
+            <title>Wireshark BUSMASTER解析器进程终止漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-sdk1-zby6</link>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-76926</guid>
             <description><![CDATA[
-                <h2>CVE-2026-75978漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-75978</p>
+                <h2>Wireshark BUSMASTER解析器进程终止漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76926</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-4dp1-98gb" target="_blank">https://www.oscs1024.com/hd/MPS-4dp1-98gb</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-sdk1-zby6" target="_blank">https://www.oscs1024.com/hd/MPS-sdk1-zby6</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-75978漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-75978</p>
+                <h2>Wireshark BUSMASTER解析器进程终止漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76926</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-4dp1-98gb" target="_blank">https://www.oscs1024.com/hd/MPS-4dp1-98gb</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-sdk1-zby6" target="_blank">https://www.oscs1024.com/hd/MPS-sdk1-zby6</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-75976漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-wezj-k1y7</link>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-75976</guid>
+            <title>Wireshark Kerberos协议解析器越界读取导致拒绝服务漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-1pg2-6i5n</link>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-76924</guid>
             <description><![CDATA[
-                <h2>CVE-2026-75976漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-75976</p>
+                <h2>Wireshark Kerberos协议解析器越界读取导致拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76924</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-wezj-k1y7" target="_blank">https://www.oscs1024.com/hd/MPS-wezj-k1y7</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1pg2-6i5n" target="_blank">https://www.oscs1024.com/hd/MPS-1pg2-6i5n</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-75976漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-75976</p>
+                <h2>Wireshark Kerberos协议解析器越界读取导致拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76924</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-wezj-k1y7" target="_blank">https://www.oscs1024.com/hd/MPS-wezj-k1y7</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1pg2-6i5n" target="_blank">https://www.oscs1024.com/hd/MPS-1pg2-6i5n</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2025-11729漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-oe7r-gany</link>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2025-11729</guid>
+            <title>Wireshark X.509IF 协议解析器空指针解引用漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-qsyc-vifb</link>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-76928</guid>
             <description><![CDATA[
-                <h2>CVE-2025-11729漏洞</h2>
-                <p><strong>编号：</strong>CVE-2025-11729</p>
+                <h2>Wireshark X.509IF 协议解析器空指针解引用漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76928</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-oe7r-gany" target="_blank">https://www.oscs1024.com/hd/MPS-oe7r-gany</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qsyc-vifb" target="_blank">https://www.oscs1024.com/hd/MPS-qsyc-vifb</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2025-11729漏洞</h2>
-                <p><strong>编号：</strong>CVE-2025-11729</p>
+                <h2>Wireshark X.509IF 协议解析器空指针解引用漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76928</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-oe7r-gany" target="_blank">https://www.oscs1024.com/hd/MPS-oe7r-gany</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qsyc-vifb" target="_blank">https://www.oscs1024.com/hd/MPS-qsyc-vifb</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-66591漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-3gxq-0pzt</link>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-66591</guid>
+            <title>Wireshark H.245 协议解析器空指针解引用漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-qxu8-6vf7</link>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-76927</guid>
             <description><![CDATA[
-                <h2>CVE-2026-66591漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-66591</p>
+                <h2>Wireshark H.245 协议解析器空指针解引用漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76927</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-3gxq-0pzt" target="_blank">https://www.oscs1024.com/hd/MPS-3gxq-0pzt</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qxu8-6vf7" target="_blank">https://www.oscs1024.com/hd/MPS-qxu8-6vf7</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-66591漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-66591</p>
+                <h2>Wireshark H.245 协议解析器空指针解引用漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76927</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-3gxq-0pzt" target="_blank">https://www.oscs1024.com/hd/MPS-3gxq-0pzt</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qxu8-6vf7" target="_blank">https://www.oscs1024.com/hd/MPS-qxu8-6vf7</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-66589漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-5izn-rs4w</link>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-66589</guid>
+            <title>Wireshark pcapng解析器拒绝服务漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-r0v3-47da</link>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-76929</guid>
             <description><![CDATA[
-                <h2>CVE-2026-66589漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-66589</p>
+                <h2>Wireshark pcapng解析器拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76929</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5izn-rs4w" target="_blank">https://www.oscs1024.com/hd/MPS-5izn-rs4w</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-r0v3-47da" target="_blank">https://www.oscs1024.com/hd/MPS-r0v3-47da</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-66589漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-66589</p>
+                <h2>Wireshark pcapng解析器拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76929</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5izn-rs4w" target="_blank">https://www.oscs1024.com/hd/MPS-5izn-rs4w</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-r0v3-47da" target="_blank">https://www.oscs1024.com/hd/MPS-r0v3-47da</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-27365漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-vylx-hums</link>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-27365</guid>
+            <title>Wireshark HFP越界读取</title>
+            <link>https://www.oscs1024.com/hd/MPS-jl1r-yqkf</link>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-76923</guid>
             <description><![CDATA[
-                <h2>CVE-2026-27365漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-27365</p>
+                <h2>Wireshark HFP越界读取</h2>
+                <p><strong>编号：</strong>CVE-2026-76923</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vylx-hums" target="_blank">https://www.oscs1024.com/hd/MPS-vylx-hums</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-jl1r-yqkf" target="_blank">https://www.oscs1024.com/hd/MPS-jl1r-yqkf</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-27365漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-27365</p>
+                <h2>Wireshark HFP越界读取</h2>
+                <p><strong>编号：</strong>CVE-2026-76923</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vylx-hums" target="_blank">https://www.oscs1024.com/hd/MPS-vylx-hums</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-jl1r-yqkf" target="_blank">https://www.oscs1024.com/hd/MPS-jl1r-yqkf</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Linuxfabrik Monitoring Plugins logfile / mysql-logfile / openvpn-client-list 任意根可读文件读取</title>
-            <link>https://www.oscs1024.com/hd/MPS-gu8y-ajwz</link>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-73973</guid>
+            <title>Wireshark ESS 协议解析器未初始化 TVB 指针导致拒绝服务</title>
+            <link>https://www.oscs1024.com/hd/MPS-cqdu-jlvf</link>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-76919</guid>
             <description><![CDATA[
-                <h2>Linuxfabrik Monitoring Plugins logfile / mysql-logfile / openvpn-client-list 任意根可读文件读取</h2>
-                <p><strong>编号：</strong>CVE-2026-73973</p>
+                <h2>Wireshark ESS 协议解析器未初始化 TVB 指针导致拒绝服务</h2>
+                <p><strong>编号：</strong>CVE-2026-76919</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-gu8y-ajwz" target="_blank">https://www.oscs1024.com/hd/MPS-gu8y-ajwz</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-cqdu-jlvf" target="_blank">https://www.oscs1024.com/hd/MPS-cqdu-jlvf</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Linuxfabrik Monitoring Plugins logfile / mysql-logfile / openvpn-client-list 任意根可读文件读取</h2>
-                <p><strong>编号：</strong>CVE-2026-73973</p>
+                <h2>Wireshark ESS 协议解析器未初始化 TVB 指针导致拒绝服务</h2>
+                <p><strong>编号：</strong>CVE-2026-76919</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-gu8y-ajwz" target="_blank">https://www.oscs1024.com/hd/MPS-gu8y-ajwz</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-cqdu-jlvf" target="_blank">https://www.oscs1024.com/hd/MPS-cqdu-jlvf</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-73974漏洞</title>
-            <link>https://github.com/Linuxfabrik/monitoring-plugins/security/advisories/GHSA-rh9c-rqvg-f7pr</link>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-73974</guid>
+            <title>Wireshark sharkd 拒绝服务漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-jt4g-xc78</link>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-76891</guid>
             <description><![CDATA[
-                <h2>CVE-2026-73974漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-73974</p>
+                <h2>Wireshark sharkd 拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76891</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://github.com/Linuxfabrik/monitoring-plugins/security/advisories/GHSA-rh9c-rqvg-f7pr" target="_blank">https://github.com/Linuxfabrik/monitoring-plugins/security/advisories/GHSA-rh9c-rqvg-f7pr</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-jt4g-xc78" target="_blank">https://www.oscs1024.com/hd/MPS-jt4g-xc78</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-73974漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-73974</p>
+                <h2>Wireshark sharkd 拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76891</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://github.com/Linuxfabrik/monitoring-plugins/security/advisories/GHSA-rh9c-rqvg-f7pr" target="_blank">https://github.com/Linuxfabrik/monitoring-plugins/security/advisories/GHSA-rh9c-rqvg-f7pr</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-jt4g-xc78" target="_blank">https://www.oscs1024.com/hd/MPS-jt4g-xc78</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>HashBar CSRF漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-ozyn-p8w9</link>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-66602</guid>
+            <title>Wireshark Bluetooth AVRCP 协议解析器堆缓冲区溢出漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-dzfu-2irs</link>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-76917</guid>
             <description><![CDATA[
-                <h2>HashBar CSRF漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-66602</p>
+                <h2>Wireshark Bluetooth AVRCP 协议解析器堆缓冲区溢出漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76917</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ozyn-p8w9" target="_blank">https://www.oscs1024.com/hd/MPS-ozyn-p8w9</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dzfu-2irs" target="_blank">https://www.oscs1024.com/hd/MPS-dzfu-2irs</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>HashBar CSRF漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-66602</p>
+                <h2>Wireshark Bluetooth AVRCP 协议解析器堆缓冲区溢出漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76917</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ozyn-p8w9" target="_blank">https://www.oscs1024.com/hd/MPS-ozyn-p8w9</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dzfu-2irs" target="_blank">https://www.oscs1024.com/hd/MPS-dzfu-2irs</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>WordPress Draft List 插件存储型 XSS</title>
-            <link>https://www.oscs1024.com/hd/MPS-rago-68zk</link>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-66603</guid>
+            <title>Wireshark sharkd iograph 栈使用后释放漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-uqot-1836</link>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-76890</guid>
             <description><![CDATA[
-                <h2>WordPress Draft List 插件存储型 XSS</h2>
-                <p><strong>编号：</strong>CVE-2026-66603</p>
+                <h2>Wireshark sharkd iograph 栈使用后释放漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76890</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rago-68zk" target="_blank">https://www.oscs1024.com/hd/MPS-rago-68zk</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-uqot-1836" target="_blank">https://www.oscs1024.com/hd/MPS-uqot-1836</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>WordPress Draft List 插件存储型 XSS</h2>
-                <p><strong>编号：</strong>CVE-2026-66603</p>
+                <h2>Wireshark sharkd iograph 栈使用后释放漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-76890</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-19</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rago-68zk" target="_blank">https://www.oscs1024.com/hd/MPS-rago-68zk</a></p>
+                <p><strong>时间：</strong>2026-08-20</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-uqot-1836" target="_blank">https://www.oscs1024.com/hd/MPS-uqot-1836</a></p>
             ]]></content:encoded>
         </item>
 
