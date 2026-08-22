@@ -5,257 +5,257 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Fri, 21 Aug 2026 02:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 02:16:16 GMT</lastBuildDate>
 
         <item>
-            <title>CVE-2026-77651漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-9c0w-j63z</link>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-77651</guid>
+            <title>Tie::Hash::Regex未捕获正则异常漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-h5rm-v2q3</link>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-77781</guid>
             <description><![CDATA[
-                <h2>CVE-2026-77651漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77651</p>
+                <h2>Tie::Hash::Regex未捕获正则异常漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-77781</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9c0w-j63z" target="_blank">https://www.oscs1024.com/hd/MPS-9c0w-j63z</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h5rm-v2q3" target="_blank">https://www.oscs1024.com/hd/MPS-h5rm-v2q3</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-77651漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77651</p>
+                <h2>Tie::Hash::Regex未捕获正则异常漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-77781</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9c0w-j63z" target="_blank">https://www.oscs1024.com/hd/MPS-9c0w-j63z</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h5rm-v2q3" target="_blank">https://www.oscs1024.com/hd/MPS-h5rm-v2q3</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-77650漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-bu0n-1wq6</link>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-77650</guid>
+            <title>WeeChat 继电器解压炸弹漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-l3ih-xd4e</link>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-53524</guid>
             <description><![CDATA[
-                <h2>CVE-2026-77650漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77650</p>
+                <h2>WeeChat 继电器解压炸弹漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-53524</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bu0n-1wq6" target="_blank">https://www.oscs1024.com/hd/MPS-bu0n-1wq6</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-l3ih-xd4e" target="_blank">https://www.oscs1024.com/hd/MPS-l3ih-xd4e</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-77650漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77650</p>
+                <h2>WeeChat 继电器解压炸弹漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-53524</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bu0n-1wq6" target="_blank">https://www.oscs1024.com/hd/MPS-bu0n-1wq6</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-l3ih-xd4e" target="_blank">https://www.oscs1024.com/hd/MPS-l3ih-xd4e</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-77649漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-t2r4-yd9f</link>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-77649</guid>
+            <title>WeeChat中继认证非恒定时间密码比较漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-6d84-2rxk</link>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-53525</guid>
             <description><![CDATA[
-                <h2>CVE-2026-77649漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77649</p>
+                <h2>WeeChat中继认证非恒定时间密码比较漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-53525</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-t2r4-yd9f" target="_blank">https://www.oscs1024.com/hd/MPS-t2r4-yd9f</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-6d84-2rxk" target="_blank">https://www.oscs1024.com/hd/MPS-6d84-2rxk</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-77649漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77649</p>
+                <h2>WeeChat中继认证非恒定时间密码比较漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-53525</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-t2r4-yd9f" target="_blank">https://www.oscs1024.com/hd/MPS-t2r4-yd9f</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-6d84-2rxk" target="_blank">https://www.oscs1024.com/hd/MPS-6d84-2rxk</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-16520漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-e34x-pb6i</link>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-16520</guid>
+            <title>FORT Validator 跨源 RRDP 快照投毒漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-rjub-ew1s</link>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-53499</guid>
             <description><![CDATA[
-                <h2>CVE-2026-16520漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-16520</p>
+                <h2>FORT Validator 跨源 RRDP 快照投毒漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-53499</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-e34x-pb6i" target="_blank">https://www.oscs1024.com/hd/MPS-e34x-pb6i</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rjub-ew1s" target="_blank">https://www.oscs1024.com/hd/MPS-rjub-ew1s</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-16520漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-16520</p>
+                <h2>FORT Validator 跨源 RRDP 快照投毒漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-53499</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-e34x-pb6i" target="_blank">https://www.oscs1024.com/hd/MPS-e34x-pb6i</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rjub-ew1s" target="_blank">https://www.oscs1024.com/hd/MPS-rjub-ew1s</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-77648漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-72rs-cy8d</link>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-77648</guid>
+            <title>OliveTin ot_前缀参数绕过输入过滤漏洞</title>
+            <link>https://github.com/OliveTin/OliveTin/security/advisories/GHSA-prj9-97mp-mwh2</link>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-53541</guid>
             <description><![CDATA[
-                <h2>CVE-2026-77648漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77648</p>
+                <h2>OliveTin ot_前缀参数绕过输入过滤漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-53541</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-72rs-cy8d" target="_blank">https://www.oscs1024.com/hd/MPS-72rs-cy8d</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://github.com/OliveTin/OliveTin/security/advisories/GHSA-prj9-97mp-mwh2" target="_blank">https://github.com/OliveTin/OliveTin/security/advisories/GHSA-prj9-97mp-mwh2</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-77648漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77648</p>
+                <h2>OliveTin ot_前缀参数绕过输入过滤漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-53541</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-72rs-cy8d" target="_blank">https://www.oscs1024.com/hd/MPS-72rs-cy8d</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://github.com/OliveTin/OliveTin/security/advisories/GHSA-prj9-97mp-mwh2" target="_blank">https://github.com/OliveTin/OliveTin/security/advisories/GHSA-prj9-97mp-mwh2</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-77113漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-fga6-mdji</link>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-77113</guid>
+            <title>Arc Enterprise Raft FSM 路径校验缺失漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-1rai-7v30</link>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-48105</guid>
             <description><![CDATA[
-                <h2>CVE-2026-77113漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77113</p>
+                <h2>Arc Enterprise Raft FSM 路径校验缺失漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-48105</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fga6-mdji" target="_blank">https://www.oscs1024.com/hd/MPS-fga6-mdji</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1rai-7v30" target="_blank">https://www.oscs1024.com/hd/MPS-1rai-7v30</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-77113漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77113</p>
+                <h2>Arc Enterprise Raft FSM 路径校验缺失漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-48105</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fga6-mdji" target="_blank">https://www.oscs1024.com/hd/MPS-fga6-mdji</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1rai-7v30" target="_blank">https://www.oscs1024.com/hd/MPS-1rai-7v30</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-77647漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-2clr-f48d</link>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-77647</guid>
+            <title>Arc Enterprise 集群复制接收端缺失应用层认证漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-j6pk-nuec</link>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-48106</guid>
             <description><![CDATA[
-                <h2>CVE-2026-77647漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77647</p>
+                <h2>Arc Enterprise 集群复制接收端缺失应用层认证漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-48106</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2clr-f48d" target="_blank">https://www.oscs1024.com/hd/MPS-2clr-f48d</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j6pk-nuec" target="_blank">https://www.oscs1024.com/hd/MPS-j6pk-nuec</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-77647漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77647</p>
+                <h2>Arc Enterprise 集群复制接收端缺失应用层认证漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-48106</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2clr-f48d" target="_blank">https://www.oscs1024.com/hd/MPS-2clr-f48d</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j6pk-nuec" target="_blank">https://www.oscs1024.com/hd/MPS-j6pk-nuec</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-77643漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-27he-46ct</link>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-77643</guid>
+            <title>Arc pprof端点未授权访问漏洞</title>
+            <link>https://github.com/Basekick-Labs/arc/security/advisories/GHSA-j93g-rp6m-j32m</link>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-48050</guid>
             <description><![CDATA[
-                <h2>CVE-2026-77643漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77643</p>
+                <h2>Arc pprof端点未授权访问漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-48050</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-27he-46ct" target="_blank">https://www.oscs1024.com/hd/MPS-27he-46ct</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://github.com/Basekick-Labs/arc/security/advisories/GHSA-j93g-rp6m-j32m" target="_blank">https://github.com/Basekick-Labs/arc/security/advisories/GHSA-j93g-rp6m-j32m</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-77643漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77643</p>
+                <h2>Arc pprof端点未授权访问漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-48050</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-27he-46ct" target="_blank">https://www.oscs1024.com/hd/MPS-27he-46ct</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://github.com/Basekick-Labs/arc/security/advisories/GHSA-j93g-rp6m-j32m" target="_blank">https://github.com/Basekick-Labs/arc/security/advisories/GHSA-j93g-rp6m-j32m</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>PTC PLM反序列化RCE漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-usyg-net5</link>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-77645</guid>
+            <title>Recce query run API 未授权 DuckDB SQL 执行导致本地文件读写漏洞</title>
+            <link>https://github.com/DataRecce/recce/security/advisories/GHSA-rh62-j648-g5qc</link>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-49360</guid>
             <description><![CDATA[
-                <h2>PTC PLM反序列化RCE漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77645</p>
+                <h2>Recce query run API 未授权 DuckDB SQL 执行导致本地文件读写漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-49360</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-usyg-net5" target="_blank">https://www.oscs1024.com/hd/MPS-usyg-net5</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://github.com/DataRecce/recce/security/advisories/GHSA-rh62-j648-g5qc" target="_blank">https://github.com/DataRecce/recce/security/advisories/GHSA-rh62-j648-g5qc</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>PTC PLM反序列化RCE漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77645</p>
+                <h2>Recce query run API 未授权 DuckDB SQL 执行导致本地文件读写漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-49360</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-usyg-net5" target="_blank">https://www.oscs1024.com/hd/MPS-usyg-net5</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://github.com/DataRecce/recce/security/advisories/GHSA-rh62-j648-g5qc" target="_blank">https://github.com/DataRecce/recce/security/advisories/GHSA-rh62-j648-g5qc</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-77642漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-ognc-av43</link>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-77642</guid>
+            <title>Arc DuckDB I/O函数任意文件读取漏洞</title>
+            <link>https://github.com/Basekick-Labs/arc/security/advisories/GHSA-p2j4-c4g6-rpf5</link>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-47735</guid>
             <description><![CDATA[
-                <h2>CVE-2026-77642漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77642</p>
+                <h2>Arc DuckDB I/O函数任意文件读取漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-47735</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ognc-av43" target="_blank">https://www.oscs1024.com/hd/MPS-ognc-av43</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://github.com/Basekick-Labs/arc/security/advisories/GHSA-p2j4-c4g6-rpf5" target="_blank">https://github.com/Basekick-Labs/arc/security/advisories/GHSA-p2j4-c4g6-rpf5</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-77642漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-77642</p>
+                <h2>Arc DuckDB I/O函数任意文件读取漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-47735</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ognc-av43" target="_blank">https://www.oscs1024.com/hd/MPS-ognc-av43</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://github.com/Basekick-Labs/arc/security/advisories/GHSA-p2j4-c4g6-rpf5" target="_blank">https://github.com/Basekick-Labs/arc/security/advisories/GHSA-p2j4-c4g6-rpf5</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Apache Struts ognl 表达式注入 远程命令执行漏洞</title>
-            <link>https://x.threatbook.com/v5/vul/XVE-2013-3915</link>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">XVE-2013-3915</guid>
+            <title>Zimbra Collaboration Suite 任意文件上传漏洞</title>
+            <link>https://x.threatbook.com/v5/vul/XVE-2022-7180</link>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">XVE-2022-7180</guid>
             <description><![CDATA[
-                <h2>Apache Struts ognl 表达式注入 远程命令执行漏洞</h2>
-                <p><strong>编号：</strong>XVE-2013-3915</p>
+                <h2>Zimbra Collaboration Suite 任意文件上传漏洞</h2>
+                <p><strong>编号：</strong>XVE-2022-7180</p>
                 <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2013-3915" target="_blank">https://x.threatbook.com/v5/vul/XVE-2013-3915</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2022-7180" target="_blank">https://x.threatbook.com/v5/vul/XVE-2022-7180</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Apache Struts ognl 表达式注入 远程命令执行漏洞</h2>
-                <p><strong>编号：</strong>XVE-2013-3915</p>
+                <h2>Zimbra Collaboration Suite 任意文件上传漏洞</h2>
+                <p><strong>编号：</strong>XVE-2022-7180</p>
                 <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2013-3915" target="_blank">https://x.threatbook.com/v5/vul/XVE-2013-3915</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2022-7180" target="_blank">https://x.threatbook.com/v5/vul/XVE-2022-7180</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>帆软报表 V8 ReportServer 任意文件读取漏洞</title>
-            <link>https://x.threatbook.com/v5/vul/XVE-2018-0247</link>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">XVE-2018-0247</guid>
+            <title>JeecgBoot<3.5.3 loadTreeData sql 注入漏洞</title>
+            <link>https://x.threatbook.com/v5/vul/XVE-2023-22989</link>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">XVE-2023-22989</guid>
             <description><![CDATA[
-                <h2>帆软报表 V8 ReportServer 任意文件读取漏洞</h2>
-                <p><strong>编号：</strong>XVE-2018-0247</p>
+                <h2>JeecgBoot<3.5.3 loadTreeData sql 注入漏洞</h2>
+                <p><strong>编号：</strong>XVE-2023-22989</p>
                 <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2018-0247" target="_blank">https://x.threatbook.com/v5/vul/XVE-2018-0247</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2023-22989" target="_blank">https://x.threatbook.com/v5/vul/XVE-2023-22989</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>帆软报表 V8 ReportServer 任意文件读取漏洞</h2>
-                <p><strong>编号：</strong>XVE-2018-0247</p>
+                <h2>JeecgBoot<3.5.3 loadTreeData sql 注入漏洞</h2>
+                <p><strong>编号：</strong>XVE-2023-22989</p>
                 <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-08-21</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2018-0247" target="_blank">https://x.threatbook.com/v5/vul/XVE-2018-0247</a></p>
+                <p><strong>时间：</strong>2026-08-22</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2023-22989" target="_blank">https://x.threatbook.com/v5/vul/XVE-2023-22989</a></p>
             ]]></content:encoded>
         </item>
 
