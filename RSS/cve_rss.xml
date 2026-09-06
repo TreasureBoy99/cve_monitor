@@ -5,236 +5,236 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Sat, 05 Sep 2026 05:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 05:37:46 GMT</lastBuildDate>
 
         <item>
-            <title>YesWiki Bazar 表单字段模板存储型跨站脚本漏洞</title>
-            <link>https://github.com/YesWiki/yeswiki/security/advisories/GHSA-xc7j-3g8q-9vh4</link>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-52772</guid>
+            <title>CVE-2026-86167漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-xvuh-jafz</link>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-86167</guid>
             <description><![CDATA[
-                <h2>YesWiki Bazar 表单字段模板存储型跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52772</p>
+                <h2>CVE-2026-86167漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86167</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-xc7j-3g8q-9vh4" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-xc7j-3g8q-9vh4</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xvuh-jafz" target="_blank">https://www.oscs1024.com/hd/MPS-xvuh-jafz</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>YesWiki Bazar 表单字段模板存储型跨站脚本漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52772</p>
+                <h2>CVE-2026-86167漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86167</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-xc7j-3g8q-9vh4" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-xc7j-3g8q-9vh4</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xvuh-jafz" target="_blank">https://www.oscs1024.com/hd/MPS-xvuh-jafz</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>YesWiki handlers/page/show.php 反射型 XSS 漏洞</title>
-            <link>https://github.com/YesWiki/yeswiki/security/advisories/GHSA-35f3-pg38-486f</link>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-52773</guid>
+            <title>CVE-2026-86168漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-7cqb-ozgj</link>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-86168</guid>
             <description><![CDATA[
-                <h2>YesWiki handlers/page/show.php 反射型 XSS 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52773</p>
+                <h2>CVE-2026-86168漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86168</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-35f3-pg38-486f" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-35f3-pg38-486f</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-7cqb-ozgj" target="_blank">https://www.oscs1024.com/hd/MPS-7cqb-ozgj</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>YesWiki handlers/page/show.php 反射型 XSS 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52773</p>
+                <h2>CVE-2026-86168漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86168</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-35f3-pg38-486f" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-35f3-pg38-486f</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-7cqb-ozgj" target="_blank">https://www.oscs1024.com/hd/MPS-7cqb-ozgj</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>YesWiki Bazar Widget 反射型 XSS 漏洞</title>
-            <link>https://github.com/YesWiki/yeswiki/security/advisories/GHSA-r5xw-gcgw-hwp5</link>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-52774</guid>
+            <title>Tenda HG10缓冲区溢出漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-v8oy-eudz</link>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-86166</guid>
             <description><![CDATA[
-                <h2>YesWiki Bazar Widget 反射型 XSS 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52774</p>
+                <h2>Tenda HG10缓冲区溢出漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86166</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-r5xw-gcgw-hwp5" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-r5xw-gcgw-hwp5</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-v8oy-eudz" target="_blank">https://www.oscs1024.com/hd/MPS-v8oy-eudz</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>YesWiki Bazar Widget 反射型 XSS 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52774</p>
+                <h2>Tenda HG10缓冲区溢出漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86166</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-r5xw-gcgw-hwp5" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-r5xw-gcgw-hwp5</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-v8oy-eudz" target="_blank">https://www.oscs1024.com/hd/MPS-v8oy-eudz</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>YesWiki BazarImportAction PHP 对象注入漏洞</title>
-            <link>https://github.com/YesWiki/yeswiki/security/advisories/GHSA-9369-69wj-7m2f</link>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-52777</guid>
+            <title>腾达HG10缓冲区溢出漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-h1ta-ro3n</link>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-86165</guid>
             <description><![CDATA[
-                <h2>YesWiki BazarImportAction PHP 对象注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52777</p>
+                <h2>腾达HG10缓冲区溢出漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86165</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-9369-69wj-7m2f" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-9369-69wj-7m2f</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h1ta-ro3n" target="_blank">https://www.oscs1024.com/hd/MPS-h1ta-ro3n</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>YesWiki BazarImportAction PHP 对象注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52777</p>
+                <h2>腾达HG10缓冲区溢出漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86165</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-9369-69wj-7m2f" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-9369-69wj-7m2f</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h1ta-ro3n" target="_blank">https://www.oscs1024.com/hd/MPS-h1ta-ro3n</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-86100漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-596a-kfip</link>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-86100</guid>
+            <title>Sales and Inventory System SQL注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-0s5a-dn4b</link>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-86164</guid>
             <description><![CDATA[
-                <h2>CVE-2026-86100漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-86100</p>
+                <h2>Sales and Inventory System SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86164</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-596a-kfip" target="_blank">https://www.oscs1024.com/hd/MPS-596a-kfip</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0s5a-dn4b" target="_blank">https://www.oscs1024.com/hd/MPS-0s5a-dn4b</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-86100漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-86100</p>
+                <h2>Sales and Inventory System SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86164</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-596a-kfip" target="_blank">https://www.oscs1024.com/hd/MPS-596a-kfip</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0s5a-dn4b" target="_blank">https://www.oscs1024.com/hd/MPS-0s5a-dn4b</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>YesWiki ReactionManager 已认证 SQL 注入漏洞</title>
-            <link>https://github.com/YesWiki/yeswiki/security/advisories/GHSA-4pf7-cc4r-g63h</link>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-52775</guid>
+            <title>Sales and Inventory System SQL注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-wsr6-feb1</link>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-86163</guid>
             <description><![CDATA[
-                <h2>YesWiki ReactionManager 已认证 SQL 注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52775</p>
+                <h2>Sales and Inventory System SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86163</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-4pf7-cc4r-g63h" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-4pf7-cc4r-g63h</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-wsr6-feb1" target="_blank">https://www.oscs1024.com/hd/MPS-wsr6-feb1</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>YesWiki ReactionManager 已认证 SQL 注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52775</p>
+                <h2>Sales and Inventory System SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86163</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-4pf7-cc4r-g63h" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-4pf7-cc4r-g63h</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-wsr6-feb1" target="_blank">https://www.oscs1024.com/hd/MPS-wsr6-feb1</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>YesWiki ActivityPub 签名验证绕过漏洞</title>
-            <link>https://github.com/YesWiki/yeswiki/security/advisories/GHSA-mv28-wj57-f57g</link>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-52767</guid>
+            <title>Online Voting System SQL注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-k5s0-e47y</link>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-86162</guid>
             <description><![CDATA[
-                <h2>YesWiki ActivityPub 签名验证绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52767</p>
+                <h2>Online Voting System SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86162</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-mv28-wj57-f57g" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-mv28-wj57-f57g</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-k5s0-e47y" target="_blank">https://www.oscs1024.com/hd/MPS-k5s0-e47y</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>YesWiki ActivityPub 签名验证绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52767</p>
+                <h2>Online Voting System SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86162</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-mv28-wj57-f57g" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-mv28-wj57-f57g</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-k5s0-e47y" target="_blank">https://www.oscs1024.com/hd/MPS-k5s0-e47y</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>YesWiki 公共 Bazar 列表 API 数值过滤器 SQL 注入漏洞</title>
-            <link>https://github.com/YesWiki/yeswiki/security/advisories/GHSA-qg78-vmvc-fhjw</link>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-52770</guid>
+            <title>在线投票系统SQL注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-y6j9-8b0f</link>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-86161</guid>
             <description><![CDATA[
-                <h2>YesWiki 公共 Bazar 列表 API 数值过滤器 SQL 注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52770</p>
+                <h2>在线投票系统SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86161</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-qg78-vmvc-fhjw" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-qg78-vmvc-fhjw</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-y6j9-8b0f" target="_blank">https://www.oscs1024.com/hd/MPS-y6j9-8b0f</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>YesWiki 公共 Bazar 列表 API 数值过滤器 SQL 注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52770</p>
+                <h2>在线投票系统SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86161</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-qg78-vmvc-fhjw" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-qg78-vmvc-fhjw</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-y6j9-8b0f" target="_blank">https://www.oscs1024.com/hd/MPS-y6j9-8b0f</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>YesWiki 未经身份验证 SSRF 漏洞</title>
-            <link>https://github.com/YesWiki/yeswiki/security/advisories/GHSA-vw42-752g-5mrp</link>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-52769</guid>
+            <title>N-central 认证前远程代码执行漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-bsim-txon</link>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-86218</guid>
             <description><![CDATA[
-                <h2>YesWiki 未经身份验证 SSRF 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52769</p>
+                <h2>N-central 认证前远程代码执行漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86218</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-vw42-752g-5mrp" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-vw42-752g-5mrp</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bsim-txon" target="_blank">https://www.oscs1024.com/hd/MPS-bsim-txon</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>YesWiki 未经身份验证 SSRF 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52769</p>
+                <h2>N-central 认证前远程代码执行漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86218</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-vw42-752g-5mrp" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-vw42-752g-5mrp</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bsim-txon" target="_blank">https://www.oscs1024.com/hd/MPS-bsim-txon</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>YesWiki erasespamedcomments 动作未授权任意页面删除漏洞</title>
-            <link>https://github.com/YesWiki/yeswiki/security/advisories/GHSA-6x7x-gcmf-7r8x</link>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-52766</guid>
+            <title>在线投票系统SQL注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-bmxy-oz78</link>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-86160</guid>
             <description><![CDATA[
-                <h2>YesWiki erasespamedcomments 动作未授权任意页面删除漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52766</p>
+                <h2>在线投票系统SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86160</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-6x7x-gcmf-7r8x" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-6x7x-gcmf-7r8x</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bmxy-oz78" target="_blank">https://www.oscs1024.com/hd/MPS-bmxy-oz78</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>YesWiki erasespamedcomments 动作未授权任意页面删除漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-52766</p>
+                <h2>在线投票系统SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86160</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://github.com/YesWiki/yeswiki/security/advisories/GHSA-6x7x-gcmf-7r8x" target="_blank">https://github.com/YesWiki/yeswiki/security/advisories/GHSA-6x7x-gcmf-7r8x</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bmxy-oz78" target="_blank">https://www.oscs1024.com/hd/MPS-bmxy-oz78</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Pivotal Software Reactor Netty路径遍历漏洞</title>
-            <link>https://x.threatbook.com/v5/vul/XVE-2023-17093</link>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">XVE-2023-17093</guid>
+            <title>Jenkins 远程代码执行漏洞</title>
+            <link>https://x.threatbook.com/v5/vul/XVE-2026-57747</link>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">XVE-2026-57747</guid>
             <description><![CDATA[
-                <h2>Pivotal Software Reactor Netty路径遍历漏洞</h2>
-                <p><strong>编号：</strong>XVE-2023-17093</p>
+                <h2>Jenkins 远程代码执行漏洞</h2>
+                <p><strong>编号：</strong>XVE-2026-57747</p>
                 <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2023-17093" target="_blank">https://x.threatbook.com/v5/vul/XVE-2023-17093</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-57747" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-57747</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Pivotal Software Reactor Netty路径遍历漏洞</h2>
-                <p><strong>编号：</strong>XVE-2023-17093</p>
+                <h2>Jenkins 远程代码执行漏洞</h2>
+                <p><strong>编号：</strong>XVE-2026-57747</p>
                 <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-09-05</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2023-17093" target="_blank">https://x.threatbook.com/v5/vul/XVE-2023-17093</a></p>
+                <p><strong>时间：</strong>2026-09-06</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-57747" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-57747</a></p>
             ]]></content:encoded>
         </item>
 
