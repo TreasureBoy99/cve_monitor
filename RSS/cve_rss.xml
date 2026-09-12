@@ -5,236 +5,236 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Fri, 11 Sep 2026 05:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 05:28:26 GMT</lastBuildDate>
 
         <item>
-            <title>GitLab仓库提交API未授权任意文件读取漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-rwqe-01ix</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-85706</guid>
+            <title>Deserialization of Untrusted Data in GitLab</title>
+            <link>https://www.oscs1024.com/hd/MPS-f7px-62qe</link>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-87719</guid>
             <description><![CDATA[
-                <h2>GitLab仓库提交API未授权任意文件读取漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-85706</p>
+                <h2>Deserialization of Untrusted Data in GitLab</h2>
+                <p><strong>编号：</strong>CVE-2026-87719</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rwqe-01ix" target="_blank">https://www.oscs1024.com/hd/MPS-rwqe-01ix</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-f7px-62qe" target="_blank">https://www.oscs1024.com/hd/MPS-f7px-62qe</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>GitLab仓库提交API未授权任意文件读取漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-85706</p>
+                <h2>Deserialization of Untrusted Data in GitLab</h2>
+                <p><strong>编号：</strong>CVE-2026-87719</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rwqe-01ix" target="_blank">https://www.oscs1024.com/hd/MPS-rwqe-01ix</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-f7px-62qe" target="_blank">https://www.oscs1024.com/hd/MPS-f7px-62qe</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>PCRE2 快路径错误释放漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-def1-6t8n</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-89161</guid>
+            <title>aiosmtplib before 5.1.3 ESMTP Parameter Injection via unvalidated addresses</title>
+            <link>https://www.oscs1024.com/hd/MPS-nflj-0bxw</link>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-90467</guid>
             <description><![CDATA[
-                <h2>PCRE2 快路径错误释放漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-89161</p>
+                <h2>aiosmtplib before 5.1.3 ESMTP Parameter Injection via unvalidated addresses</h2>
+                <p><strong>编号：</strong>CVE-2026-90467</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-def1-6t8n" target="_blank">https://www.oscs1024.com/hd/MPS-def1-6t8n</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-nflj-0bxw" target="_blank">https://www.oscs1024.com/hd/MPS-nflj-0bxw</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>PCRE2 快路径错误释放漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-89161</p>
+                <h2>aiosmtplib before 5.1.3 ESMTP Parameter Injection via unvalidated addresses</h2>
+                <p><strong>编号：</strong>CVE-2026-90467</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-def1-6t8n" target="_blank">https://www.oscs1024.com/hd/MPS-def1-6t8n</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-nflj-0bxw" target="_blank">https://www.oscs1024.com/hd/MPS-nflj-0bxw</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>PCRE2 越界读取漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-ujw8-dni6</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-89160</guid>
+            <title>QloApps through 1.7.0 Reflected XSS via List Filter Parameters</title>
+            <link>https://www.oscs1024.com/hd/MPS-pl4c-foa1</link>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-89268</guid>
             <description><![CDATA[
-                <h2>PCRE2 越界读取漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-89160</p>
+                <h2>QloApps through 1.7.0 Reflected XSS via List Filter Parameters</h2>
+                <p><strong>编号：</strong>CVE-2026-89268</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ujw8-dni6" target="_blank">https://www.oscs1024.com/hd/MPS-ujw8-dni6</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pl4c-foa1" target="_blank">https://www.oscs1024.com/hd/MPS-pl4c-foa1</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>PCRE2 越界读取漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-89160</p>
+                <h2>QloApps through 1.7.0 Reflected XSS via List Filter Parameters</h2>
+                <p><strong>编号：</strong>CVE-2026-89268</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ujw8-dni6" target="_blank">https://www.oscs1024.com/hd/MPS-ujw8-dni6</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pl4c-foa1" target="_blank">https://www.oscs1024.com/hd/MPS-pl4c-foa1</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>MIPL WooCommerce插件任意文件上传漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-pg8l-6z2w</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-8778</guid>
+            <title>starlette-admin 0.16.1 through 0.17.1 Searchable Fields Allowlist Bypass</title>
+            <link>https://www.oscs1024.com/hd/MPS-zgxs-8ja9</link>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-89267</guid>
             <description><![CDATA[
-                <h2>MIPL WooCommerce插件任意文件上传漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-8778</p>
+                <h2>starlette-admin 0.16.1 through 0.17.1 Searchable Fields Allowlist Bypass</h2>
+                <p><strong>编号：</strong>CVE-2026-89267</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pg8l-6z2w" target="_blank">https://www.oscs1024.com/hd/MPS-pg8l-6z2w</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-zgxs-8ja9" target="_blank">https://www.oscs1024.com/hd/MPS-zgxs-8ja9</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>MIPL WooCommerce插件任意文件上传漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-8778</p>
+                <h2>starlette-admin 0.16.1 through 0.17.1 Searchable Fields Allowlist Bypass</h2>
+                <p><strong>编号：</strong>CVE-2026-89267</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pg8l-6z2w" target="_blank">https://www.oscs1024.com/hd/MPS-pg8l-6z2w</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-zgxs-8ja9" target="_blank">https://www.oscs1024.com/hd/MPS-zgxs-8ja9</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>PCRE2 整数溢出越界写入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-6s0j-15yz</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-89158</guid>
+            <title>stb_vorbis through 1.22 heap buffer overflow via codebook multiplicands</title>
+            <link>https://www.oscs1024.com/hd/MPS-vwx1-ogys</link>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-89266</guid>
             <description><![CDATA[
-                <h2>PCRE2 整数溢出越界写入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-89158</p>
+                <h2>stb_vorbis through 1.22 heap buffer overflow via codebook multiplicands</h2>
+                <p><strong>编号：</strong>CVE-2026-89266</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-6s0j-15yz" target="_blank">https://www.oscs1024.com/hd/MPS-6s0j-15yz</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vwx1-ogys" target="_blank">https://www.oscs1024.com/hd/MPS-vwx1-ogys</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>PCRE2 整数溢出越界写入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-89158</p>
+                <h2>stb_vorbis through 1.22 heap buffer overflow via codebook multiplicands</h2>
+                <p><strong>编号：</strong>CVE-2026-89266</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-6s0j-15yz" target="_blank">https://www.oscs1024.com/hd/MPS-6s0j-15yz</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vwx1-ogys" target="_blank">https://www.oscs1024.com/hd/MPS-vwx1-ogys</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>PCRE2 JIT 回退越界读漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-1zph-e75y</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-89156</guid>
+            <title>CVE-2026-90457漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-oy6r-i8qt</link>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-90457</guid>
             <description><![CDATA[
-                <h2>PCRE2 JIT 回退越界读漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-89156</p>
+                <h2>CVE-2026-90457漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90457</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1zph-e75y" target="_blank">https://www.oscs1024.com/hd/MPS-1zph-e75y</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-oy6r-i8qt" target="_blank">https://www.oscs1024.com/hd/MPS-oy6r-i8qt</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>PCRE2 JIT 回退越界读漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-89156</p>
+                <h2>CVE-2026-90457漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90457</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1zph-e75y" target="_blank">https://www.oscs1024.com/hd/MPS-1zph-e75y</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-oy6r-i8qt" target="_blank">https://www.oscs1024.com/hd/MPS-oy6r-i8qt</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>PCRE2 堆越界写入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-v625-pb17</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-89157</guid>
+            <title>CVE-2026-90461漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-u7d8-jvcp</link>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-90461</guid>
             <description><![CDATA[
-                <h2>PCRE2 堆越界写入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-89157</p>
+                <h2>CVE-2026-90461漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90461</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-v625-pb17" target="_blank">https://www.oscs1024.com/hd/MPS-v625-pb17</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-u7d8-jvcp" target="_blank">https://www.oscs1024.com/hd/MPS-u7d8-jvcp</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>PCRE2 堆越界写入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-89157</p>
+                <h2>CVE-2026-90461漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90461</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-v625-pb17" target="_blank">https://www.oscs1024.com/hd/MPS-v625-pb17</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-u7d8-jvcp" target="_blank">https://www.oscs1024.com/hd/MPS-u7d8-jvcp</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>WP-Members 插件反射型 XSS</title>
-            <link>https://www.oscs1024.com/hd/MPS-czq4-8v2w</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-84960</guid>
+            <title>CVE-2026-90460漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-8do2-7pj5</link>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-90460</guid>
             <description><![CDATA[
-                <h2>WP-Members 插件反射型 XSS</h2>
-                <p><strong>编号：</strong>CVE-2026-84960</p>
+                <h2>CVE-2026-90460漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90460</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-czq4-8v2w" target="_blank">https://www.oscs1024.com/hd/MPS-czq4-8v2w</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8do2-7pj5" target="_blank">https://www.oscs1024.com/hd/MPS-8do2-7pj5</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>WP-Members 插件反射型 XSS</h2>
-                <p><strong>编号：</strong>CVE-2026-84960</p>
+                <h2>CVE-2026-90460漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90460</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-czq4-8v2w" target="_blank">https://www.oscs1024.com/hd/MPS-czq4-8v2w</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8do2-7pj5" target="_blank">https://www.oscs1024.com/hd/MPS-8do2-7pj5</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Simple Ajax Chat 存储型 XSS</title>
-            <link>https://www.oscs1024.com/hd/MPS-asj8-fw3g</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-81825</guid>
+            <title>CVE-2026-90456漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-e1g8-57n3</link>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-90456</guid>
             <description><![CDATA[
-                <h2>Simple Ajax Chat 存储型 XSS</h2>
-                <p><strong>编号：</strong>CVE-2026-81825</p>
+                <h2>CVE-2026-90456漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90456</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-asj8-fw3g" target="_blank">https://www.oscs1024.com/hd/MPS-asj8-fw3g</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-e1g8-57n3" target="_blank">https://www.oscs1024.com/hd/MPS-e1g8-57n3</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Simple Ajax Chat 存储型 XSS</h2>
-                <p><strong>编号：</strong>CVE-2026-81825</p>
+                <h2>CVE-2026-90456漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90456</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-asj8-fw3g" target="_blank">https://www.oscs1024.com/hd/MPS-asj8-fw3g</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-e1g8-57n3" target="_blank">https://www.oscs1024.com/hd/MPS-e1g8-57n3</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Vigilant插件存储型XSS漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-dez8-goyf</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-81754</guid>
+            <title>CVE-2026-90451漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-cty9-v6aq</link>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-90451</guid>
             <description><![CDATA[
-                <h2>Vigilant插件存储型XSS漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-81754</p>
+                <h2>CVE-2026-90451漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90451</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dez8-goyf" target="_blank">https://www.oscs1024.com/hd/MPS-dez8-goyf</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-cty9-v6aq" target="_blank">https://www.oscs1024.com/hd/MPS-cty9-v6aq</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Vigilant插件存储型XSS漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-81754</p>
+                <h2>CVE-2026-90451漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90451</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dez8-goyf" target="_blank">https://www.oscs1024.com/hd/MPS-dez8-goyf</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-cty9-v6aq" target="_blank">https://www.oscs1024.com/hd/MPS-cty9-v6aq</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>ClamAV PESpin 解包器堆缓冲区溢出漏洞</title>
-            <link>https://x.threatbook.com/v5/vul/XVE-2026-46443</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">XVE-2026-46443</guid>
+            <title>GitLab CE/EE 仓库提交 API 路径遍历漏洞</title>
+            <link>https://x.threatbook.com/v5/vul/XVE-2026-61912</link>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">XVE-2026-61912</guid>
             <description><![CDATA[
-                <h2>ClamAV PESpin 解包器堆缓冲区溢出漏洞</h2>
-                <p><strong>编号：</strong>XVE-2026-46443</p>
+                <h2>GitLab CE/EE 仓库提交 API 路径遍历漏洞</h2>
+                <p><strong>编号：</strong>XVE-2026-61912</p>
                 <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-46443" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-46443</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-61912" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-61912</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>ClamAV PESpin 解包器堆缓冲区溢出漏洞</h2>
-                <p><strong>编号：</strong>XVE-2026-46443</p>
+                <h2>GitLab CE/EE 仓库提交 API 路径遍历漏洞</h2>
+                <p><strong>编号：</strong>XVE-2026-61912</p>
                 <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-09-11</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-46443" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-46443</a></p>
+                <p><strong>时间：</strong>2026-09-12</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-61912" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-61912</a></p>
             ]]></content:encoded>
         </item>
 
