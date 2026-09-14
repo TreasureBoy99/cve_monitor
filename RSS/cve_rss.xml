@@ -5,215 +5,215 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Sun, 13 Sep 2026 05:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 05:55:02 GMT</lastBuildDate>
 
         <item>
-            <title>CVE-2026-90679 漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-2ypt-v5uo</link>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-90679</guid>
+            <title>GPAC MP4Box断言漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-ulpm-eiwo</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-90684</guid>
             <description><![CDATA[
-                <h2>CVE-2026-90679 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-90679</p>
+                <h2>GPAC MP4Box断言漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90684</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2ypt-v5uo" target="_blank">https://www.oscs1024.com/hd/MPS-2ypt-v5uo</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ulpm-eiwo" target="_blank">https://www.oscs1024.com/hd/MPS-ulpm-eiwo</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-90679 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-90679</p>
+                <h2>GPAC MP4Box断言漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90684</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2ypt-v5uo" target="_blank">https://www.oscs1024.com/hd/MPS-2ypt-v5uo</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ulpm-eiwo" target="_blank">https://www.oscs1024.com/hd/MPS-ulpm-eiwo</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-90678漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-86qp-7i4b</link>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-90678</guid>
+            <title>jhead堆缓冲区溢出漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-09dp-1avr</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-90682</guid>
             <description><![CDATA[
-                <h2>CVE-2026-90678漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-90678</p>
+                <h2>jhead堆缓冲区溢出漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90682</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-86qp-7i4b" target="_blank">https://www.oscs1024.com/hd/MPS-86qp-7i4b</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-09dp-1avr" target="_blank">https://www.oscs1024.com/hd/MPS-09dp-1avr</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-90678漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-90678</p>
+                <h2>jhead堆缓冲区溢出漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90682</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-86qp-7i4b" target="_blank">https://www.oscs1024.com/hd/MPS-86qp-7i4b</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-09dp-1avr" target="_blank">https://www.oscs1024.com/hd/MPS-09dp-1avr</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Fengoffice Feng Office Legacy API CompanyWebsite.class.php instance->findAll sql injection</title>
-            <link>https://www.oscs1024.com/hd/MPS-boe3-txwg</link>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-90495</guid>
+            <title>GPAC可达断言漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-pwus-1jfe</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-90683</guid>
             <description><![CDATA[
-                <h2>Fengoffice Feng Office Legacy API CompanyWebsite.class.php instance->findAll sql injection</h2>
-                <p><strong>编号：</strong>CVE-2026-90495</p>
+                <h2>GPAC可达断言漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90683</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-boe3-txwg" target="_blank">https://www.oscs1024.com/hd/MPS-boe3-txwg</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pwus-1jfe" target="_blank">https://www.oscs1024.com/hd/MPS-pwus-1jfe</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Fengoffice Feng Office Legacy API CompanyWebsite.class.php instance->findAll sql injection</h2>
-                <p><strong>编号：</strong>CVE-2026-90495</p>
+                <h2>GPAC可达断言漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90683</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-boe3-txwg" target="_blank">https://www.oscs1024.com/hd/MPS-boe3-txwg</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pwus-1jfe" target="_blank">https://www.oscs1024.com/hd/MPS-pwus-1jfe</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>restify node-restify static.js serveStatic path traversal</title>
-            <link>https://www.oscs1024.com/hd/MPS-4mju-2kzr</link>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-90494</guid>
+            <title>jhead越界读取漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-8kln-f3sg</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-90681</guid>
             <description><![CDATA[
-                <h2>restify node-restify static.js serveStatic path traversal</h2>
-                <p><strong>编号：</strong>CVE-2026-90494</p>
+                <h2>jhead越界读取漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90681</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-4mju-2kzr" target="_blank">https://www.oscs1024.com/hd/MPS-4mju-2kzr</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8kln-f3sg" target="_blank">https://www.oscs1024.com/hd/MPS-8kln-f3sg</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>restify node-restify static.js serveStatic path traversal</h2>
-                <p><strong>编号：</strong>CVE-2026-90494</p>
+                <h2>jhead越界读取漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-90681</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-4mju-2kzr" target="_blank">https://www.oscs1024.com/hd/MPS-4mju-2kzr</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8kln-f3sg" target="_blank">https://www.oscs1024.com/hd/MPS-8kln-f3sg</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Tonec Internet Download Manager Kernel Driver idmwfp.sys access control</title>
-            <link>https://www.oscs1024.com/hd/MPS-8tn4-yczb</link>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-90493</guid>
+            <title>CVE-2023-37252 漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-kr8m-0q6x</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2023-37252</guid>
             <description><![CDATA[
-                <h2>Tonec Internet Download Manager Kernel Driver idmwfp.sys access control</h2>
-                <p><strong>编号：</strong>CVE-2026-90493</p>
+                <h2>CVE-2023-37252 漏洞</h2>
+                <p><strong>编号：</strong>CVE-2023-37252</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8tn4-yczb" target="_blank">https://www.oscs1024.com/hd/MPS-8tn4-yczb</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kr8m-0q6x" target="_blank">https://www.oscs1024.com/hd/MPS-kr8m-0q6x</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Tonec Internet Download Manager Kernel Driver idmwfp.sys access control</h2>
-                <p><strong>编号：</strong>CVE-2026-90493</p>
+                <h2>CVE-2023-37252 漏洞</h2>
+                <p><strong>编号：</strong>CVE-2023-37252</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8tn4-yczb" target="_blank">https://www.oscs1024.com/hd/MPS-8tn4-yczb</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kr8m-0q6x" target="_blank">https://www.oscs1024.com/hd/MPS-kr8m-0q6x</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-90668 漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-9lmp-ywua</link>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-90668</guid>
+            <title>CVE-2023-32803漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-nar0-qx5o</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2023-32803</guid>
             <description><![CDATA[
-                <h2>CVE-2026-90668 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-90668</p>
+                <h2>CVE-2023-32803漏洞</h2>
+                <p><strong>编号：</strong>CVE-2023-32803</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9lmp-ywua" target="_blank">https://www.oscs1024.com/hd/MPS-9lmp-ywua</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-nar0-qx5o" target="_blank">https://www.oscs1024.com/hd/MPS-nar0-qx5o</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-90668 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-90668</p>
+                <h2>CVE-2023-32803漏洞</h2>
+                <p><strong>编号：</strong>CVE-2023-32803</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9lmp-ywua" target="_blank">https://www.oscs1024.com/hd/MPS-9lmp-ywua</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-nar0-qx5o" target="_blank">https://www.oscs1024.com/hd/MPS-nar0-qx5o</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>webgjc web_robot web.py controller_recover os command injection</title>
-            <link>https://www.oscs1024.com/hd/MPS-2kfz-y65s</link>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-90492</guid>
+            <title>CVE-2023-34854漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-cj6g-e2yp</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2023-34854</guid>
             <description><![CDATA[
-                <h2>webgjc web_robot web.py controller_recover os command injection</h2>
-                <p><strong>编号：</strong>CVE-2026-90492</p>
+                <h2>CVE-2023-34854漏洞</h2>
+                <p><strong>编号：</strong>CVE-2023-34854</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2kfz-y65s" target="_blank">https://www.oscs1024.com/hd/MPS-2kfz-y65s</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-cj6g-e2yp" target="_blank">https://www.oscs1024.com/hd/MPS-cj6g-e2yp</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>webgjc web_robot web.py controller_recover os command injection</h2>
-                <p><strong>编号：</strong>CVE-2026-90492</p>
+                <h2>CVE-2023-34854漏洞</h2>
+                <p><strong>编号：</strong>CVE-2023-34854</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2kfz-y65s" target="_blank">https://www.oscs1024.com/hd/MPS-2kfz-y65s</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-cj6g-e2yp" target="_blank">https://www.oscs1024.com/hd/MPS-cj6g-e2yp</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>sanjevirau gsubs Electron index.js showQuerySuccessPage code injection</title>
-            <link>https://www.oscs1024.com/hd/MPS-zwr1-2tjc</link>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-90491</guid>
+            <title>CVE-2023-32778漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-jsu2-vmdl</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2023-32778</guid>
             <description><![CDATA[
-                <h2>sanjevirau gsubs Electron index.js showQuerySuccessPage code injection</h2>
-                <p><strong>编号：</strong>CVE-2026-90491</p>
+                <h2>CVE-2023-32778漏洞</h2>
+                <p><strong>编号：</strong>CVE-2023-32778</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-zwr1-2tjc" target="_blank">https://www.oscs1024.com/hd/MPS-zwr1-2tjc</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-jsu2-vmdl" target="_blank">https://www.oscs1024.com/hd/MPS-jsu2-vmdl</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>sanjevirau gsubs Electron index.js showQuerySuccessPage code injection</h2>
-                <p><strong>编号：</strong>CVE-2026-90491</p>
+                <h2>CVE-2023-32778漏洞</h2>
+                <p><strong>编号：</strong>CVE-2023-32778</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-zwr1-2tjc" target="_blank">https://www.oscs1024.com/hd/MPS-zwr1-2tjc</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-jsu2-vmdl" target="_blank">https://www.oscs1024.com/hd/MPS-jsu2-vmdl</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>lenve vhr MailReceiver deserialization</title>
-            <link>https://www.oscs1024.com/hd/MPS-9e25-6vqm</link>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-90490</guid>
+            <title>CVE-2023-28148漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-2023-7704</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2023-28148</guid>
             <description><![CDATA[
-                <h2>lenve vhr MailReceiver deserialization</h2>
-                <p><strong>编号：</strong>CVE-2026-90490</p>
+                <h2>CVE-2023-28148漏洞</h2>
+                <p><strong>编号：</strong>CVE-2023-28148</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9e25-6vqm" target="_blank">https://www.oscs1024.com/hd/MPS-9e25-6vqm</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2023-7704" target="_blank">https://www.oscs1024.com/hd/MPS-2023-7704</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>lenve vhr MailReceiver deserialization</h2>
-                <p><strong>编号：</strong>CVE-2026-90490</p>
+                <h2>CVE-2023-28148漏洞</h2>
+                <p><strong>编号：</strong>CVE-2023-28148</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9e25-6vqm" target="_blank">https://www.oscs1024.com/hd/MPS-9e25-6vqm</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2023-7704" target="_blank">https://www.oscs1024.com/hd/MPS-2023-7704</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-90651 漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-xoah-mlbe</link>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-90651</guid>
+            <title>CVE-2023-24287漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-2023-2584</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2023-24287</guid>
             <description><![CDATA[
-                <h2>CVE-2026-90651 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-90651</p>
+                <h2>CVE-2023-24287漏洞</h2>
+                <p><strong>编号：</strong>CVE-2023-24287</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xoah-mlbe" target="_blank">https://www.oscs1024.com/hd/MPS-xoah-mlbe</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2023-2584" target="_blank">https://www.oscs1024.com/hd/MPS-2023-2584</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-90651 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-90651</p>
+                <h2>CVE-2023-24287漏洞</h2>
+                <p><strong>编号：</strong>CVE-2023-24287</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-13</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xoah-mlbe" target="_blank">https://www.oscs1024.com/hd/MPS-xoah-mlbe</a></p>
+                <p><strong>时间：</strong>2026-09-14</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2023-2584" target="_blank">https://www.oscs1024.com/hd/MPS-2023-2584</a></p>
             ]]></content:encoded>
         </item>
 
