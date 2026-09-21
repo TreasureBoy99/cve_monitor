@@ -5,215 +5,215 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Sun, 20 Sep 2026 05:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 05:59:15 GMT</lastBuildDate>
 
         <item>
-            <title>Kamailio CDP Diameter Receiver receiver.c shm_malloc heap-based overflow</title>
-            <link>https://www.oscs1024.com/hd/MPS-czn0-p5q6</link>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-93962</guid>
+            <title>BioStar驱动任意写入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-h1x2-v4rk</link>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94142</guid>
             <description><![CDATA[
-                <h2>Kamailio CDP Diameter Receiver receiver.c shm_malloc heap-based overflow</h2>
-                <p><strong>编号：</strong>CVE-2026-93962</p>
+                <h2>BioStar驱动任意写入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94142</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-czn0-p5q6" target="_blank">https://www.oscs1024.com/hd/MPS-czn0-p5q6</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h1x2-v4rk" target="_blank">https://www.oscs1024.com/hd/MPS-h1x2-v4rk</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Kamailio CDP Diameter Receiver receiver.c shm_malloc heap-based overflow</h2>
-                <p><strong>编号：</strong>CVE-2026-93962</p>
+                <h2>BioStar驱动任意写入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94142</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-czn0-p5q6" target="_blank">https://www.oscs1024.com/hd/MPS-czn0-p5q6</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h1x2-v4rk" target="_blank">https://www.oscs1024.com/hd/MPS-h1x2-v4rk</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Dromara UJCMS UserController UserController.java usernameExist improper authorization</title>
-            <link>https://www.oscs1024.com/hd/MPS-rawd-sxh2</link>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-93961</guid>
+            <title>飞鱼星路由器命令注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-mxgw-jnc4</link>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94139</guid>
             <description><![CDATA[
-                <h2>Dromara UJCMS UserController UserController.java usernameExist improper authorization</h2>
-                <p><strong>编号：</strong>CVE-2026-93961</p>
+                <h2>飞鱼星路由器命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94139</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rawd-sxh2" target="_blank">https://www.oscs1024.com/hd/MPS-rawd-sxh2</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-mxgw-jnc4" target="_blank">https://www.oscs1024.com/hd/MPS-mxgw-jnc4</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Dromara UJCMS UserController UserController.java usernameExist improper authorization</h2>
-                <p><strong>编号：</strong>CVE-2026-93961</p>
+                <h2>飞鱼星路由器命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94139</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rawd-sxh2" target="_blank">https://www.oscs1024.com/hd/MPS-rawd-sxh2</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-mxgw-jnc4" target="_blank">https://www.oscs1024.com/hd/MPS-mxgw-jnc4</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Pixelfed OAuth Scope ApiV1Controller.php instancePeers missing authentication</title>
-            <link>https://www.oscs1024.com/hd/MPS-vst6-1e5y</link>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-93960</guid>
+            <title>飞鱼星路由器命令注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-8k23-i1gu</link>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94138</guid>
             <description><![CDATA[
-                <h2>Pixelfed OAuth Scope ApiV1Controller.php instancePeers missing authentication</h2>
-                <p><strong>编号：</strong>CVE-2026-93960</p>
+                <h2>飞鱼星路由器命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94138</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vst6-1e5y" target="_blank">https://www.oscs1024.com/hd/MPS-vst6-1e5y</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8k23-i1gu" target="_blank">https://www.oscs1024.com/hd/MPS-8k23-i1gu</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Pixelfed OAuth Scope ApiV1Controller.php instancePeers missing authentication</h2>
-                <p><strong>编号：</strong>CVE-2026-93960</p>
+                <h2>飞鱼星路由器命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94138</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vst6-1e5y" target="_blank">https://www.oscs1024.com/hd/MPS-vst6-1e5y</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8k23-i1gu" target="_blank">https://www.oscs1024.com/hd/MPS-8k23-i1gu</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>A password reset vulnerability in ZTE SmartLife APP</title>
-            <link>https://www.oscs1024.com/hd/MPS-jdp8-5hca</link>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-86553</guid>
+            <title>shzh驱动拒绝服务漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-uhds-0cqf</link>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94137</guid>
             <description><![CDATA[
-                <h2>A password reset vulnerability in ZTE SmartLife APP</h2>
-                <p><strong>编号：</strong>CVE-2026-86553</p>
+                <h2>shzh驱动拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94137</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-jdp8-5hca" target="_blank">https://www.oscs1024.com/hd/MPS-jdp8-5hca</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-uhds-0cqf" target="_blank">https://www.oscs1024.com/hd/MPS-uhds-0cqf</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>A password reset vulnerability in ZTE SmartLife APP</h2>
-                <p><strong>编号：</strong>CVE-2026-86553</p>
+                <h2>shzh驱动拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94137</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-jdp8-5hca" target="_blank">https://www.oscs1024.com/hd/MPS-jdp8-5hca</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-uhds-0cqf" target="_blank">https://www.oscs1024.com/hd/MPS-uhds-0cqf</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-86552漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-ny2x-e6ot</link>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-86552</guid>
+            <title>nvm别名路径穿越漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-acej-7t2l</link>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94185</guid>
             <description><![CDATA[
-                <h2>CVE-2026-86552漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-86552</p>
+                <h2>nvm别名路径穿越漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94185</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ny2x-e6ot" target="_blank">https://www.oscs1024.com/hd/MPS-ny2x-e6ot</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-acej-7t2l" target="_blank">https://www.oscs1024.com/hd/MPS-acej-7t2l</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-86552漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-86552</p>
+                <h2>nvm别名路径穿越漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94185</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ny2x-e6ot" target="_blank">https://www.oscs1024.com/hd/MPS-ny2x-e6ot</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-acej-7t2l" target="_blank">https://www.oscs1024.com/hd/MPS-acej-7t2l</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>SourceCodester Online Reviewer Management System btn_functions.php sql injection</title>
-            <link>https://www.oscs1024.com/hd/MPS-3r78-xlij</link>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-93959</guid>
+            <title>VALKYRIE驱动任意写漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-qilp-fz8x</link>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94129</guid>
             <description><![CDATA[
-                <h2>SourceCodester Online Reviewer Management System btn_functions.php sql injection</h2>
-                <p><strong>编号：</strong>CVE-2026-93959</p>
+                <h2>VALKYRIE驱动任意写漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94129</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-3r78-xlij" target="_blank">https://www.oscs1024.com/hd/MPS-3r78-xlij</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qilp-fz8x" target="_blank">https://www.oscs1024.com/hd/MPS-qilp-fz8x</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>SourceCodester Online Reviewer Management System btn_functions.php sql injection</h2>
-                <p><strong>编号：</strong>CVE-2026-93959</p>
+                <h2>VALKYRIE驱动任意写漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94129</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-3r78-xlij" target="_blank">https://www.oscs1024.com/hd/MPS-3r78-xlij</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qilp-fz8x" target="_blank">https://www.oscs1024.com/hd/MPS-qilp-fz8x</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-94084漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-tc7a-18uk</link>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-94084</guid>
+            <title>VIVID LED DJ任意写漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-9vg3-zyoc</link>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94128</guid>
             <description><![CDATA[
-                <h2>CVE-2026-94084漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-94084</p>
+                <h2>VIVID LED DJ任意写漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94128</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-tc7a-18uk" target="_blank">https://www.oscs1024.com/hd/MPS-tc7a-18uk</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9vg3-zyoc" target="_blank">https://www.oscs1024.com/hd/MPS-9vg3-zyoc</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-94084漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-94084</p>
+                <h2>VIVID LED DJ任意写漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94128</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-tc7a-18uk" target="_blank">https://www.oscs1024.com/hd/MPS-tc7a-18uk</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9vg3-zyoc" target="_blank">https://www.oscs1024.com/hd/MPS-9vg3-zyoc</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-94083漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-ty3o-j1hn</link>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-94083</guid>
+            <title>QCMS详情页SQL注入</title>
+            <link>https://www.oscs1024.com/hd/MPS-qybl-62oj</link>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94110</guid>
             <description><![CDATA[
-                <h2>CVE-2026-94083漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-94083</p>
+                <h2>QCMS详情页SQL注入</h2>
+                <p><strong>编号：</strong>CVE-2026-94110</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ty3o-j1hn" target="_blank">https://www.oscs1024.com/hd/MPS-ty3o-j1hn</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qybl-62oj" target="_blank">https://www.oscs1024.com/hd/MPS-qybl-62oj</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-94083漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-94083</p>
+                <h2>QCMS详情页SQL注入</h2>
+                <p><strong>编号：</strong>CVE-2026-94110</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ty3o-j1hn" target="_blank">https://www.oscs1024.com/hd/MPS-ty3o-j1hn</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qybl-62oj" target="_blank">https://www.oscs1024.com/hd/MPS-qybl-62oj</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>D-Link R95 DHMAPI ssi system os command injection</title>
-            <link>https://www.oscs1024.com/hd/MPS-1d3p-k48h</link>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-93958</guid>
+            <title>RooCMS代码注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-0fox-12kb</link>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94103</guid>
             <description><![CDATA[
-                <h2>D-Link R95 DHMAPI ssi system os command injection</h2>
-                <p><strong>编号：</strong>CVE-2026-93958</p>
+                <h2>RooCMS代码注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94103</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1d3p-k48h" target="_blank">https://www.oscs1024.com/hd/MPS-1d3p-k48h</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0fox-12kb" target="_blank">https://www.oscs1024.com/hd/MPS-0fox-12kb</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>D-Link R95 DHMAPI ssi system os command injection</h2>
-                <p><strong>编号：</strong>CVE-2026-93958</p>
+                <h2>RooCMS代码注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94103</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1d3p-k48h" target="_blank">https://www.oscs1024.com/hd/MPS-1d3p-k48h</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0fox-12kb" target="_blank">https://www.oscs1024.com/hd/MPS-0fox-12kb</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>olivier-ls PHP-FTS Filter Matching SearchEngine.php matchesSingleFilter comparison</title>
-            <link>https://www.oscs1024.com/hd/MPS-n9dx-t754</link>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-93957</guid>
+            <title>WuzhiCMS开放重定向漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-v8b2-5rsk</link>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94102</guid>
             <description><![CDATA[
-                <h2>olivier-ls PHP-FTS Filter Matching SearchEngine.php matchesSingleFilter comparison</h2>
-                <p><strong>编号：</strong>CVE-2026-93957</p>
+                <h2>WuzhiCMS开放重定向漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94102</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-n9dx-t754" target="_blank">https://www.oscs1024.com/hd/MPS-n9dx-t754</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-v8b2-5rsk" target="_blank">https://www.oscs1024.com/hd/MPS-v8b2-5rsk</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>olivier-ls PHP-FTS Filter Matching SearchEngine.php matchesSingleFilter comparison</h2>
-                <p><strong>编号：</strong>CVE-2026-93957</p>
+                <h2>WuzhiCMS开放重定向漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94102</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-n9dx-t754" target="_blank">https://www.oscs1024.com/hd/MPS-n9dx-t754</a></p>
+                <p><strong>时间：</strong>2026-09-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-v8b2-5rsk" target="_blank">https://www.oscs1024.com/hd/MPS-v8b2-5rsk</a></p>
             ]]></content:encoded>
         </item>
 
