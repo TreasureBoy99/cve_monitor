@@ -5,215 +5,215 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Thu, 24 Sep 2026 05:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 05:56:34 GMT</lastBuildDate>
 
         <item>
-            <title>CVE-2026-97149漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-i3y7-xq0v</link>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-97149</guid>
+            <title>CVE-2026-97735漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-ixlj-286u</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-97735</guid>
             <description><![CDATA[
-                <h2>CVE-2026-97149漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-97149</p>
+                <h2>CVE-2026-97735漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97735</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-i3y7-xq0v" target="_blank">https://www.oscs1024.com/hd/MPS-i3y7-xq0v</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ixlj-286u" target="_blank">https://www.oscs1024.com/hd/MPS-ixlj-286u</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-97149漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-97149</p>
+                <h2>CVE-2026-97735漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97735</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-i3y7-xq0v" target="_blank">https://www.oscs1024.com/hd/MPS-i3y7-xq0v</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ixlj-286u" target="_blank">https://www.oscs1024.com/hd/MPS-ixlj-286u</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>D-Link DIR-825 rp-l2tp tunnel.c tunnel_set_params out-of-bounds write</title>
-            <link>https://www.oscs1024.com/hd/MPS-hd3g-e5or</link>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-96891</guid>
+            <title>CVE-2026-97736漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-fmyo-xk5p</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-97736</guid>
             <description><![CDATA[
-                <h2>D-Link DIR-825 rp-l2tp tunnel.c tunnel_set_params out-of-bounds write</h2>
-                <p><strong>编号：</strong>CVE-2026-96891</p>
+                <h2>CVE-2026-97736漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97736</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-hd3g-e5or" target="_blank">https://www.oscs1024.com/hd/MPS-hd3g-e5or</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fmyo-xk5p" target="_blank">https://www.oscs1024.com/hd/MPS-fmyo-xk5p</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>D-Link DIR-825 rp-l2tp tunnel.c tunnel_set_params out-of-bounds write</h2>
-                <p><strong>编号：</strong>CVE-2026-96891</p>
+                <h2>CVE-2026-97736漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97736</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-hd3g-e5or" target="_blank">https://www.oscs1024.com/hd/MPS-hd3g-e5or</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fmyo-xk5p" target="_blank">https://www.oscs1024.com/hd/MPS-fmyo-xk5p</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-96881漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-d8nz-tw2b</link>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-96881</guid>
+            <title>CVE-2026-97732漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-2qbx-8tud</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-97732</guid>
             <description><![CDATA[
-                <h2>CVE-2026-96881漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-96881</p>
+                <h2>CVE-2026-97732漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97732</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-d8nz-tw2b" target="_blank">https://www.oscs1024.com/hd/MPS-d8nz-tw2b</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2qbx-8tud" target="_blank">https://www.oscs1024.com/hd/MPS-2qbx-8tud</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-96881漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-96881</p>
+                <h2>CVE-2026-97732漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97732</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-d8nz-tw2b" target="_blank">https://www.oscs1024.com/hd/MPS-d8nz-tw2b</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2qbx-8tud" target="_blank">https://www.oscs1024.com/hd/MPS-2qbx-8tud</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>MantisZip Preview MainWindow.UI.cs Path.Combine path traversal</title>
-            <link>https://www.oscs1024.com/hd/MPS-5hm4-2au9</link>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-96884</guid>
+            <title>CVE-2025-14814漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-h0zq-uijx</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2025-14814</guid>
             <description><![CDATA[
-                <h2>MantisZip Preview MainWindow.UI.cs Path.Combine path traversal</h2>
-                <p><strong>编号：</strong>CVE-2026-96884</p>
+                <h2>CVE-2025-14814漏洞</h2>
+                <p><strong>编号：</strong>CVE-2025-14814</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5hm4-2au9" target="_blank">https://www.oscs1024.com/hd/MPS-5hm4-2au9</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h0zq-uijx" target="_blank">https://www.oscs1024.com/hd/MPS-h0zq-uijx</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>MantisZip Preview MainWindow.UI.cs Path.Combine path traversal</h2>
-                <p><strong>编号：</strong>CVE-2026-96884</p>
+                <h2>CVE-2025-14814漏洞</h2>
+                <p><strong>编号：</strong>CVE-2025-14814</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5hm4-2au9" target="_blank">https://www.oscs1024.com/hd/MPS-5hm4-2au9</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h0zq-uijx" target="_blank">https://www.oscs1024.com/hd/MPS-h0zq-uijx</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-96882漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-8zld-nhkx</link>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-96882</guid>
+            <title>CVE-2026-97724漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-1erl-bho8</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-97724</guid>
             <description><![CDATA[
-                <h2>CVE-2026-96882漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-96882</p>
+                <h2>CVE-2026-97724漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97724</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8zld-nhkx" target="_blank">https://www.oscs1024.com/hd/MPS-8zld-nhkx</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1erl-bho8" target="_blank">https://www.oscs1024.com/hd/MPS-1erl-bho8</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-96882漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-96882</p>
+                <h2>CVE-2026-97724漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97724</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8zld-nhkx" target="_blank">https://www.oscs1024.com/hd/MPS-8zld-nhkx</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1erl-bho8" target="_blank">https://www.oscs1024.com/hd/MPS-1erl-bho8</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>SigNoz 会话撤销缺失漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-k5yw-pc78</link>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-97056</guid>
+            <title>CVE-2026-97731漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-l90q-62km</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-97731</guid>
             <description><![CDATA[
-                <h2>SigNoz 会话撤销缺失漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-97056</p>
+                <h2>CVE-2026-97731漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97731</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-k5yw-pc78" target="_blank">https://www.oscs1024.com/hd/MPS-k5yw-pc78</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-l90q-62km" target="_blank">https://www.oscs1024.com/hd/MPS-l90q-62km</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>SigNoz 会话撤销缺失漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-97056</p>
+                <h2>CVE-2026-97731漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97731</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-k5yw-pc78" target="_blank">https://www.oscs1024.com/hd/MPS-k5yw-pc78</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-l90q-62km" target="_blank">https://www.oscs1024.com/hd/MPS-l90q-62km</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>lin-cms-spring-boot未授权访问漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-swup-0l8a</link>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-96880</guid>
+            <title>ningzichun student-management-system addLog.php echo cross site scripting</title>
+            <link>https://www.oscs1024.com/hd/MPS-yhkj-wtaz</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-97650</guid>
             <description><![CDATA[
-                <h2>lin-cms-spring-boot未授权访问漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-96880</p>
+                <h2>ningzichun student-management-system addLog.php echo cross site scripting</h2>
+                <p><strong>编号：</strong>CVE-2026-97650</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-swup-0l8a" target="_blank">https://www.oscs1024.com/hd/MPS-swup-0l8a</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yhkj-wtaz" target="_blank">https://www.oscs1024.com/hd/MPS-yhkj-wtaz</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>lin-cms-spring-boot未授权访问漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-96880</p>
+                <h2>ningzichun student-management-system addLog.php echo cross site scripting</h2>
+                <p><strong>编号：</strong>CVE-2026-97650</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-swup-0l8a" target="_blank">https://www.oscs1024.com/hd/MPS-swup-0l8a</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yhkj-wtaz" target="_blank">https://www.oscs1024.com/hd/MPS-yhkj-wtaz</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>SigNoz JWT认证绕过漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-ua3v-fq7t</link>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-97055</guid>
+            <title>CVE-2026-97730漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-ra3h-7j06</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-97730</guid>
             <description><![CDATA[
-                <h2>SigNoz JWT认证绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-97055</p>
+                <h2>CVE-2026-97730漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97730</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ua3v-fq7t" target="_blank">https://www.oscs1024.com/hd/MPS-ua3v-fq7t</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ra3h-7j06" target="_blank">https://www.oscs1024.com/hd/MPS-ra3h-7j06</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>SigNoz JWT认证绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-97055</p>
+                <h2>CVE-2026-97730漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97730</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ua3v-fq7t" target="_blank">https://www.oscs1024.com/hd/MPS-ua3v-fq7t</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ra3h-7j06" target="_blank">https://www.oscs1024.com/hd/MPS-ra3h-7j06</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>base-admin 存储型XSS漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-n3fb-we2p</link>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-96810</guid>
+            <title>ningzichun student-management-system cross-site request forgery</title>
+            <link>https://www.oscs1024.com/hd/MPS-ba1i-xo02</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-97648</guid>
             <description><![CDATA[
-                <h2>base-admin 存储型XSS漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-96810</p>
+                <h2>ningzichun student-management-system cross-site request forgery</h2>
+                <p><strong>编号：</strong>CVE-2026-97648</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-n3fb-we2p" target="_blank">https://www.oscs1024.com/hd/MPS-n3fb-we2p</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ba1i-xo02" target="_blank">https://www.oscs1024.com/hd/MPS-ba1i-xo02</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>base-admin 存储型XSS漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-96810</p>
+                <h2>ningzichun student-management-system cross-site request forgery</h2>
+                <p><strong>编号：</strong>CVE-2026-97648</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-n3fb-we2p" target="_blank">https://www.oscs1024.com/hd/MPS-n3fb-we2p</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ba1i-xo02" target="_blank">https://www.oscs1024.com/hd/MPS-ba1i-xo02</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Forma LMS SQL注入</title>
-            <link>https://www.oscs1024.com/hd/MPS-oawg-914y</link>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-96777</guid>
+            <title>ningzichun student-management-system example_lite.sql default credentials</title>
+            <link>https://www.oscs1024.com/hd/MPS-zmic-7k12</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-97649</guid>
             <description><![CDATA[
-                <h2>Forma LMS SQL注入</h2>
-                <p><strong>编号：</strong>CVE-2026-96777</p>
+                <h2>ningzichun student-management-system example_lite.sql default credentials</h2>
+                <p><strong>编号：</strong>CVE-2026-97649</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-oawg-914y" target="_blank">https://www.oscs1024.com/hd/MPS-oawg-914y</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-zmic-7k12" target="_blank">https://www.oscs1024.com/hd/MPS-zmic-7k12</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Forma LMS SQL注入</h2>
-                <p><strong>编号：</strong>CVE-2026-96777</p>
+                <h2>ningzichun student-management-system example_lite.sql default credentials</h2>
+                <p><strong>编号：</strong>CVE-2026-97649</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-24</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-oawg-914y" target="_blank">https://www.oscs1024.com/hd/MPS-oawg-914y</a></p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-zmic-7k12" target="_blank">https://www.oscs1024.com/hd/MPS-zmic-7k12</a></p>
             ]]></content:encoded>
         </item>
 
