@@ -5,7 +5,7 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Fri, 25 Sep 2026 05:56:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 13:29:14 GMT</lastBuildDate>
 
         <item>
             <title>CVE-2026-97735漏洞</title>
@@ -214,6 +214,468 @@
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
                 <p><strong>时间：</strong>2026-09-25</p>
                 <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-zmic-7k12" target="_blank">https://www.oscs1024.com/hd/MPS-zmic-7k12</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>Broken authorization in Akia keyless entry lets an authenticated guest unlock other rooms</title>
+            <link>https://www.oscs1024.com/hd/MPS-dq3n-emlp</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-97898</guid>
+            <description><![CDATA[
+                <h2>Broken authorization in Akia keyless entry lets an authenticated guest unlock other rooms</h2>
+                <p><strong>编号：</strong>CVE-2026-97898</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dq3n-emlp" target="_blank">https://www.oscs1024.com/hd/MPS-dq3n-emlp</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>Broken authorization in Akia keyless entry lets an authenticated guest unlock other rooms</h2>
+                <p><strong>编号：</strong>CVE-2026-97898</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dq3n-emlp" target="_blank">https://www.oscs1024.com/hd/MPS-dq3n-emlp</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>lazy_html serializes SVG and MathML style and script text unescaped, allowing mutation XSS</title>
+            <link>https://www.oscs1024.com/hd/MPS-nwq7-9zp0</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-92106</guid>
+            <description><![CDATA[
+                <h2>lazy_html serializes SVG and MathML style and script text unescaped, allowing mutation XSS</h2>
+                <p><strong>编号：</strong>CVE-2026-92106</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-nwq7-9zp0" target="_blank">https://www.oscs1024.com/hd/MPS-nwq7-9zp0</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>lazy_html serializes SVG and MathML style and script text unescaped, allowing mutation XSS</h2>
+                <p><strong>编号：</strong>CVE-2026-92106</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-nwq7-9zp0" target="_blank">https://www.oscs1024.com/hd/MPS-nwq7-9zp0</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>CVE-2026-97863漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-8p6w-0lfo</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-97863</guid>
+            <description><![CDATA[
+                <h2>CVE-2026-97863漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97863</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8p6w-0lfo" target="_blank">https://www.oscs1024.com/hd/MPS-8p6w-0lfo</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>CVE-2026-97863漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-97863</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8p6w-0lfo" target="_blank">https://www.oscs1024.com/hd/MPS-8p6w-0lfo</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>wpForo Forum 3.0.0 - 3.1.5 - Unauthenticated AI Credit Exhaustion via IP Rate Limit Bypass</title>
+            <link>https://www.oscs1024.com/hd/MPS-k5nx-oame</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-80514</guid>
+            <description><![CDATA[
+                <h2>wpForo Forum 3.0.0 - 3.1.5 - Unauthenticated AI Credit Exhaustion via IP Rate Limit Bypass</h2>
+                <p><strong>编号：</strong>CVE-2026-80514</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-k5nx-oame" target="_blank">https://www.oscs1024.com/hd/MPS-k5nx-oame</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>wpForo Forum 3.0.0 - 3.1.5 - Unauthenticated AI Credit Exhaustion via IP Rate Limit Bypass</h2>
+                <p><strong>编号：</strong>CVE-2026-80514</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-k5nx-oame" target="_blank">https://www.oscs1024.com/hd/MPS-k5nx-oame</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>Bookly < 28.3 - Unauthenticated Customer PII Update via Verification Bypass</title>
+            <link>https://www.oscs1024.com/hd/MPS-j93b-mcpq</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-86837</guid>
+            <description><![CDATA[
+                <h2>Bookly < 28.3 - Unauthenticated Customer PII Update via Verification Bypass</h2>
+                <p><strong>编号：</strong>CVE-2026-86837</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j93b-mcpq" target="_blank">https://www.oscs1024.com/hd/MPS-j93b-mcpq</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>Bookly < 28.3 - Unauthenticated Customer PII Update via Verification Bypass</h2>
+                <p><strong>编号：</strong>CVE-2026-86837</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j93b-mcpq" target="_blank">https://www.oscs1024.com/hd/MPS-j93b-mcpq</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>CVE-2026-88848漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-bqaf-eshr</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-88848</guid>
+            <description><![CDATA[
+                <h2>CVE-2026-88848漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-88848</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bqaf-eshr" target="_blank">https://www.oscs1024.com/hd/MPS-bqaf-eshr</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>CVE-2026-88848漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-88848</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bqaf-eshr" target="_blank">https://www.oscs1024.com/hd/MPS-bqaf-eshr</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>Stored Cross-Site Scripting in StockAgile by Novadigits technologies</title>
+            <link>https://www.oscs1024.com/hd/MPS-hp5b-i6oq</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-6084</guid>
+            <description><![CDATA[
+                <h2>Stored Cross-Site Scripting in StockAgile by Novadigits technologies</h2>
+                <p><strong>编号：</strong>CVE-2026-6084</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-hp5b-i6oq" target="_blank">https://www.oscs1024.com/hd/MPS-hp5b-i6oq</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>Stored Cross-Site Scripting in StockAgile by Novadigits technologies</h2>
+                <p><strong>编号：</strong>CVE-2026-6084</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-hp5b-i6oq" target="_blank">https://www.oscs1024.com/hd/MPS-hp5b-i6oq</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>Stored Cross-Site Scripting in StockAgile by Novadigits technologies</title>
+            <link>https://www.oscs1024.com/hd/MPS-lrbh-q86s</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-6086</guid>
+            <description><![CDATA[
+                <h2>Stored Cross-Site Scripting in StockAgile by Novadigits technologies</h2>
+                <p><strong>编号：</strong>CVE-2026-6086</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-lrbh-q86s" target="_blank">https://www.oscs1024.com/hd/MPS-lrbh-q86s</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>Stored Cross-Site Scripting in StockAgile by Novadigits technologies</h2>
+                <p><strong>编号：</strong>CVE-2026-6086</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-lrbh-q86s" target="_blank">https://www.oscs1024.com/hd/MPS-lrbh-q86s</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>Stored Cross-Site Scripting in StockAgile by Novadigits technologies</title>
+            <link>https://www.oscs1024.com/hd/MPS-9068-ovu1</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-6085</guid>
+            <description><![CDATA[
+                <h2>Stored Cross-Site Scripting in StockAgile by Novadigits technologies</h2>
+                <p><strong>编号：</strong>CVE-2026-6085</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9068-ovu1" target="_blank">https://www.oscs1024.com/hd/MPS-9068-ovu1</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>Stored Cross-Site Scripting in StockAgile by Novadigits technologies</h2>
+                <p><strong>编号：</strong>CVE-2026-6085</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9068-ovu1" target="_blank">https://www.oscs1024.com/hd/MPS-9068-ovu1</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>Stored Cross-Site Scripting in StockAgile by Novadigits technologies</title>
+            <link>https://www.oscs1024.com/hd/MPS-ui1w-dm6p</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-6082</guid>
+            <description><![CDATA[
+                <h2>Stored Cross-Site Scripting in StockAgile by Novadigits technologies</h2>
+                <p><strong>编号：</strong>CVE-2026-6082</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ui1w-dm6p" target="_blank">https://www.oscs1024.com/hd/MPS-ui1w-dm6p</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>Stored Cross-Site Scripting in StockAgile by Novadigits technologies</h2>
+                <p><strong>编号：</strong>CVE-2026-6082</p>
+                <p><strong>来源：</strong>OSCS1024漏洞库</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ui1w-dm6p" target="_blank">https://www.oscs1024.com/hd/MPS-ui1w-dm6p</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>Uncontrolled Recursion leading to Denial of Service in protobuf-javascript (google-protobuf)</title>
+            <link>https://www.cve.org/CVERecord?id=CVE-2026-89418</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-89418</guid>
+            <description><![CDATA[
+                <h2>Uncontrolled Recursion leading to Denial of Service in protobuf-javascript (google-protobuf)</h2>
+                <p><strong>编号：</strong>CVE-2026-89418</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-89418" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-89418</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>Uncontrolled Recursion leading to Denial of Service in protobuf-javascript (google-protobuf)</h2>
+                <p><strong>编号：</strong>CVE-2026-89418</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-89418" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-89418</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>http-cache-semantics through 4.2.0 Cross-Client Cache Disclosure via Vary Wildcard</title>
+            <link>https://www.cve.org/CVERecord?id=CVE-2026-93750</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-93750</guid>
+            <description><![CDATA[
+                <h2>http-cache-semantics through 4.2.0 Cross-Client Cache Disclosure via Vary Wildcard</h2>
+                <p><strong>编号：</strong>CVE-2026-93750</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93750" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93750</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>http-cache-semantics through 4.2.0 Cross-Client Cache Disclosure via Vary Wildcard</h2>
+                <p><strong>编号：</strong>CVE-2026-93750</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93750" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93750</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>http-cache-semantics through 4.2.0 Cross-User Cache Disclosure via max-stale</title>
+            <link>https://www.cve.org/CVERecord?id=CVE-2026-93748</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-93748</guid>
+            <description><![CDATA[
+                <h2>http-cache-semantics through 4.2.0 Cross-User Cache Disclosure via max-stale</h2>
+                <p><strong>编号：</strong>CVE-2026-93748</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93748" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93748</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>http-cache-semantics through 4.2.0 Cross-User Cache Disclosure via max-stale</h2>
+                <p><strong>编号：</strong>CVE-2026-93748</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93748" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93748</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>braces through 3.0.3 Stack Overflow via Deeply Nested Patterns</title>
+            <link>https://www.cve.org/CVERecord?id=CVE-2026-93687</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-93687</guid>
+            <description><![CDATA[
+                <h2>braces through 3.0.3 Stack Overflow via Deeply Nested Patterns</h2>
+                <p><strong>编号：</strong>CVE-2026-93687</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93687" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93687</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>braces through 3.0.3 Stack Overflow via Deeply Nested Patterns</h2>
+                <p><strong>编号：</strong>CVE-2026-93687</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93687" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93687</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>source-map-js through 1.2.1 Event Loop Denial of Service</title>
+            <link>https://www.cve.org/CVERecord?id=CVE-2026-93749</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-93749</guid>
+            <description><![CDATA[
+                <h2>source-map-js through 1.2.1 Event Loop Denial of Service</h2>
+                <p><strong>编号：</strong>CVE-2026-93749</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93749" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93749</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>source-map-js through 1.2.1 Event Loop Denial of Service</h2>
+                <p><strong>编号：</strong>CVE-2026-93749</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93749" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93749</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>DBI versions before 1.653 for Perl load arbitrary modules via unvalidated dbm_type and dbm_mldbm attributes in DBD::DBM</title>
+            <link>https://www.cve.org/CVERecord?id=CVE-2026-78030</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-78030</guid>
+            <description><![CDATA[
+                <h2>DBI versions before 1.653 for Perl load arbitrary modules via unvalidated dbm_type and dbm_mldbm attributes in DBD::DBM</h2>
+                <p><strong>编号：</strong>CVE-2026-78030</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-78030" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-78030</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>DBI versions before 1.653 for Perl load arbitrary modules via unvalidated dbm_type and dbm_mldbm attributes in DBD::DBM</h2>
+                <p><strong>编号：</strong>CVE-2026-78030</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-78030" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-78030</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>rustls-webpki before 0.103.13 Panic via empty BIT STRING</title>
+            <link>https://www.cve.org/CVERecord?id=CVE-2026-93599</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-93599</guid>
+            <description><![CDATA[
+                <h2>rustls-webpki before 0.103.13 Panic via empty BIT STRING</h2>
+                <p><strong>编号：</strong>CVE-2026-93599</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93599" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93599</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>rustls-webpki before 0.103.13 Panic via empty BIT STRING</h2>
+                <p><strong>编号：</strong>CVE-2026-93599</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93599" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93599</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>rustls webpki Name Constraints URI Validation Bypass</title>
+            <link>https://www.cve.org/CVERecord?id=CVE-2026-93600</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-93600</guid>
+            <description><![CDATA[
+                <h2>rustls webpki Name Constraints URI Validation Bypass</h2>
+                <p><strong>编号：</strong>CVE-2026-93600</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93600" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93600</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>rustls webpki Name Constraints URI Validation Bypass</h2>
+                <p><strong>编号：</strong>CVE-2026-93600</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93600" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93600</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>rustls-webpki before 0.103.10 CRL Revocation Check Bypass</title>
+            <link>https://www.cve.org/CVERecord?id=CVE-2026-93602</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-93602</guid>
+            <description><![CDATA[
+                <h2>rustls-webpki before 0.103.10 CRL Revocation Check Bypass</h2>
+                <p><strong>编号：</strong>CVE-2026-93602</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93602" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93602</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>rustls-webpki before 0.103.10 CRL Revocation Check Bypass</h2>
+                <p><strong>编号：</strong>CVE-2026-93602</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93602" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93602</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>rustls webpki 0.101.0 before 0.103.12 Name Constraint Bypass</title>
+            <link>https://www.cve.org/CVERecord?id=CVE-2026-93601</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-93601</guid>
+            <description><![CDATA[
+                <h2>rustls webpki 0.101.0 before 0.103.12 Name Constraint Bypass</h2>
+                <p><strong>编号：</strong>CVE-2026-93601</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93601" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93601</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>rustls webpki 0.101.0 before 0.103.12 Name Constraint Bypass</h2>
+                <p><strong>编号：</strong>CVE-2026-93601</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-93601" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-93601</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>Integer overflow causes an infinite loop in packet buffer growth in PgBouncer</title>
+            <link>https://www.cve.org/CVERecord?id=CVE-2026-6668</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-6668</guid>
+            <description><![CDATA[
+                <h2>Integer overflow causes an infinite loop in packet buffer growth in PgBouncer</h2>
+                <p><strong>编号：</strong>CVE-2026-6668</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-6668" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-6668</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>Integer overflow causes an infinite loop in packet buffer growth in PgBouncer</h2>
+                <p><strong>编号：</strong>CVE-2026-6668</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-6668" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-6668</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>NULL pointer dereference in SCRAM client-final-message parsing in PgBouncer</title>
+            <link>https://www.cve.org/CVERecord?id=CVE-2026-19888</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-19888</guid>
+            <description><![CDATA[
+                <h2>NULL pointer dereference in SCRAM client-final-message parsing in PgBouncer</h2>
+                <p><strong>编号：</strong>CVE-2026-19888</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-19888" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-19888</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>NULL pointer dereference in SCRAM client-final-message parsing in PgBouncer</h2>
+                <p><strong>编号：</strong>CVE-2026-19888</p>
+                <p><strong>来源：</strong>微软安全响应中心</p>
+                <p><strong>时间：</strong>2026-09-25</p>
+                <p><strong>详情：</strong><a href="https://www.cve.org/CVERecord?id=CVE-2026-19888" target="_blank">https://www.cve.org/CVERecord?id=CVE-2026-19888</a></p>
             ]]></content:encoded>
         </item>
 
