@@ -5,215 +5,215 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Sat, 26 Sep 2026 05:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 06:22:50 GMT</lastBuildDate>
 
         <item>
-            <title>Automatic.css 4.0.0 - Unauthenticated Stored Cross-Site Scripting via REQUEST_URI</title>
-            <link>https://www.oscs1024.com/hd/MPS-xr5d-ma07</link>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-15273</guid>
+            <title>coollabsio Coolify GitHub App Setup redirect missing authentication</title>
+            <link>https://www.oscs1024.com/hd/MPS-68ta-nlem</link>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100746</guid>
             <description><![CDATA[
-                <h2>Automatic.css 4.0.0 - Unauthenticated Stored Cross-Site Scripting via REQUEST_URI</h2>
-                <p><strong>编号：</strong>CVE-2026-15273</p>
+                <h2>coollabsio Coolify GitHub App Setup redirect missing authentication</h2>
+                <p><strong>编号：</strong>CVE-2026-100746</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xr5d-ma07" target="_blank">https://www.oscs1024.com/hd/MPS-xr5d-ma07</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-68ta-nlem" target="_blank">https://www.oscs1024.com/hd/MPS-68ta-nlem</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Automatic.css 4.0.0 - Unauthenticated Stored Cross-Site Scripting via REQUEST_URI</h2>
-                <p><strong>编号：</strong>CVE-2026-15273</p>
+                <h2>coollabsio Coolify GitHub App Setup redirect missing authentication</h2>
+                <p><strong>编号：</strong>CVE-2026-100746</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xr5d-ma07" target="_blank">https://www.oscs1024.com/hd/MPS-xr5d-ma07</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-68ta-nlem" target="_blank">https://www.oscs1024.com/hd/MPS-68ta-nlem</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>OpenClaw before 2026.7.1 Authorization Bypass via MCP Configuration</title>
-            <link>https://www.oscs1024.com/hd/MPS-krhj-yvxg</link>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100596</guid>
+            <title>Heym before 0.0.53 Multiple RCE and Authentication Bypass Vulnerabilities</title>
+            <link>https://www.oscs1024.com/hd/MPS-vlk6-hpwz</link>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100865</guid>
             <description><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Authorization Bypass via MCP Configuration</h2>
-                <p><strong>编号：</strong>CVE-2026-100596</p>
+                <h2>Heym before 0.0.53 Multiple RCE and Authentication Bypass Vulnerabilities</h2>
+                <p><strong>编号：</strong>CVE-2026-100865</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-krhj-yvxg" target="_blank">https://www.oscs1024.com/hd/MPS-krhj-yvxg</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vlk6-hpwz" target="_blank">https://www.oscs1024.com/hd/MPS-vlk6-hpwz</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Authorization Bypass via MCP Configuration</h2>
-                <p><strong>编号：</strong>CVE-2026-100596</p>
+                <h2>Heym before 0.0.53 Multiple RCE and Authentication Bypass Vulnerabilities</h2>
+                <p><strong>编号：</strong>CVE-2026-100865</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-krhj-yvxg" target="_blank">https://www.oscs1024.com/hd/MPS-krhj-yvxg</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vlk6-hpwz" target="_blank">https://www.oscs1024.com/hd/MPS-vlk6-hpwz</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>OpenClaw before 2026.7.1 Approval Binding Logic Error</title>
-            <link>https://www.oscs1024.com/hd/MPS-gzm1-qne5</link>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100598</guid>
+            <title>heym before 0.0.91 Remote Code Execution via Expression Engine</title>
+            <link>https://www.oscs1024.com/hd/MPS-eqyo-a1sj</link>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100864</guid>
             <description><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Approval Binding Logic Error</h2>
-                <p><strong>编号：</strong>CVE-2026-100598</p>
+                <h2>heym before 0.0.91 Remote Code Execution via Expression Engine</h2>
+                <p><strong>编号：</strong>CVE-2026-100864</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-gzm1-qne5" target="_blank">https://www.oscs1024.com/hd/MPS-gzm1-qne5</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-eqyo-a1sj" target="_blank">https://www.oscs1024.com/hd/MPS-eqyo-a1sj</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Approval Binding Logic Error</h2>
-                <p><strong>编号：</strong>CVE-2026-100598</p>
+                <h2>heym before 0.0.91 Remote Code Execution via Expression Engine</h2>
+                <p><strong>编号：</strong>CVE-2026-100864</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-gzm1-qne5" target="_blank">https://www.oscs1024.com/hd/MPS-gzm1-qne5</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-eqyo-a1sj" target="_blank">https://www.oscs1024.com/hd/MPS-eqyo-a1sj</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>OpenClaw before 2026.7.1 Authorization Bypass via diagnostics</title>
-            <link>https://www.oscs1024.com/hd/MPS-9rtq-d60k</link>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100595</guid>
+            <title>Heym before 0.0.91 SSRF via image fetching and IPv6 validation</title>
+            <link>https://www.oscs1024.com/hd/MPS-k3nb-hjzy</link>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100863</guid>
             <description><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Authorization Bypass via diagnostics</h2>
-                <p><strong>编号：</strong>CVE-2026-100595</p>
+                <h2>Heym before 0.0.91 SSRF via image fetching and IPv6 validation</h2>
+                <p><strong>编号：</strong>CVE-2026-100863</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9rtq-d60k" target="_blank">https://www.oscs1024.com/hd/MPS-9rtq-d60k</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-k3nb-hjzy" target="_blank">https://www.oscs1024.com/hd/MPS-k3nb-hjzy</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Authorization Bypass via diagnostics</h2>
-                <p><strong>编号：</strong>CVE-2026-100595</p>
+                <h2>Heym before 0.0.91 SSRF via image fetching and IPv6 validation</h2>
+                <p><strong>编号：</strong>CVE-2026-100863</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9rtq-d60k" target="_blank">https://www.oscs1024.com/hd/MPS-9rtq-d60k</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-k3nb-hjzy" target="_blank">https://www.oscs1024.com/hd/MPS-k3nb-hjzy</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>OpenClaw 2026.5.1 before 2026.7.1 Remote Code Execution via googlemeet.chrome</title>
-            <link>https://www.oscs1024.com/hd/MPS-khqv-54ce</link>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100599</guid>
+            <title>AzuraCast before 0.23.4 Remote Code Execution via Liquidsoap string interpolation</title>
+            <link>https://www.oscs1024.com/hd/MPS-rh32-6coi</link>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100857</guid>
             <description><![CDATA[
-                <h2>OpenClaw 2026.5.1 before 2026.7.1 Remote Code Execution via googlemeet.chrome</h2>
-                <p><strong>编号：</strong>CVE-2026-100599</p>
+                <h2>AzuraCast before 0.23.4 Remote Code Execution via Liquidsoap string interpolation</h2>
+                <p><strong>编号：</strong>CVE-2026-100857</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-khqv-54ce" target="_blank">https://www.oscs1024.com/hd/MPS-khqv-54ce</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rh32-6coi" target="_blank">https://www.oscs1024.com/hd/MPS-rh32-6coi</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>OpenClaw 2026.5.1 before 2026.7.1 Remote Code Execution via googlemeet.chrome</h2>
-                <p><strong>编号：</strong>CVE-2026-100599</p>
+                <h2>AzuraCast before 0.23.4 Remote Code Execution via Liquidsoap string interpolation</h2>
+                <p><strong>编号：</strong>CVE-2026-100857</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-khqv-54ce" target="_blank">https://www.oscs1024.com/hd/MPS-khqv-54ce</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rh32-6coi" target="_blank">https://www.oscs1024.com/hd/MPS-rh32-6coi</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>OpenClaw before 2026.7.1 Path Traversal via Filesystem Race</title>
-            <link>https://www.oscs1024.com/hd/MPS-j85y-014o</link>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100597</guid>
+            <title>AzuraCast before 0.23.6 Code Injection via Remote Relay Password</title>
+            <link>https://www.oscs1024.com/hd/MPS-eajg-5btz</link>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100856</guid>
             <description><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Path Traversal via Filesystem Race</h2>
-                <p><strong>编号：</strong>CVE-2026-100597</p>
+                <h2>AzuraCast before 0.23.6 Code Injection via Remote Relay Password</h2>
+                <p><strong>编号：</strong>CVE-2026-100856</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j85y-014o" target="_blank">https://www.oscs1024.com/hd/MPS-j85y-014o</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-eajg-5btz" target="_blank">https://www.oscs1024.com/hd/MPS-eajg-5btz</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Path Traversal via Filesystem Race</h2>
-                <p><strong>编号：</strong>CVE-2026-100597</p>
+                <h2>AzuraCast before 0.23.6 Code Injection via Remote Relay Password</h2>
+                <p><strong>编号：</strong>CVE-2026-100856</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j85y-014o" target="_blank">https://www.oscs1024.com/hd/MPS-j85y-014o</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-eajg-5btz" target="_blank">https://www.oscs1024.com/hd/MPS-eajg-5btz</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>OpenClaw before 2026.7.1 Authorization Bypass via trajectory export</title>
-            <link>https://www.oscs1024.com/hd/MPS-gumf-ns5x</link>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100594</guid>
+            <title>heym before 0.0.91 Multiple Secrets Plaintext Storage</title>
+            <link>https://www.oscs1024.com/hd/MPS-yr1g-l2q6</link>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100862</guid>
             <description><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Authorization Bypass via trajectory export</h2>
-                <p><strong>编号：</strong>CVE-2026-100594</p>
+                <h2>heym before 0.0.91 Multiple Secrets Plaintext Storage</h2>
+                <p><strong>编号：</strong>CVE-2026-100862</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-gumf-ns5x" target="_blank">https://www.oscs1024.com/hd/MPS-gumf-ns5x</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yr1g-l2q6" target="_blank">https://www.oscs1024.com/hd/MPS-yr1g-l2q6</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Authorization Bypass via trajectory export</h2>
-                <p><strong>编号：</strong>CVE-2026-100594</p>
+                <h2>heym before 0.0.91 Multiple Secrets Plaintext Storage</h2>
+                <p><strong>编号：</strong>CVE-2026-100862</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-gumf-ns5x" target="_blank">https://www.oscs1024.com/hd/MPS-gumf-ns5x</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yr1g-l2q6" target="_blank">https://www.oscs1024.com/hd/MPS-yr1g-l2q6</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>OpenClaw before 2026.7.1 Authentication Bypass via Active Memory</title>
-            <link>https://www.oscs1024.com/hd/MPS-0e3s-c9ti</link>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100591</guid>
+            <title>Heym before 0.0.106 Credential Exfiltration via URL Override</title>
+            <link>https://www.oscs1024.com/hd/MPS-31lz-uyqo</link>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100859</guid>
             <description><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Authentication Bypass via Active Memory</h2>
-                <p><strong>编号：</strong>CVE-2026-100591</p>
+                <h2>Heym before 0.0.106 Credential Exfiltration via URL Override</h2>
+                <p><strong>编号：</strong>CVE-2026-100859</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0e3s-c9ti" target="_blank">https://www.oscs1024.com/hd/MPS-0e3s-c9ti</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-31lz-uyqo" target="_blank">https://www.oscs1024.com/hd/MPS-31lz-uyqo</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Authentication Bypass via Active Memory</h2>
-                <p><strong>编号：</strong>CVE-2026-100591</p>
+                <h2>Heym before 0.0.106 Credential Exfiltration via URL Override</h2>
+                <p><strong>编号：</strong>CVE-2026-100859</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0e3s-c9ti" target="_blank">https://www.oscs1024.com/hd/MPS-0e3s-c9ti</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-31lz-uyqo" target="_blank">https://www.oscs1024.com/hd/MPS-31lz-uyqo</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>OpenClaw before 2026.7.1 Authorization Bypass via voice set</title>
-            <link>https://www.oscs1024.com/hd/MPS-g5a7-4vr8</link>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100590</guid>
+            <title>heym before 0.0.109 Server-Side Request Forgery via Workflow Nodes</title>
+            <link>https://www.oscs1024.com/hd/MPS-duvx-zfk1</link>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100858</guid>
             <description><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Authorization Bypass via voice set</h2>
-                <p><strong>编号：</strong>CVE-2026-100590</p>
+                <h2>heym before 0.0.109 Server-Side Request Forgery via Workflow Nodes</h2>
+                <p><strong>编号：</strong>CVE-2026-100858</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-g5a7-4vr8" target="_blank">https://www.oscs1024.com/hd/MPS-g5a7-4vr8</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-duvx-zfk1" target="_blank">https://www.oscs1024.com/hd/MPS-duvx-zfk1</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Authorization Bypass via voice set</h2>
-                <p><strong>编号：</strong>CVE-2026-100590</p>
+                <h2>heym before 0.0.109 Server-Side Request Forgery via Workflow Nodes</h2>
+                <p><strong>编号：</strong>CVE-2026-100858</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-g5a7-4vr8" target="_blank">https://www.oscs1024.com/hd/MPS-g5a7-4vr8</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-duvx-zfk1" target="_blank">https://www.oscs1024.com/hd/MPS-duvx-zfk1</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>OpenClaw before 2026.7.1 Authentication Bypass via Memory Dreaming</title>
-            <link>https://www.oscs1024.com/hd/MPS-bzmc-ke6i</link>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100592</guid>
+            <title>heym before 0.0.105 SSRF via credential-controlled base URLs</title>
+            <link>https://www.oscs1024.com/hd/MPS-xlgv-chpy</link>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100861</guid>
             <description><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Authentication Bypass via Memory Dreaming</h2>
-                <p><strong>编号：</strong>CVE-2026-100592</p>
+                <h2>heym before 0.0.105 SSRF via credential-controlled base URLs</h2>
+                <p><strong>编号：</strong>CVE-2026-100861</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bzmc-ke6i" target="_blank">https://www.oscs1024.com/hd/MPS-bzmc-ke6i</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xlgv-chpy" target="_blank">https://www.oscs1024.com/hd/MPS-xlgv-chpy</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>OpenClaw before 2026.7.1 Authentication Bypass via Memory Dreaming</h2>
-                <p><strong>编号：</strong>CVE-2026-100592</p>
+                <h2>heym before 0.0.105 SSRF via credential-controlled base URLs</h2>
+                <p><strong>编号：</strong>CVE-2026-100861</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bzmc-ke6i" target="_blank">https://www.oscs1024.com/hd/MPS-bzmc-ke6i</a></p>
+                <p><strong>时间：</strong>2026-09-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xlgv-chpy" target="_blank">https://www.oscs1024.com/hd/MPS-xlgv-chpy</a></p>
             ]]></content:encoded>
         </item>
 
