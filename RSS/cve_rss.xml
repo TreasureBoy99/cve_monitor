@@ -5,215 +5,215 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Sun, 27 Sep 2026 06:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 06:25:16 GMT</lastBuildDate>
 
         <item>
-            <title>coollabsio Coolify GitHub App Setup redirect missing authentication</title>
-            <link>https://www.oscs1024.com/hd/MPS-68ta-nlem</link>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100746</guid>
+            <title>NBR200V2命令注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-shba-c6q1</link>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-101001</guid>
             <description><![CDATA[
-                <h2>coollabsio Coolify GitHub App Setup redirect missing authentication</h2>
-                <p><strong>编号：</strong>CVE-2026-100746</p>
+                <h2>NBR200V2命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-101001</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-68ta-nlem" target="_blank">https://www.oscs1024.com/hd/MPS-68ta-nlem</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-shba-c6q1" target="_blank">https://www.oscs1024.com/hd/MPS-shba-c6q1</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>coollabsio Coolify GitHub App Setup redirect missing authentication</h2>
-                <p><strong>编号：</strong>CVE-2026-100746</p>
+                <h2>NBR200V2命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-101001</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-68ta-nlem" target="_blank">https://www.oscs1024.com/hd/MPS-68ta-nlem</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-shba-c6q1" target="_blank">https://www.oscs1024.com/hd/MPS-shba-c6q1</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Heym before 0.0.53 Multiple RCE and Authentication Bypass Vulnerabilities</title>
-            <link>https://www.oscs1024.com/hd/MPS-vlk6-hpwz</link>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100865</guid>
+            <title>fuse-archive路径劫持漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-yc96-0xhw</link>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-87723</guid>
             <description><![CDATA[
-                <h2>Heym before 0.0.53 Multiple RCE and Authentication Bypass Vulnerabilities</h2>
-                <p><strong>编号：</strong>CVE-2026-100865</p>
+                <h2>fuse-archive路径劫持漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87723</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vlk6-hpwz" target="_blank">https://www.oscs1024.com/hd/MPS-vlk6-hpwz</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yc96-0xhw" target="_blank">https://www.oscs1024.com/hd/MPS-yc96-0xhw</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Heym before 0.0.53 Multiple RCE and Authentication Bypass Vulnerabilities</h2>
-                <p><strong>编号：</strong>CVE-2026-100865</p>
+                <h2>fuse-archive路径劫持漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87723</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vlk6-hpwz" target="_blank">https://www.oscs1024.com/hd/MPS-vlk6-hpwz</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yc96-0xhw" target="_blank">https://www.oscs1024.com/hd/MPS-yc96-0xhw</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>heym before 0.0.91 Remote Code Execution via Expression Engine</title>
-            <link>https://www.oscs1024.com/hd/MPS-eqyo-a1sj</link>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100864</guid>
+            <title>OctoberCMS缩放SSRF</title>
+            <link>https://www.oscs1024.com/hd/MPS-s27m-en0u</link>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100909</guid>
             <description><![CDATA[
-                <h2>heym before 0.0.91 Remote Code Execution via Expression Engine</h2>
-                <p><strong>编号：</strong>CVE-2026-100864</p>
+                <h2>OctoberCMS缩放SSRF</h2>
+                <p><strong>编号：</strong>CVE-2026-100909</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-eqyo-a1sj" target="_blank">https://www.oscs1024.com/hd/MPS-eqyo-a1sj</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-s27m-en0u" target="_blank">https://www.oscs1024.com/hd/MPS-s27m-en0u</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>heym before 0.0.91 Remote Code Execution via Expression Engine</h2>
-                <p><strong>编号：</strong>CVE-2026-100864</p>
+                <h2>OctoberCMS缩放SSRF</h2>
+                <p><strong>编号：</strong>CVE-2026-100909</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-eqyo-a1sj" target="_blank">https://www.oscs1024.com/hd/MPS-eqyo-a1sj</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-s27m-en0u" target="_blank">https://www.oscs1024.com/hd/MPS-s27m-en0u</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Heym before 0.0.91 SSRF via image fetching and IPv6 validation</title>
-            <link>https://www.oscs1024.com/hd/MPS-k3nb-hjzy</link>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100863</guid>
+            <title>NBR100V2未授权配置篡改</title>
+            <link>https://www.oscs1024.com/hd/MPS-flbg-8ik0</link>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-101000</guid>
             <description><![CDATA[
-                <h2>Heym before 0.0.91 SSRF via image fetching and IPv6 validation</h2>
-                <p><strong>编号：</strong>CVE-2026-100863</p>
+                <h2>NBR100V2未授权配置篡改</h2>
+                <p><strong>编号：</strong>CVE-2026-101000</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-k3nb-hjzy" target="_blank">https://www.oscs1024.com/hd/MPS-k3nb-hjzy</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-flbg-8ik0" target="_blank">https://www.oscs1024.com/hd/MPS-flbg-8ik0</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Heym before 0.0.91 SSRF via image fetching and IPv6 validation</h2>
-                <p><strong>编号：</strong>CVE-2026-100863</p>
+                <h2>NBR100V2未授权配置篡改</h2>
+                <p><strong>编号：</strong>CVE-2026-101000</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-k3nb-hjzy" target="_blank">https://www.oscs1024.com/hd/MPS-k3nb-hjzy</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-flbg-8ik0" target="_blank">https://www.oscs1024.com/hd/MPS-flbg-8ik0</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>AzuraCast before 0.23.4 Remote Code Execution via Liquidsoap string interpolation</title>
-            <link>https://www.oscs1024.com/hd/MPS-rh32-6coi</link>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100857</guid>
+            <title>Eyeplus栈溢出漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-qr3m-xtha</link>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100908</guid>
             <description><![CDATA[
-                <h2>AzuraCast before 0.23.4 Remote Code Execution via Liquidsoap string interpolation</h2>
-                <p><strong>编号：</strong>CVE-2026-100857</p>
+                <h2>Eyeplus栈溢出漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-100908</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rh32-6coi" target="_blank">https://www.oscs1024.com/hd/MPS-rh32-6coi</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qr3m-xtha" target="_blank">https://www.oscs1024.com/hd/MPS-qr3m-xtha</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>AzuraCast before 0.23.4 Remote Code Execution via Liquidsoap string interpolation</h2>
-                <p><strong>编号：</strong>CVE-2026-100857</p>
+                <h2>Eyeplus栈溢出漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-100908</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rh32-6coi" target="_blank">https://www.oscs1024.com/hd/MPS-rh32-6coi</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qr3m-xtha" target="_blank">https://www.oscs1024.com/hd/MPS-qr3m-xtha</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>AzuraCast before 0.23.6 Code Injection via Remote Relay Password</title>
-            <link>https://www.oscs1024.com/hd/MPS-eajg-5btz</link>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100856</guid>
+            <title>Eyeplus快照信息泄露</title>
+            <link>https://www.oscs1024.com/hd/MPS-idz7-w16q</link>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100907</guid>
             <description><![CDATA[
-                <h2>AzuraCast before 0.23.6 Code Injection via Remote Relay Password</h2>
-                <p><strong>编号：</strong>CVE-2026-100856</p>
+                <h2>Eyeplus快照信息泄露</h2>
+                <p><strong>编号：</strong>CVE-2026-100907</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-eajg-5btz" target="_blank">https://www.oscs1024.com/hd/MPS-eajg-5btz</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-idz7-w16q" target="_blank">https://www.oscs1024.com/hd/MPS-idz7-w16q</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>AzuraCast before 0.23.6 Code Injection via Remote Relay Password</h2>
-                <p><strong>编号：</strong>CVE-2026-100856</p>
+                <h2>Eyeplus快照信息泄露</h2>
+                <p><strong>编号：</strong>CVE-2026-100907</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-eajg-5btz" target="_blank">https://www.oscs1024.com/hd/MPS-eajg-5btz</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-idz7-w16q" target="_blank">https://www.oscs1024.com/hd/MPS-idz7-w16q</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>heym before 0.0.91 Multiple Secrets Plaintext Storage</title>
-            <link>https://www.oscs1024.com/hd/MPS-yr1g-l2q6</link>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100862</guid>
+            <title>Wireshark配置导入漏洞</title>
+            <link>https://cybersecuritynews.com/wireshark-4-6-9-fixes-19-vulnerabilities/</link>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-96419</guid>
             <description><![CDATA[
-                <h2>heym before 0.0.91 Multiple Secrets Plaintext Storage</h2>
-                <p><strong>编号：</strong>CVE-2026-100862</p>
+                <h2>Wireshark配置导入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-96419</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yr1g-l2q6" target="_blank">https://www.oscs1024.com/hd/MPS-yr1g-l2q6</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/wireshark-4-6-9-fixes-19-vulnerabilities/" target="_blank">https://cybersecuritynews.com/wireshark-4-6-9-fixes-19-vulnerabilities/</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>heym before 0.0.91 Multiple Secrets Plaintext Storage</h2>
-                <p><strong>编号：</strong>CVE-2026-100862</p>
+                <h2>Wireshark配置导入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-96419</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yr1g-l2q6" target="_blank">https://www.oscs1024.com/hd/MPS-yr1g-l2q6</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/wireshark-4-6-9-fixes-19-vulnerabilities/" target="_blank">https://cybersecuritynews.com/wireshark-4-6-9-fixes-19-vulnerabilities/</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Heym before 0.0.106 Credential Exfiltration via URL Override</title>
-            <link>https://www.oscs1024.com/hd/MPS-31lz-uyqo</link>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100859</guid>
+            <title>Eyeplus明文口令泄露</title>
+            <link>https://www.oscs1024.com/hd/MPS-sfvl-8cha</link>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100906</guid>
             <description><![CDATA[
-                <h2>Heym before 0.0.106 Credential Exfiltration via URL Override</h2>
-                <p><strong>编号：</strong>CVE-2026-100859</p>
+                <h2>Eyeplus明文口令泄露</h2>
+                <p><strong>编号：</strong>CVE-2026-100906</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-31lz-uyqo" target="_blank">https://www.oscs1024.com/hd/MPS-31lz-uyqo</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-sfvl-8cha" target="_blank">https://www.oscs1024.com/hd/MPS-sfvl-8cha</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Heym before 0.0.106 Credential Exfiltration via URL Override</h2>
-                <p><strong>编号：</strong>CVE-2026-100859</p>
+                <h2>Eyeplus明文口令泄露</h2>
+                <p><strong>编号：</strong>CVE-2026-100906</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-31lz-uyqo" target="_blank">https://www.oscs1024.com/hd/MPS-31lz-uyqo</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-sfvl-8cha" target="_blank">https://www.oscs1024.com/hd/MPS-sfvl-8cha</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>heym before 0.0.109 Server-Side Request Forgery via Workflow Nodes</title>
-            <link>https://www.oscs1024.com/hd/MPS-duvx-zfk1</link>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100858</guid>
+            <title>迷你库存系统存储型XSS</title>
+            <link>https://www.oscs1024.com/hd/MPS-uj9f-gqsl</link>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100904</guid>
             <description><![CDATA[
-                <h2>heym before 0.0.109 Server-Side Request Forgery via Workflow Nodes</h2>
-                <p><strong>编号：</strong>CVE-2026-100858</p>
+                <h2>迷你库存系统存储型XSS</h2>
+                <p><strong>编号：</strong>CVE-2026-100904</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-duvx-zfk1" target="_blank">https://www.oscs1024.com/hd/MPS-duvx-zfk1</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-uj9f-gqsl" target="_blank">https://www.oscs1024.com/hd/MPS-uj9f-gqsl</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>heym before 0.0.109 Server-Side Request Forgery via Workflow Nodes</h2>
-                <p><strong>编号：</strong>CVE-2026-100858</p>
+                <h2>迷你库存系统存储型XSS</h2>
+                <p><strong>编号：</strong>CVE-2026-100904</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-duvx-zfk1" target="_blank">https://www.oscs1024.com/hd/MPS-duvx-zfk1</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-uj9f-gqsl" target="_blank">https://www.oscs1024.com/hd/MPS-uj9f-gqsl</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>heym before 0.0.105 SSRF via credential-controlled base URLs</title>
-            <link>https://www.oscs1024.com/hd/MPS-xlgv-chpy</link>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-100861</guid>
+            <title>GEOritm缺失认证漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-dj43-su9m</link>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-100903</guid>
             <description><![CDATA[
-                <h2>heym before 0.0.105 SSRF via credential-controlled base URLs</h2>
-                <p><strong>编号：</strong>CVE-2026-100861</p>
+                <h2>GEOritm缺失认证漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-100903</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xlgv-chpy" target="_blank">https://www.oscs1024.com/hd/MPS-xlgv-chpy</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dj43-su9m" target="_blank">https://www.oscs1024.com/hd/MPS-dj43-su9m</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>heym before 0.0.105 SSRF via credential-controlled base URLs</h2>
-                <p><strong>编号：</strong>CVE-2026-100861</p>
+                <h2>GEOritm缺失认证漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-100903</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-09-27</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xlgv-chpy" target="_blank">https://www.oscs1024.com/hd/MPS-xlgv-chpy</a></p>
+                <p><strong>时间：</strong>2026-09-28</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dj43-su9m" target="_blank">https://www.oscs1024.com/hd/MPS-dj43-su9m</a></p>
             ]]></content:encoded>
         </item>
 
