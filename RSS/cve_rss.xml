@@ -5,236 +5,215 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Sat, 03 Oct 2026 06:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 06:39:57 GMT</lastBuildDate>
 
         <item>
-            <title>Dell CSM模板注入漏洞</title>
-            <link>https://cybersecuritynews.com/critical-dell-container-storage-flaws/</link>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-67273</guid>
+            <title>CoinEx Crypto 存储型 XSS 漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-f0oa-j8ur</link>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-105099</guid>
             <description><![CDATA[
-                <h2>Dell CSM模板注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-67273</p>
+                <h2>CoinEx Crypto 存储型 XSS 漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105099</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/critical-dell-container-storage-flaws/" target="_blank">https://cybersecuritynews.com/critical-dell-container-storage-flaws/</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-f0oa-j8ur" target="_blank">https://www.oscs1024.com/hd/MPS-f0oa-j8ur</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Dell CSM模板注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-67273</p>
+                <h2>CoinEx Crypto 存储型 XSS 漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105099</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/critical-dell-container-storage-flaws/" target="_blank">https://cybersecuritynews.com/critical-dell-container-storage-flaws/</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-f0oa-j8ur" target="_blank">https://www.oscs1024.com/hd/MPS-f0oa-j8ur</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Dell CSM硬编码JWT签名密钥漏洞</title>
-            <link>https://cybersecuritynews.com/critical-dell-container-storage-flaws/</link>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-61421</guid>
+            <title>NetScaler SAML拒绝服务漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-ufs2-5t6e</link>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-88779</guid>
             <description><![CDATA[
-                <h2>Dell CSM硬编码JWT签名密钥漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-61421</p>
+                <h2>NetScaler SAML拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-88779</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/critical-dell-container-storage-flaws/" target="_blank">https://cybersecuritynews.com/critical-dell-container-storage-flaws/</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ufs2-5t6e" target="_blank">https://www.oscs1024.com/hd/MPS-ufs2-5t6e</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Dell CSM硬编码JWT签名密钥漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-61421</p>
+                <h2>NetScaler SAML拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-88779</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/critical-dell-container-storage-flaws/" target="_blank">https://cybersecuritynews.com/critical-dell-container-storage-flaws/</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ufs2-5t6e" target="_blank">https://www.oscs1024.com/hd/MPS-ufs2-5t6e</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Dell CSM Operator镜像注入提权漏洞</title>
-            <link>https://cybersecuritynews.com/critical-dell-container-storage-flaws/</link>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-67269</guid>
+            <title>CoinEx Crypto信息泄露漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-kb3p-fmg9</link>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-105098</guid>
             <description><![CDATA[
-                <h2>Dell CSM Operator镜像注入提权漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-67269</p>
+                <h2>CoinEx Crypto信息泄露漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105098</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/critical-dell-container-storage-flaws/" target="_blank">https://cybersecuritynews.com/critical-dell-container-storage-flaws/</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kb3p-fmg9" target="_blank">https://www.oscs1024.com/hd/MPS-kb3p-fmg9</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Dell CSM Operator镜像注入提权漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-67269</p>
+                <h2>CoinEx Crypto信息泄露漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105098</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/critical-dell-container-storage-flaws/" target="_blank">https://cybersecuritynews.com/critical-dell-container-storage-flaws/</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kb3p-fmg9" target="_blank">https://www.oscs1024.com/hd/MPS-kb3p-fmg9</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Dell CSM Authorization硬编码凭证漏洞</title>
-            <link>https://cybersecuritynews.com/critical-dell-container-storage-flaws/</link>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-54472</guid>
+            <title>CoinEx Crypto 越权访问漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-d017-lurk</link>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-105097</guid>
             <description><![CDATA[
-                <h2>Dell CSM Authorization硬编码凭证漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-54472</p>
+                <h2>CoinEx Crypto 越权访问漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105097</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/critical-dell-container-storage-flaws/" target="_blank">https://cybersecuritynews.com/critical-dell-container-storage-flaws/</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-d017-lurk" target="_blank">https://www.oscs1024.com/hd/MPS-d017-lurk</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Dell CSM Authorization硬编码凭证漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-54472</p>
+                <h2>CoinEx Crypto 越权访问漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105097</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/critical-dell-container-storage-flaws/" target="_blank">https://cybersecuritynews.com/critical-dell-container-storage-flaws/</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-d017-lurk" target="_blank">https://www.oscs1024.com/hd/MPS-d017-lurk</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Dell CSM Authorization认证缺失漏洞</title>
-            <link>https://cybersecuritynews.com/critical-dell-container-storage-flaws/</link>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-63688</guid>
+            <title>ezBookkeeping API令牌提权漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-850d-sohf</link>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-105131</guid>
             <description><![CDATA[
-                <h2>Dell CSM Authorization认证缺失漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-63688</p>
+                <h2>ezBookkeeping API令牌提权漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105131</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/critical-dell-container-storage-flaws/" target="_blank">https://cybersecuritynews.com/critical-dell-container-storage-flaws/</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-850d-sohf" target="_blank">https://www.oscs1024.com/hd/MPS-850d-sohf</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Dell CSM Authorization认证缺失漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-63688</p>
+                <h2>ezBookkeeping API令牌提权漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105131</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/critical-dell-container-storage-flaws/" target="_blank">https://cybersecuritynews.com/critical-dell-container-storage-flaws/</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-850d-sohf" target="_blank">https://www.oscs1024.com/hd/MPS-850d-sohf</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Dell CSM Authorization认证缺失漏洞</title>
-            <link>https://cybersecuritynews.com/critical-dell-container-storage-flaws/</link>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-63692</guid>
+            <title>CoinEx Crypto客户资料越权漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-0dwj-345p</link>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-105096</guid>
             <description><![CDATA[
-                <h2>Dell CSM Authorization认证缺失漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-63692</p>
+                <h2>CoinEx Crypto客户资料越权漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105096</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/critical-dell-container-storage-flaws/" target="_blank">https://cybersecuritynews.com/critical-dell-container-storage-flaws/</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0dwj-345p" target="_blank">https://www.oscs1024.com/hd/MPS-0dwj-345p</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Dell CSM Authorization认证缺失漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-63692</p>
+                <h2>CoinEx Crypto客户资料越权漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105096</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/critical-dell-container-storage-flaws/" target="_blank">https://cybersecuritynews.com/critical-dell-container-storage-flaws/</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0dwj-345p" target="_blank">https://www.oscs1024.com/hd/MPS-0dwj-345p</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Real Cookie Banner存储型XSS漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-g536-s7fc</link>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-92977</guid>
+            <title>LaraDashboard角色篡改提权漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-h7q9-s5ef</link>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-105126</guid>
             <description><![CDATA[
-                <h2>Real Cookie Banner存储型XSS漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-92977</p>
+                <h2>LaraDashboard角色篡改提权漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105126</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-g536-s7fc" target="_blank">https://www.oscs1024.com/hd/MPS-g536-s7fc</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h7q9-s5ef" target="_blank">https://www.oscs1024.com/hd/MPS-h7q9-s5ef</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Real Cookie Banner存储型XSS漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-92977</p>
+                <h2>LaraDashboard角色篡改提权漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105126</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-g536-s7fc" target="_blank">https://www.oscs1024.com/hd/MPS-g536-s7fc</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h7q9-s5ef" target="_blank">https://www.oscs1024.com/hd/MPS-h7q9-s5ef</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>EWWW Image Optimizer反射型XSS漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-d8bh-2n9u</link>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-92826</guid>
+            <title>LaraDashboard注册限流竞态绕过漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-46g8-tnb3</link>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-105130</guid>
             <description><![CDATA[
-                <h2>EWWW Image Optimizer反射型XSS漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-92826</p>
+                <h2>LaraDashboard注册限流竞态绕过漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105130</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-d8bh-2n9u" target="_blank">https://www.oscs1024.com/hd/MPS-d8bh-2n9u</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-46g8-tnb3" target="_blank">https://www.oscs1024.com/hd/MPS-46g8-tnb3</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>EWWW Image Optimizer反射型XSS漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-92826</p>
+                <h2>LaraDashboard注册限流竞态绕过漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105130</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-d8bh-2n9u" target="_blank">https://www.oscs1024.com/hd/MPS-d8bh-2n9u</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-46g8-tnb3" target="_blank">https://www.oscs1024.com/hd/MPS-46g8-tnb3</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Groundhogg权限提升漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-bfw1-uae3</link>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-97644</guid>
+            <title>LaraDashboard 资源耗尽漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-fozi-q5w7</link>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-105127</guid>
             <description><![CDATA[
-                <h2>Groundhogg权限提升漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-97644</p>
+                <h2>LaraDashboard 资源耗尽漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105127</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bfw1-uae3" target="_blank">https://www.oscs1024.com/hd/MPS-bfw1-uae3</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fozi-q5w7" target="_blank">https://www.oscs1024.com/hd/MPS-fozi-q5w7</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Groundhogg权限提升漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-97644</p>
+                <h2>LaraDashboard 资源耗尽漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-105127</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bfw1-uae3" target="_blank">https://www.oscs1024.com/hd/MPS-bfw1-uae3</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fozi-q5w7" target="_blank">https://www.oscs1024.com/hd/MPS-fozi-q5w7</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>EmbedPress 存储型 XSS</title>
-            <link>https://www.oscs1024.com/hd/MPS-c4ud-78of</link>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-92727</guid>
+            <title>LaraDashboard 设置接口凭据泄露</title>
+            <link>https://www.oscs1024.com/hd/MPS-uvo9-tgcm</link>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-105129</guid>
             <description><![CDATA[
-                <h2>EmbedPress 存储型 XSS</h2>
-                <p><strong>编号：</strong>CVE-2026-92727</p>
+                <h2>LaraDashboard 设置接口凭据泄露</h2>
+                <p><strong>编号：</strong>CVE-2026-105129</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-c4ud-78of" target="_blank">https://www.oscs1024.com/hd/MPS-c4ud-78of</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-uvo9-tgcm" target="_blank">https://www.oscs1024.com/hd/MPS-uvo9-tgcm</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>EmbedPress 存储型 XSS</h2>
-                <p><strong>编号：</strong>CVE-2026-92727</p>
+                <h2>LaraDashboard 设置接口凭据泄露</h2>
+                <p><strong>编号：</strong>CVE-2026-105129</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-c4ud-78of" target="_blank">https://www.oscs1024.com/hd/MPS-c4ud-78of</a></p>
-            ]]></content:encoded>
-        </item>
-
-        <item>
-            <title>Veeam Backup & Replication 远程代码执行漏洞</title>
-            <link>https://x.threatbook.com/v5/vul/XVE-2025-24481</link>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">XVE-2025-24481</guid>
-            <description><![CDATA[
-                <h2>Veeam Backup & Replication 远程代码执行漏洞</h2>
-                <p><strong>编号：</strong>XVE-2025-24481</p>
-                <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2025-24481" target="_blank">https://x.threatbook.com/v5/vul/XVE-2025-24481</a></p>
-            ]]></description>
-            <content:encoded><![CDATA[
-                <h2>Veeam Backup & Replication 远程代码执行漏洞</h2>
-                <p><strong>编号：</strong>XVE-2025-24481</p>
-                <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-10-03</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2025-24481" target="_blank">https://x.threatbook.com/v5/vul/XVE-2025-24481</a></p>
+                <p><strong>时间：</strong>2026-10-04</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-uvo9-tgcm" target="_blank">https://www.oscs1024.com/hd/MPS-uvo9-tgcm</a></p>
             ]]></content:encoded>
         </item>
 
