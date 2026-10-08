@@ -5,215 +5,215 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Wed, 07 Oct 2026 06:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 07:04:33 GMT</lastBuildDate>
 
         <item>
-            <title>Pulp-ansible: bearer tokens are reused across remotes in a worker</title>
-            <link>https://www.oscs1024.com/hd/MPS-fuhg-ackl</link>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-103869</guid>
+            <title>Google Chrome V8 < 15.5.19 沙箱绕过漏洞</title>
+            <link>https://issues.chromium.org/issues/540033151</link>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">MPS-h8od-qbjc</guid>
             <description><![CDATA[
-                <h2>Pulp-ansible: bearer tokens are reused across remotes in a worker</h2>
-                <p><strong>编号：</strong>CVE-2026-103869</p>
+                <h2>Google Chrome V8 < 15.5.19 沙箱绕过漏洞</h2>
+                <p><strong>编号：</strong>MPS-h8od-qbjc</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fuhg-ackl" target="_blank">https://www.oscs1024.com/hd/MPS-fuhg-ackl</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://issues.chromium.org/issues/540033151" target="_blank">https://issues.chromium.org/issues/540033151</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Pulp-ansible: bearer tokens are reused across remotes in a worker</h2>
-                <p><strong>编号：</strong>CVE-2026-103869</p>
+                <h2>Google Chrome V8 < 15.5.19 沙箱绕过漏洞</h2>
+                <p><strong>编号：</strong>MPS-h8od-qbjc</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fuhg-ackl" target="_blank">https://www.oscs1024.com/hd/MPS-fuhg-ackl</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://issues.chromium.org/issues/540033151" target="_blank">https://issues.chromium.org/issues/540033151</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Pulp-container: registry credentials are reused across remotes in a worker</title>
-            <link>https://www.oscs1024.com/hd/MPS-h8mv-l0co</link>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-103868</guid>
+            <title>Atlassian Data Center未认证任意文件读取漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-yjzq-7r9x</link>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-21589</guid>
             <description><![CDATA[
-                <h2>Pulp-container: registry credentials are reused across remotes in a worker</h2>
-                <p><strong>编号：</strong>CVE-2026-103868</p>
+                <h2>Atlassian Data Center未认证任意文件读取漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-21589</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h8mv-l0co" target="_blank">https://www.oscs1024.com/hd/MPS-h8mv-l0co</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yjzq-7r9x" target="_blank">https://www.oscs1024.com/hd/MPS-yjzq-7r9x</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Pulp-container: registry credentials are reused across remotes in a worker</h2>
-                <p><strong>编号：</strong>CVE-2026-103868</p>
+                <h2>Atlassian Data Center未认证任意文件读取漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-21589</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h8mv-l0co" target="_blank">https://www.oscs1024.com/hd/MPS-h8mv-l0co</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yjzq-7r9x" target="_blank">https://www.oscs1024.com/hd/MPS-yjzq-7r9x</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Pulp-rpm: distribution tree publish creates directories from .treeinfo ids</title>
-            <link>https://www.oscs1024.com/hd/MPS-kixe-c4aj</link>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-103870</guid>
+            <title>Brocade Fabric OS 路径穿越漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-b7zt-lwny</link>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94580</guid>
             <description><![CDATA[
-                <h2>Pulp-rpm: distribution tree publish creates directories from .treeinfo ids</h2>
-                <p><strong>编号：</strong>CVE-2026-103870</p>
+                <h2>Brocade Fabric OS 路径穿越漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94580</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kixe-c4aj" target="_blank">https://www.oscs1024.com/hd/MPS-kixe-c4aj</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-b7zt-lwny" target="_blank">https://www.oscs1024.com/hd/MPS-b7zt-lwny</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Pulp-rpm: distribution tree publish creates directories from .treeinfo ids</h2>
-                <p><strong>编号：</strong>CVE-2026-103870</p>
+                <h2>Brocade Fabric OS 路径穿越漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94580</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kixe-c4aj" target="_blank">https://www.oscs1024.com/hd/MPS-kixe-c4aj</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-b7zt-lwny" target="_blank">https://www.oscs1024.com/hd/MPS-b7zt-lwny</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>VMware HGFS 栈溢出逃逸漏洞</title>
-            <link>https://cybersecuritynews.com/vmware-workstation-and-fusion-vulnerabilities/</link>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-59347</guid>
+            <title>Fabric OS RBAC绕过漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-pegk-f6ij</link>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94575</guid>
             <description><![CDATA[
-                <h2>VMware HGFS 栈溢出逃逸漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-59347</p>
+                <h2>Fabric OS RBAC绕过漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94575</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/vmware-workstation-and-fusion-vulnerabilities/" target="_blank">https://cybersecuritynews.com/vmware-workstation-and-fusion-vulnerabilities/</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pegk-f6ij" target="_blank">https://www.oscs1024.com/hd/MPS-pegk-f6ij</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>VMware HGFS 栈溢出逃逸漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-59347</p>
+                <h2>Fabric OS RBAC绕过漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94575</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/vmware-workstation-and-fusion-vulnerabilities/" target="_blank">https://cybersecuritynews.com/vmware-workstation-and-fusion-vulnerabilities/</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pegk-f6ij" target="_blank">https://www.oscs1024.com/hd/MPS-pegk-f6ij</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>VMware VMXNET3 整数溢出漏洞</title>
-            <link>https://cybersecuritynews.com/vmware-workstation-and-fusion-vulnerabilities/</link>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-59346</guid>
+            <title>Brocade Fabric OS Web管理竞态条件漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-ze1q-27kj</link>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94584</guid>
             <description><![CDATA[
-                <h2>VMware VMXNET3 整数溢出漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-59346</p>
+                <h2>Brocade Fabric OS Web管理竞态条件漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94584</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/vmware-workstation-and-fusion-vulnerabilities/" target="_blank">https://cybersecuritynews.com/vmware-workstation-and-fusion-vulnerabilities/</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ze1q-27kj" target="_blank">https://www.oscs1024.com/hd/MPS-ze1q-27kj</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>VMware VMXNET3 整数溢出漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-59346</p>
+                <h2>Brocade Fabric OS Web管理竞态条件漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94584</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/vmware-workstation-and-fusion-vulnerabilities/" target="_blank">https://cybersecuritynews.com/vmware-workstation-and-fusion-vulnerabilities/</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ze1q-27kj" target="_blank">https://www.oscs1024.com/hd/MPS-ze1q-27kj</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-102173漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-0257-kdub</link>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-102173</guid>
+            <title>Brocade Fabric OS跨Fabric越权访问漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-a9tk-y2co</link>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-87687</guid>
             <description><![CDATA[
-                <h2>CVE-2026-102173漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-102173</p>
+                <h2>Brocade Fabric OS跨Fabric越权访问漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87687</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0257-kdub" target="_blank">https://www.oscs1024.com/hd/MPS-0257-kdub</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-a9tk-y2co" target="_blank">https://www.oscs1024.com/hd/MPS-a9tk-y2co</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-102173漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-102173</p>
+                <h2>Brocade Fabric OS跨Fabric越权访问漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87687</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0257-kdub" target="_blank">https://www.oscs1024.com/hd/MPS-0257-kdub</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-a9tk-y2co" target="_blank">https://www.oscs1024.com/hd/MPS-a9tk-y2co</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>FlexNet Publisher lmadmin SOAP Authentication Bypass Vulnerability</title>
-            <link>https://www.oscs1024.com/hd/MPS-e0av-xfhr</link>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-19572</guid>
+            <title>Brocade Fabric OS 命令注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-rd3b-72vg</link>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-87688</guid>
             <description><![CDATA[
-                <h2>FlexNet Publisher lmadmin SOAP Authentication Bypass Vulnerability</h2>
-                <p><strong>编号：</strong>CVE-2026-19572</p>
+                <h2>Brocade Fabric OS 命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87688</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-e0av-xfhr" target="_blank">https://www.oscs1024.com/hd/MPS-e0av-xfhr</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rd3b-72vg" target="_blank">https://www.oscs1024.com/hd/MPS-rd3b-72vg</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>FlexNet Publisher lmadmin SOAP Authentication Bypass Vulnerability</h2>
-                <p><strong>编号：</strong>CVE-2026-19572</p>
+                <h2>Brocade Fabric OS 命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87688</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-e0av-xfhr" target="_blank">https://www.oscs1024.com/hd/MPS-e0av-xfhr</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rd3b-72vg" target="_blank">https://www.oscs1024.com/hd/MPS-rd3b-72vg</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-84897漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-kxfa-r8ct</link>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-84897</guid>
+            <title>Brocade Fabric OS任意文件操作漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-yrcx-o75h</link>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-87685</guid>
             <description><![CDATA[
-                <h2>CVE-2026-84897漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-84897</p>
+                <h2>Brocade Fabric OS任意文件操作漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87685</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kxfa-r8ct" target="_blank">https://www.oscs1024.com/hd/MPS-kxfa-r8ct</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yrcx-o75h" target="_blank">https://www.oscs1024.com/hd/MPS-yrcx-o75h</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-84897漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-84897</p>
+                <h2>Brocade Fabric OS任意文件操作漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87685</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kxfa-r8ct" target="_blank">https://www.oscs1024.com/hd/MPS-kxfa-r8ct</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yrcx-o75h" target="_blank">https://www.oscs1024.com/hd/MPS-yrcx-o75h</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>wolfSSHd on Windows race condition leading to logon token reused across connections</title>
-            <link>https://www.oscs1024.com/hd/MPS-8hel-5czy</link>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-83540</guid>
+            <title>Fabric OS 命令注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-bvka-zy83</link>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-87675</guid>
             <description><![CDATA[
-                <h2>wolfSSHd on Windows race condition leading to logon token reused across connections</h2>
-                <p><strong>编号：</strong>CVE-2026-83540</p>
+                <h2>Fabric OS 命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87675</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8hel-5czy" target="_blank">https://www.oscs1024.com/hd/MPS-8hel-5czy</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bvka-zy83" target="_blank">https://www.oscs1024.com/hd/MPS-bvka-zy83</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>wolfSSHd on Windows race condition leading to logon token reused across connections</h2>
-                <p><strong>编号：</strong>CVE-2026-83540</p>
+                <h2>Fabric OS 命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87675</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8hel-5czy" target="_blank">https://www.oscs1024.com/hd/MPS-8hel-5czy</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bvka-zy83" target="_blank">https://www.oscs1024.com/hd/MPS-bvka-zy83</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-81535漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-z8mn-kql4</link>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-81535</guid>
+            <title>Fabric OS 诊断工具命令注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-cprt-90uf</link>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-87673</guid>
             <description><![CDATA[
-                <h2>CVE-2026-81535漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-81535</p>
+                <h2>Fabric OS 诊断工具命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87673</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-z8mn-kql4" target="_blank">https://www.oscs1024.com/hd/MPS-z8mn-kql4</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-cprt-90uf" target="_blank">https://www.oscs1024.com/hd/MPS-cprt-90uf</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-81535漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-81535</p>
+                <h2>Fabric OS 诊断工具命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87673</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-07</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-z8mn-kql4" target="_blank">https://www.oscs1024.com/hd/MPS-z8mn-kql4</a></p>
+                <p><strong>时间：</strong>2026-10-08</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-cprt-90uf" target="_blank">https://www.oscs1024.com/hd/MPS-cprt-90uf</a></p>
             ]]></content:encoded>
         </item>
 
