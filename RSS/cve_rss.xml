@@ -5,215 +5,215 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Thu, 08 Oct 2026 07:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 07:11:50 GMT</lastBuildDate>
 
         <item>
-            <title>Google Chrome V8 < 15.5.19 沙箱绕过漏洞</title>
-            <link>https://issues.chromium.org/issues/540033151</link>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">MPS-h8od-qbjc</guid>
+            <title>CUPS 类管理双重释放漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-y3x4-r276</link>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-107886</guid>
             <description><![CDATA[
-                <h2>Google Chrome V8 < 15.5.19 沙箱绕过漏洞</h2>
-                <p><strong>编号：</strong>MPS-h8od-qbjc</p>
+                <h2>CUPS 类管理双重释放漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-107886</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://issues.chromium.org/issues/540033151" target="_blank">https://issues.chromium.org/issues/540033151</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-y3x4-r276" target="_blank">https://www.oscs1024.com/hd/MPS-y3x4-r276</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Google Chrome V8 < 15.5.19 沙箱绕过漏洞</h2>
-                <p><strong>编号：</strong>MPS-h8od-qbjc</p>
+                <h2>CUPS 类管理双重释放漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-107886</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://issues.chromium.org/issues/540033151" target="_blank">https://issues.chromium.org/issues/540033151</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-y3x4-r276" target="_blank">https://www.oscs1024.com/hd/MPS-y3x4-r276</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Atlassian Data Center未认证任意文件读取漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-yjzq-7r9x</link>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-21589</guid>
+            <title>CUPS 拒绝服务漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-di6e-vm95</link>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-107885</guid>
             <description><![CDATA[
-                <h2>Atlassian Data Center未认证任意文件读取漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-21589</p>
+                <h2>CUPS 拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-107885</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yjzq-7r9x" target="_blank">https://www.oscs1024.com/hd/MPS-yjzq-7r9x</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-di6e-vm95" target="_blank">https://www.oscs1024.com/hd/MPS-di6e-vm95</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Atlassian Data Center未认证任意文件读取漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-21589</p>
+                <h2>CUPS 拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-107885</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yjzq-7r9x" target="_blank">https://www.oscs1024.com/hd/MPS-yjzq-7r9x</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-di6e-vm95" target="_blank">https://www.oscs1024.com/hd/MPS-di6e-vm95</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Brocade Fabric OS 路径穿越漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-b7zt-lwny</link>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-94580</guid>
+            <title>Microsoft Bookings 提权漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-x4ym-zive</link>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94510</guid>
             <description><![CDATA[
-                <h2>Brocade Fabric OS 路径穿越漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-94580</p>
+                <h2>Microsoft Bookings 提权漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94510</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-b7zt-lwny" target="_blank">https://www.oscs1024.com/hd/MPS-b7zt-lwny</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-x4ym-zive" target="_blank">https://www.oscs1024.com/hd/MPS-x4ym-zive</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Brocade Fabric OS 路径穿越漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-94580</p>
+                <h2>Microsoft Bookings 提权漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94510</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-b7zt-lwny" target="_blank">https://www.oscs1024.com/hd/MPS-b7zt-lwny</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-x4ym-zive" target="_blank">https://www.oscs1024.com/hd/MPS-x4ym-zive</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Fabric OS RBAC绕过漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-pegk-f6ij</link>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-94575</guid>
+            <title>Microsoft Partner Center证书校验提权漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-d3y2-mb8p</link>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-96207</guid>
             <description><![CDATA[
-                <h2>Fabric OS RBAC绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-94575</p>
+                <h2>Microsoft Partner Center证书校验提权漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-96207</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pegk-f6ij" target="_blank">https://www.oscs1024.com/hd/MPS-pegk-f6ij</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-d3y2-mb8p" target="_blank">https://www.oscs1024.com/hd/MPS-d3y2-mb8p</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Fabric OS RBAC绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-94575</p>
+                <h2>Microsoft Partner Center证书校验提权漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-96207</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pegk-f6ij" target="_blank">https://www.oscs1024.com/hd/MPS-pegk-f6ij</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-d3y2-mb8p" target="_blank">https://www.oscs1024.com/hd/MPS-d3y2-mb8p</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Brocade Fabric OS Web管理竞态条件漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-ze1q-27kj</link>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-94584</guid>
+            <title>Dataverse 反序列化远程代码执行漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-uh52-ltxn</link>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-88131</guid>
             <description><![CDATA[
-                <h2>Brocade Fabric OS Web管理竞态条件漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-94584</p>
+                <h2>Dataverse 反序列化远程代码执行漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-88131</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ze1q-27kj" target="_blank">https://www.oscs1024.com/hd/MPS-ze1q-27kj</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-uh52-ltxn" target="_blank">https://www.oscs1024.com/hd/MPS-uh52-ltxn</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Brocade Fabric OS Web管理竞态条件漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-94584</p>
+                <h2>Dataverse 反序列化远程代码执行漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-88131</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ze1q-27kj" target="_blank">https://www.oscs1024.com/hd/MPS-ze1q-27kj</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-uh52-ltxn" target="_blank">https://www.oscs1024.com/hd/MPS-uh52-ltxn</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Brocade Fabric OS跨Fabric越权访问漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-a9tk-y2co</link>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-87687</guid>
+            <title>Azure API Center 信息泄露漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-jt7e-g4or</link>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-83943</guid>
             <description><![CDATA[
-                <h2>Brocade Fabric OS跨Fabric越权访问漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-87687</p>
+                <h2>Azure API Center 信息泄露漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-83943</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-a9tk-y2co" target="_blank">https://www.oscs1024.com/hd/MPS-a9tk-y2co</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-jt7e-g4or" target="_blank">https://www.oscs1024.com/hd/MPS-jt7e-g4or</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Brocade Fabric OS跨Fabric越权访问漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-87687</p>
+                <h2>Azure API Center 信息泄露漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-83943</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-a9tk-y2co" target="_blank">https://www.oscs1024.com/hd/MPS-a9tk-y2co</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-jt7e-g4or" target="_blank">https://www.oscs1024.com/hd/MPS-jt7e-g4or</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Brocade Fabric OS 命令注入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-rd3b-72vg</link>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-87688</guid>
+            <title>Azure Event Grid 欺骗漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-x4z1-ourj</link>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-83947</guid>
             <description><![CDATA[
-                <h2>Brocade Fabric OS 命令注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-87688</p>
+                <h2>Azure Event Grid 欺骗漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-83947</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rd3b-72vg" target="_blank">https://www.oscs1024.com/hd/MPS-rd3b-72vg</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-x4z1-ourj" target="_blank">https://www.oscs1024.com/hd/MPS-x4z1-ourj</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Brocade Fabric OS 命令注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-87688</p>
+                <h2>Azure Event Grid 欺骗漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-83947</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-rd3b-72vg" target="_blank">https://www.oscs1024.com/hd/MPS-rd3b-72vg</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-x4z1-ourj" target="_blank">https://www.oscs1024.com/hd/MPS-x4z1-ourj</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Brocade Fabric OS任意文件操作漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-yrcx-o75h</link>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-87685</guid>
+            <title>Azure App Service身份认证缺失漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-pf4k-6g9t</link>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-77900</guid>
             <description><![CDATA[
-                <h2>Brocade Fabric OS任意文件操作漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-87685</p>
+                <h2>Azure App Service身份认证缺失漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-77900</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yrcx-o75h" target="_blank">https://www.oscs1024.com/hd/MPS-yrcx-o75h</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pf4k-6g9t" target="_blank">https://www.oscs1024.com/hd/MPS-pf4k-6g9t</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Brocade Fabric OS任意文件操作漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-87685</p>
+                <h2>Azure App Service身份认证缺失漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-77900</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yrcx-o75h" target="_blank">https://www.oscs1024.com/hd/MPS-yrcx-o75h</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pf4k-6g9t" target="_blank">https://www.oscs1024.com/hd/MPS-pf4k-6g9t</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Fabric OS 命令注入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-bvka-zy83</link>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-87675</guid>
+            <title>Azure SRE Agent 特权提升漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-7df2-bvh5</link>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-69435</guid>
             <description><![CDATA[
-                <h2>Fabric OS 命令注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-87675</p>
+                <h2>Azure SRE Agent 特权提升漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-69435</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bvka-zy83" target="_blank">https://www.oscs1024.com/hd/MPS-bvka-zy83</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-7df2-bvh5" target="_blank">https://www.oscs1024.com/hd/MPS-7df2-bvh5</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Fabric OS 命令注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-87675</p>
+                <h2>Azure SRE Agent 特权提升漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-69435</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bvka-zy83" target="_blank">https://www.oscs1024.com/hd/MPS-bvka-zy83</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-7df2-bvh5" target="_blank">https://www.oscs1024.com/hd/MPS-7df2-bvh5</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Fabric OS 诊断工具命令注入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-cprt-90uf</link>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-87673</guid>
+            <title>SumatraPDF 参数注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-1fqh-v76x</link>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-107802</guid>
             <description><![CDATA[
-                <h2>Fabric OS 诊断工具命令注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-87673</p>
+                <h2>SumatraPDF 参数注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-107802</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-cprt-90uf" target="_blank">https://www.oscs1024.com/hd/MPS-cprt-90uf</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1fqh-v76x" target="_blank">https://www.oscs1024.com/hd/MPS-1fqh-v76x</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Fabric OS 诊断工具命令注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-87673</p>
+                <h2>SumatraPDF 参数注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-107802</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-08</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-cprt-90uf" target="_blank">https://www.oscs1024.com/hd/MPS-cprt-90uf</a></p>
+                <p><strong>时间：</strong>2026-10-09</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1fqh-v76x" target="_blank">https://www.oscs1024.com/hd/MPS-1fqh-v76x</a></p>
             ]]></content:encoded>
         </item>
 
