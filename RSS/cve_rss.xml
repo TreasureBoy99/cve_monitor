@@ -5,215 +5,215 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Sun, 11 Oct 2026 06:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 07:02:44 GMT</lastBuildDate>
 
         <item>
-            <title>GPAC MP4Box 竞态释放后使用漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-j9d0-5z2r</link>
-            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-108539</guid>
+            <title>Night Shift SQL注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-sbvr-l84d</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-109080</guid>
             <description><![CDATA[
-                <h2>GPAC MP4Box 竞态释放后使用漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108539</p>
+                <h2>Night Shift SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-109080</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j9d0-5z2r" target="_blank">https://www.oscs1024.com/hd/MPS-j9d0-5z2r</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-sbvr-l84d" target="_blank">https://www.oscs1024.com/hd/MPS-sbvr-l84d</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>GPAC MP4Box 竞态释放后使用漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108539</p>
+                <h2>Night Shift SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-109080</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j9d0-5z2r" target="_blank">https://www.oscs1024.com/hd/MPS-j9d0-5z2r</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-sbvr-l84d" target="_blank">https://www.oscs1024.com/hd/MPS-sbvr-l84d</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>GPAC 竞态使用后释放漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-h5g2-rp1x</link>
-            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-108538</guid>
+            <title>招聘系统登录SQL注入</title>
+            <link>https://www.oscs1024.com/hd/MPS-m8ax-wlj2</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-108805</guid>
             <description><![CDATA[
-                <h2>GPAC 竞态使用后释放漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108538</p>
+                <h2>招聘系统登录SQL注入</h2>
+                <p><strong>编号：</strong>CVE-2026-108805</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h5g2-rp1x" target="_blank">https://www.oscs1024.com/hd/MPS-h5g2-rp1x</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-m8ax-wlj2" target="_blank">https://www.oscs1024.com/hd/MPS-m8ax-wlj2</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>GPAC 竞态使用后释放漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108538</p>
+                <h2>招聘系统登录SQL注入</h2>
+                <p><strong>编号：</strong>CVE-2026-108805</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-h5g2-rp1x" target="_blank">https://www.oscs1024.com/hd/MPS-h5g2-rp1x</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-m8ax-wlj2" target="_blank">https://www.oscs1024.com/hd/MPS-m8ax-wlj2</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Sencho SSRF漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-yjf9-4z2g</link>
-            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-108523</guid>
+            <title>招聘系统SQL注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-zveo-8f71</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-108806</guid>
             <description><![CDATA[
-                <h2>Sencho SSRF漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108523</p>
+                <h2>招聘系统SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-108806</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yjf9-4z2g" target="_blank">https://www.oscs1024.com/hd/MPS-yjf9-4z2g</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-zveo-8f71" target="_blank">https://www.oscs1024.com/hd/MPS-zveo-8f71</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Sencho SSRF漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108523</p>
+                <h2>招聘系统SQL注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-108806</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yjf9-4z2g" target="_blank">https://www.oscs1024.com/hd/MPS-yjf9-4z2g</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-zveo-8f71" target="_blank">https://www.oscs1024.com/hd/MPS-zveo-8f71</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Sencho 登录限流绕过漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-t9cw-dyml</link>
-            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-108522</guid>
+            <title>TRENDnet命令注入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-5s08-jnd2</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-108804</guid>
             <description><![CDATA[
-                <h2>Sencho 登录限流绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108522</p>
+                <h2>TRENDnet命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-108804</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-t9cw-dyml" target="_blank">https://www.oscs1024.com/hd/MPS-t9cw-dyml</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5s08-jnd2" target="_blank">https://www.oscs1024.com/hd/MPS-5s08-jnd2</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Sencho 登录限流绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108522</p>
+                <h2>TRENDnet命令注入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-108804</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-t9cw-dyml" target="_blank">https://www.oscs1024.com/hd/MPS-t9cw-dyml</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5s08-jnd2" target="_blank">https://www.oscs1024.com/hd/MPS-5s08-jnd2</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Sencho 远程节点接口SSRF漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-j608-bcrw</link>
-            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-108521</guid>
+            <title>RuoYi会话过期不足漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-ey96-b75p</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-108803</guid>
             <description><![CDATA[
-                <h2>Sencho 远程节点接口SSRF漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108521</p>
+                <h2>RuoYi会话过期不足漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-108803</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j608-bcrw" target="_blank">https://www.oscs1024.com/hd/MPS-j608-bcrw</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ey96-b75p" target="_blank">https://www.oscs1024.com/hd/MPS-ey96-b75p</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Sencho 远程节点接口SSRF漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108521</p>
+                <h2>RuoYi会话过期不足漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-108803</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j608-bcrw" target="_blank">https://www.oscs1024.com/hd/MPS-j608-bcrw</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ey96-b75p" target="_blank">https://www.oscs1024.com/hd/MPS-ey96-b75p</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Wukong_HRM越权访问漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-atpi-mk0q</link>
-            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-108708</guid>
+            <title>Foreman接口授权绕过</title>
+            <link>https://www.oscs1024.com/hd/MPS-5l06-i9rd</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-107203</guid>
             <description><![CDATA[
-                <h2>Wukong_HRM越权访问漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108708</p>
+                <h2>Foreman接口授权绕过</h2>
+                <p><strong>编号：</strong>CVE-2026-107203</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-atpi-mk0q" target="_blank">https://www.oscs1024.com/hd/MPS-atpi-mk0q</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5l06-i9rd" target="_blank">https://www.oscs1024.com/hd/MPS-5l06-i9rd</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Wukong_HRM越权访问漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108708</p>
+                <h2>Foreman接口授权绕过</h2>
+                <p><strong>编号：</strong>CVE-2026-107203</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-atpi-mk0q" target="_blank">https://www.oscs1024.com/hd/MPS-atpi-mk0q</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5l06-i9rd" target="_blank">https://www.oscs1024.com/hd/MPS-5l06-i9rd</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Wukong_HRM鉴权绕过漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-xrij-8p3v</link>
-            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-108707</guid>
+            <title>Foreman过滤器越权删除</title>
+            <link>https://www.oscs1024.com/hd/MPS-ds9e-ugob</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-107193</guid>
             <description><![CDATA[
-                <h2>Wukong_HRM鉴权绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108707</p>
+                <h2>Foreman过滤器越权删除</h2>
+                <p><strong>编号：</strong>CVE-2026-107193</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xrij-8p3v" target="_blank">https://www.oscs1024.com/hd/MPS-xrij-8p3v</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ds9e-ugob" target="_blank">https://www.oscs1024.com/hd/MPS-ds9e-ugob</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Wukong_HRM鉴权绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108707</p>
+                <h2>Foreman过滤器越权删除</h2>
+                <p><strong>编号：</strong>CVE-2026-107193</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xrij-8p3v" target="_blank">https://www.oscs1024.com/hd/MPS-xrij-8p3v</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ds9e-ugob" target="_blank">https://www.oscs1024.com/hd/MPS-ds9e-ugob</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CordysCRM表单导入越权</title>
-            <link>https://www.oscs1024.com/hd/MPS-akfq-mzyg</link>
-            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-108705</guid>
+            <title>RuoYi字典预览XSS</title>
+            <link>https://www.oscs1024.com/hd/MPS-vky5-enos</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-108802</guid>
             <description><![CDATA[
-                <h2>CordysCRM表单导入越权</h2>
-                <p><strong>编号：</strong>CVE-2026-108705</p>
+                <h2>RuoYi字典预览XSS</h2>
+                <p><strong>编号：</strong>CVE-2026-108802</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-akfq-mzyg" target="_blank">https://www.oscs1024.com/hd/MPS-akfq-mzyg</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vky5-enos" target="_blank">https://www.oscs1024.com/hd/MPS-vky5-enos</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CordysCRM表单导入越权</h2>
-                <p><strong>编号：</strong>CVE-2026-108705</p>
+                <h2>RuoYi字典预览XSS</h2>
+                <p><strong>编号：</strong>CVE-2026-108802</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-akfq-mzyg" target="_blank">https://www.oscs1024.com/hd/MPS-akfq-mzyg</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vky5-enos" target="_blank">https://www.oscs1024.com/hd/MPS-vky5-enos</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>eladmin S3下载接口越权</title>
-            <link>https://www.oscs1024.com/hd/MPS-un8k-4emb</link>
-            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-108706</guid>
+            <title>Metasploit路径穿越漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-xyis-ko57</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-87690</guid>
             <description><![CDATA[
-                <h2>eladmin S3下载接口越权</h2>
-                <p><strong>编号：</strong>CVE-2026-108706</p>
+                <h2>Metasploit路径穿越漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87690</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-un8k-4emb" target="_blank">https://www.oscs1024.com/hd/MPS-un8k-4emb</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xyis-ko57" target="_blank">https://www.oscs1024.com/hd/MPS-xyis-ko57</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>eladmin S3下载接口越权</h2>
-                <p><strong>编号：</strong>CVE-2026-108706</p>
+                <h2>Metasploit路径穿越漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-87690</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-un8k-4emb" target="_blank">https://www.oscs1024.com/hd/MPS-un8k-4emb</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xyis-ko57" target="_blank">https://www.oscs1024.com/hd/MPS-xyis-ko57</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CordysCRM 跟进记录越权漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-w0v5-6dru</link>
-            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-108704</guid>
+            <title>Smart Switch授权不当漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-a07f-vwkb</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-21136</guid>
             <description><![CDATA[
-                <h2>CordysCRM 跟进记录越权漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108704</p>
+                <h2>Smart Switch授权不当漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-21136</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-w0v5-6dru" target="_blank">https://www.oscs1024.com/hd/MPS-w0v5-6dru</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-a07f-vwkb" target="_blank">https://www.oscs1024.com/hd/MPS-a07f-vwkb</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CordysCRM 跟进记录越权漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-108704</p>
+                <h2>Smart Switch授权不当漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-21136</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-11</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-w0v5-6dru" target="_blank">https://www.oscs1024.com/hd/MPS-w0v5-6dru</a></p>
+                <p><strong>时间：</strong>2026-10-12</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-a07f-vwkb" target="_blank">https://www.oscs1024.com/hd/MPS-a07f-vwkb</a></p>
             ]]></content:encoded>
         </item>
 
