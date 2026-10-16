@@ -5,215 +5,194 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Thu, 15 Oct 2026 05:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 05:34:26 GMT</lastBuildDate>
 
         <item>
-            <title>NGINX 异步文件 I/O 释放后使用漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-r2ac-mdze</link>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-97205</guid>
+            <title>CVE-2026-92777漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-fncr-heb1</link>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-92777</guid>
             <description><![CDATA[
-                <h2>NGINX 异步文件 I/O 释放后使用漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-97205</p>
+                <h2>CVE-2026-92777漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-92777</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-r2ac-mdze" target="_blank">https://www.oscs1024.com/hd/MPS-r2ac-mdze</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fncr-heb1" target="_blank">https://www.oscs1024.com/hd/MPS-fncr-heb1</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>NGINX 异步文件 I/O 释放后使用漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-97205</p>
+                <h2>CVE-2026-92777漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-92777</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-r2ac-mdze" target="_blank">https://www.oscs1024.com/hd/MPS-r2ac-mdze</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fncr-heb1" target="_blank">https://www.oscs1024.com/hd/MPS-fncr-heb1</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-110809漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-5eqk-p1d9</link>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-110809</guid>
+            <title>CVE-2026-92629漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-riyg-h1n2</link>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-92629</guid>
             <description><![CDATA[
-                <h2>CVE-2026-110809漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-110809</p>
+                <h2>CVE-2026-92629漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-92629</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5eqk-p1d9" target="_blank">https://www.oscs1024.com/hd/MPS-5eqk-p1d9</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-riyg-h1n2" target="_blank">https://www.oscs1024.com/hd/MPS-riyg-h1n2</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-110809漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-110809</p>
+                <h2>CVE-2026-92629漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-92629</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5eqk-p1d9" target="_blank">https://www.oscs1024.com/hd/MPS-5eqk-p1d9</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-riyg-h1n2" target="_blank">https://www.oscs1024.com/hd/MPS-riyg-h1n2</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Heym 0.0.55 before 0.0.121 Credential Theft via error_workflow_id Field</title>
-            <link>https://www.oscs1024.com/hd/MPS-fnio-81x2</link>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-110873</guid>
+            <title>CVE-2026-89062漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-tlzs-3x5u</link>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-89062</guid>
             <description><![CDATA[
-                <h2>Heym 0.0.55 before 0.0.121 Credential Theft via error_workflow_id Field</h2>
-                <p><strong>编号：</strong>CVE-2026-110873</p>
+                <h2>CVE-2026-89062漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-89062</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fnio-81x2" target="_blank">https://www.oscs1024.com/hd/MPS-fnio-81x2</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-tlzs-3x5u" target="_blank">https://www.oscs1024.com/hd/MPS-tlzs-3x5u</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Heym 0.0.55 before 0.0.121 Credential Theft via error_workflow_id Field</h2>
-                <p><strong>编号：</strong>CVE-2026-110873</p>
+                <h2>CVE-2026-89062漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-89062</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-fnio-81x2" target="_blank">https://www.oscs1024.com/hd/MPS-fnio-81x2</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-tlzs-3x5u" target="_blank">https://www.oscs1024.com/hd/MPS-tlzs-3x5u</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Nodemailer 3.0.0 before 10.0.10 Denial of Service via SMTP Reply Parsing</title>
-            <link>https://www.oscs1024.com/hd/MPS-6ro7-l041</link>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-110872</guid>
+            <title>CVE-2026-89057漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-9g7e-hm2k</link>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-89057</guid>
             <description><![CDATA[
-                <h2>Nodemailer 3.0.0 before 10.0.10 Denial of Service via SMTP Reply Parsing</h2>
-                <p><strong>编号：</strong>CVE-2026-110872</p>
+                <h2>CVE-2026-89057漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-89057</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-6ro7-l041" target="_blank">https://www.oscs1024.com/hd/MPS-6ro7-l041</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9g7e-hm2k" target="_blank">https://www.oscs1024.com/hd/MPS-9g7e-hm2k</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Nodemailer 3.0.0 before 10.0.10 Denial of Service via SMTP Reply Parsing</h2>
-                <p><strong>编号：</strong>CVE-2026-110872</p>
+                <h2>CVE-2026-89057漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-89057</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-6ro7-l041" target="_blank">https://www.oscs1024.com/hd/MPS-6ro7-l041</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9g7e-hm2k" target="_blank">https://www.oscs1024.com/hd/MPS-9g7e-hm2k</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Nodemailer before 10.0.13 Improper Input Validation via Angle-Bracket Address Comments</title>
-            <link>https://www.oscs1024.com/hd/MPS-5r1i-h4yd</link>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-110870</guid>
+            <title>CVE-2026-84823漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-mlnf-2vsc</link>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-84823</guid>
             <description><![CDATA[
-                <h2>Nodemailer before 10.0.13 Improper Input Validation via Angle-Bracket Address Comments</h2>
-                <p><strong>编号：</strong>CVE-2026-110870</p>
+                <h2>CVE-2026-84823漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-84823</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5r1i-h4yd" target="_blank">https://www.oscs1024.com/hd/MPS-5r1i-h4yd</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-mlnf-2vsc" target="_blank">https://www.oscs1024.com/hd/MPS-mlnf-2vsc</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Nodemailer before 10.0.13 Improper Input Validation via Angle-Bracket Address Comments</h2>
-                <p><strong>编号：</strong>CVE-2026-110870</p>
+                <h2>CVE-2026-84823漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-84823</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5r1i-h4yd" target="_blank">https://www.oscs1024.com/hd/MPS-5r1i-h4yd</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-mlnf-2vsc" target="_blank">https://www.oscs1024.com/hd/MPS-mlnf-2vsc</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Renovate before 44.60.1 allowedEnv Allowlist Bypass via Shared Preset</title>
-            <link>https://www.oscs1024.com/hd/MPS-o1pl-xngj</link>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-110867</guid>
+            <title>CVE-2026-16755漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-9io3-5wtp</link>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-16755</guid>
             <description><![CDATA[
-                <h2>Renovate before 44.60.1 allowedEnv Allowlist Bypass via Shared Preset</h2>
-                <p><strong>编号：</strong>CVE-2026-110867</p>
+                <h2>CVE-2026-16755漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-16755</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-o1pl-xngj" target="_blank">https://www.oscs1024.com/hd/MPS-o1pl-xngj</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9io3-5wtp" target="_blank">https://www.oscs1024.com/hd/MPS-9io3-5wtp</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Renovate before 44.60.1 allowedEnv Allowlist Bypass via Shared Preset</h2>
-                <p><strong>编号：</strong>CVE-2026-110867</p>
+                <h2>CVE-2026-16755漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-16755</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-o1pl-xngj" target="_blank">https://www.oscs1024.com/hd/MPS-o1pl-xngj</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9io3-5wtp" target="_blank">https://www.oscs1024.com/hd/MPS-9io3-5wtp</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Nodemailer 3.0.0 before 10.0.10 Quadratic DKIM Header Unfolding Denial of Service</title>
-            <link>https://www.oscs1024.com/hd/MPS-b7qu-95px</link>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-110871</guid>
+            <title>CVE-2026-75941漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-trq8-vpux</link>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-75941</guid>
             <description><![CDATA[
-                <h2>Nodemailer 3.0.0 before 10.0.10 Quadratic DKIM Header Unfolding Denial of Service</h2>
-                <p><strong>编号：</strong>CVE-2026-110871</p>
+                <h2>CVE-2026-75941漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-75941</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-b7qu-95px" target="_blank">https://www.oscs1024.com/hd/MPS-b7qu-95px</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-trq8-vpux" target="_blank">https://www.oscs1024.com/hd/MPS-trq8-vpux</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Nodemailer 3.0.0 before 10.0.10 Quadratic DKIM Header Unfolding Denial of Service</h2>
-                <p><strong>编号：</strong>CVE-2026-110871</p>
+                <h2>CVE-2026-75941漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-75941</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-b7qu-95px" target="_blank">https://www.oscs1024.com/hd/MPS-b7qu-95px</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-trq8-vpux" target="_blank">https://www.oscs1024.com/hd/MPS-trq8-vpux</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Renovate before 44.79.0 SSRF via HTTP Preset URLs and customDatasources</title>
-            <link>https://www.oscs1024.com/hd/MPS-83ex-vjpc</link>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-110868</guid>
+            <title>CVE-2026-16754漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-054k-j2fn</link>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-16754</guid>
             <description><![CDATA[
-                <h2>Renovate before 44.79.0 SSRF via HTTP Preset URLs and customDatasources</h2>
-                <p><strong>编号：</strong>CVE-2026-110868</p>
+                <h2>CVE-2026-16754漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-16754</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-83ex-vjpc" target="_blank">https://www.oscs1024.com/hd/MPS-83ex-vjpc</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-054k-j2fn" target="_blank">https://www.oscs1024.com/hd/MPS-054k-j2fn</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Renovate before 44.79.0 SSRF via HTTP Preset URLs and customDatasources</h2>
-                <p><strong>编号：</strong>CVE-2026-110868</p>
+                <h2>CVE-2026-16754漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-16754</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-83ex-vjpc" target="_blank">https://www.oscs1024.com/hd/MPS-83ex-vjpc</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-054k-j2fn" target="_blank">https://www.oscs1024.com/hd/MPS-054k-j2fn</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Renovate before 44.61.3 minimumReleaseAge Bypass via PR Rebase Request</title>
-            <link>https://www.oscs1024.com/hd/MPS-g0q8-z7nl</link>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-110866</guid>
+            <title>CVE-2026-111210漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-yaip-f6x2</link>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-111210</guid>
             <description><![CDATA[
-                <h2>Renovate before 44.61.3 minimumReleaseAge Bypass via PR Rebase Request</h2>
-                <p><strong>编号：</strong>CVE-2026-110866</p>
+                <h2>CVE-2026-111210漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-111210</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-g0q8-z7nl" target="_blank">https://www.oscs1024.com/hd/MPS-g0q8-z7nl</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yaip-f6x2" target="_blank">https://www.oscs1024.com/hd/MPS-yaip-f6x2</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Renovate before 44.61.3 minimumReleaseAge Bypass via PR Rebase Request</h2>
-                <p><strong>编号：</strong>CVE-2026-110866</p>
+                <h2>CVE-2026-111210漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-111210</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-g0q8-z7nl" target="_blank">https://www.oscs1024.com/hd/MPS-g0q8-z7nl</a></p>
-            ]]></content:encoded>
-        </item>
-
-        <item>
-            <title>Renovate before 44.60.1 HTTP Header Allowlist Bypass via Shared Presets</title>
-            <link>https://www.oscs1024.com/hd/MPS-br0k-3on9</link>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-110865</guid>
-            <description><![CDATA[
-                <h2>Renovate before 44.60.1 HTTP Header Allowlist Bypass via Shared Presets</h2>
-                <p><strong>编号：</strong>CVE-2026-110865</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-br0k-3on9" target="_blank">https://www.oscs1024.com/hd/MPS-br0k-3on9</a></p>
-            ]]></description>
-            <content:encoded><![CDATA[
-                <h2>Renovate before 44.60.1 HTTP Header Allowlist Bypass via Shared Presets</h2>
-                <p><strong>编号：</strong>CVE-2026-110865</p>
-                <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-15</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-br0k-3on9" target="_blank">https://www.oscs1024.com/hd/MPS-br0k-3on9</a></p>
+                <p><strong>时间：</strong>2026-10-16</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yaip-f6x2" target="_blank">https://www.oscs1024.com/hd/MPS-yaip-f6x2</a></p>
             ]]></content:encoded>
         </item>
 
