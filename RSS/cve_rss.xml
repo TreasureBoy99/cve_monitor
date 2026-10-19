@@ -5,215 +5,215 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Sun, 18 Oct 2026 05:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 05:51:00 GMT</lastBuildDate>
 
         <item>
-            <title>Online-Examination-System SQL注入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-yzli-ab0r</link>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-111871</guid>
+            <title>FortiOS GUI拒绝服务漏洞</title>
+            <link>https://securityonline.info/fortinet-vulnerabilities-fortisandbox-fortisiem/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-106174</guid>
             <description><![CDATA[
-                <h2>Online-Examination-System SQL注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111871</p>
+                <h2>FortiOS GUI拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-106174</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yzli-ab0r" target="_blank">https://www.oscs1024.com/hd/MPS-yzli-ab0r</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://securityonline.info/fortinet-vulnerabilities-fortisandbox-fortisiem/" target="_blank">https://securityonline.info/fortinet-vulnerabilities-fortisandbox-fortisiem/</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Online-Examination-System SQL注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111871</p>
+                <h2>FortiOS GUI拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-106174</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yzli-ab0r" target="_blank">https://www.oscs1024.com/hd/MPS-yzli-ab0r</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://securityonline.info/fortinet-vulnerabilities-fortisandbox-fortisiem/" target="_blank">https://securityonline.info/fortinet-vulnerabilities-fortisandbox-fortisiem/</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Online-Examination-System SQL注入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-vts2-x8hy</link>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-111872</guid>
+            <title>Rank Math PRO供应链后门</title>
+            <link>https://securityonline.info/rank-math-seo-pro-compromise-exploited/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-111862</guid>
             <description><![CDATA[
-                <h2>Online-Examination-System SQL注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111872</p>
+                <h2>Rank Math PRO供应链后门</h2>
+                <p><strong>编号：</strong>CVE-2026-111862</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vts2-x8hy" target="_blank">https://www.oscs1024.com/hd/MPS-vts2-x8hy</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://securityonline.info/rank-math-seo-pro-compromise-exploited/" target="_blank">https://securityonline.info/rank-math-seo-pro-compromise-exploited/</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Online-Examination-System SQL注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111872</p>
+                <h2>Rank Math PRO供应链后门</h2>
+                <p><strong>编号：</strong>CVE-2026-111862</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vts2-x8hy" target="_blank">https://www.oscs1024.com/hd/MPS-vts2-x8hy</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://securityonline.info/rank-math-seo-pro-compromise-exploited/" target="_blank">https://securityonline.info/rank-math-seo-pro-compromise-exploited/</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>在线考试系统缺失身份认证漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-aj8b-qtcz</link>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-111870</guid>
+            <title>iWebShop开放重定向</title>
+            <link>https://www.oscs1024.com/hd/MPS-1yur-48xs</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-112034</guid>
             <description><![CDATA[
-                <h2>在线考试系统缺失身份认证漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111870</p>
+                <h2>iWebShop开放重定向</h2>
+                <p><strong>编号：</strong>CVE-2026-112034</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-aj8b-qtcz" target="_blank">https://www.oscs1024.com/hd/MPS-aj8b-qtcz</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1yur-48xs" target="_blank">https://www.oscs1024.com/hd/MPS-1yur-48xs</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>在线考试系统缺失身份认证漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111870</p>
+                <h2>iWebShop开放重定向</h2>
+                <p><strong>编号：</strong>CVE-2026-112034</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-aj8b-qtcz" target="_blank">https://www.oscs1024.com/hd/MPS-aj8b-qtcz</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-1yur-48xs" target="_blank">https://www.oscs1024.com/hd/MPS-1yur-48xs</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>FortiSandbox GUI认证绕过漏洞</title>
-            <link>https://cybersecuritynews.com/fortisandbox-gui-vulnerability/</link>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-107656</guid>
+            <title>iWebShop弱密码找回</title>
+            <link>https://www.oscs1024.com/hd/MPS-gf5k-v1oe</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-112035</guid>
             <description><![CDATA[
-                <h2>FortiSandbox GUI认证绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-107656</p>
+                <h2>iWebShop弱密码找回</h2>
+                <p><strong>编号：</strong>CVE-2026-112035</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/fortisandbox-gui-vulnerability/" target="_blank">https://cybersecuritynews.com/fortisandbox-gui-vulnerability/</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-gf5k-v1oe" target="_blank">https://www.oscs1024.com/hd/MPS-gf5k-v1oe</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>FortiSandbox GUI认证绕过漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-107656</p>
+                <h2>iWebShop弱密码找回</h2>
+                <p><strong>编号：</strong>CVE-2026-112035</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://cybersecuritynews.com/fortisandbox-gui-vulnerability/" target="_blank">https://cybersecuritynews.com/fortisandbox-gui-vulnerability/</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-gf5k-v1oe" target="_blank">https://www.oscs1024.com/hd/MPS-gf5k-v1oe</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Plane 未授权用户枚举漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-48lc-d91h</link>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-111869</guid>
+            <title>MuPDF签名锁定双重释放</title>
+            <link>https://www.oscs1024.com/hd/MPS-daft-2nve</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-112036</guid>
             <description><![CDATA[
-                <h2>Plane 未授权用户枚举漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111869</p>
+                <h2>MuPDF签名锁定双重释放</h2>
+                <p><strong>编号：</strong>CVE-2026-112036</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-48lc-d91h" target="_blank">https://www.oscs1024.com/hd/MPS-48lc-d91h</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-daft-2nve" target="_blank">https://www.oscs1024.com/hd/MPS-daft-2nve</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Plane 未授权用户枚举漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111869</p>
+                <h2>MuPDF签名锁定双重释放</h2>
+                <p><strong>编号：</strong>CVE-2026-112036</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-48lc-d91h" target="_blank">https://www.oscs1024.com/hd/MPS-48lc-d91h</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-daft-2nve" target="_blank">https://www.oscs1024.com/hd/MPS-daft-2nve</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>ip-address 正则拒绝服务漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-qxn1-tpc9</link>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-111997</guid>
+            <title>iWebShop跨站请求伪造</title>
+            <link>https://www.oscs1024.com/hd/MPS-uxp5-fdg6</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-112033</guid>
             <description><![CDATA[
-                <h2>ip-address 正则拒绝服务漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111997</p>
+                <h2>iWebShop跨站请求伪造</h2>
+                <p><strong>编号：</strong>CVE-2026-112033</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qxn1-tpc9" target="_blank">https://www.oscs1024.com/hd/MPS-qxn1-tpc9</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-uxp5-fdg6" target="_blank">https://www.oscs1024.com/hd/MPS-uxp5-fdg6</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>ip-address 正则拒绝服务漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111997</p>
+                <h2>iWebShop跨站请求伪造</h2>
+                <p><strong>编号：</strong>CVE-2026-112033</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-qxn1-tpc9" target="_blank">https://www.oscs1024.com/hd/MPS-qxn1-tpc9</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-uxp5-fdg6" target="_blank">https://www.oscs1024.com/hd/MPS-uxp5-fdg6</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>pulsar-jms 反序列化漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-n9pf-4ah8</link>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-111868</guid>
+            <title>Wyse管理套件XSS漏洞</title>
+            <link>https://securityonline.info/dell-wyse-management-suite-xss-vulnerabilities/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-82159</guid>
             <description><![CDATA[
-                <h2>pulsar-jms 反序列化漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111868</p>
+                <h2>Wyse管理套件XSS漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-82159</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-n9pf-4ah8" target="_blank">https://www.oscs1024.com/hd/MPS-n9pf-4ah8</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://securityonline.info/dell-wyse-management-suite-xss-vulnerabilities/" target="_blank">https://securityonline.info/dell-wyse-management-suite-xss-vulnerabilities/</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>pulsar-jms 反序列化漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111868</p>
+                <h2>Wyse管理套件XSS漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-82159</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-n9pf-4ah8" target="_blank">https://www.oscs1024.com/hd/MPS-n9pf-4ah8</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://securityonline.info/dell-wyse-management-suite-xss-vulnerabilities/" target="_blank">https://securityonline.info/dell-wyse-management-suite-xss-vulnerabilities/</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>manong SQL注入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-d1mu-gqpi</link>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-111866</guid>
+            <title>iWebShop SQL注入</title>
+            <link>https://www.oscs1024.com/hd/MPS-ma8b-ju42</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-112032</guid>
             <description><![CDATA[
-                <h2>manong SQL注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111866</p>
+                <h2>iWebShop SQL注入</h2>
+                <p><strong>编号：</strong>CVE-2026-112032</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-d1mu-gqpi" target="_blank">https://www.oscs1024.com/hd/MPS-d1mu-gqpi</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ma8b-ju42" target="_blank">https://www.oscs1024.com/hd/MPS-ma8b-ju42</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>manong SQL注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111866</p>
+                <h2>iWebShop SQL注入</h2>
+                <p><strong>编号：</strong>CVE-2026-112032</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-d1mu-gqpi" target="_blank">https://www.oscs1024.com/hd/MPS-d1mu-gqpi</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ma8b-ju42" target="_blank">https://www.oscs1024.com/hd/MPS-ma8b-ju42</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>YOLOE 模型加载代码执行漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-kyuf-mzvr</link>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-111865</guid>
+            <title>Chamilo工单存储XSS</title>
+            <link>https://www.oscs1024.com/hd/MPS-meko-su0j</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-112031</guid>
             <description><![CDATA[
-                <h2>YOLOE 模型加载代码执行漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111865</p>
+                <h2>Chamilo工单存储XSS</h2>
+                <p><strong>编号：</strong>CVE-2026-112031</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kyuf-mzvr" target="_blank">https://www.oscs1024.com/hd/MPS-kyuf-mzvr</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-meko-su0j" target="_blank">https://www.oscs1024.com/hd/MPS-meko-su0j</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>YOLOE 模型加载代码执行漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111865</p>
+                <h2>Chamilo工单存储XSS</h2>
+                <p><strong>编号：</strong>CVE-2026-112031</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kyuf-mzvr" target="_blank">https://www.oscs1024.com/hd/MPS-kyuf-mzvr</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-meko-su0j" target="_blank">https://www.oscs1024.com/hd/MPS-meko-su0j</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Online-Examination-System SQL注入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-vfrk-39gq</link>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-111873</guid>
+            <title>Diem超级管理员默认口令漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-nl3c-auri</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-112030</guid>
             <description><![CDATA[
-                <h2>Online-Examination-System SQL注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111873</p>
+                <h2>Diem超级管理员默认口令漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-112030</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vfrk-39gq" target="_blank">https://www.oscs1024.com/hd/MPS-vfrk-39gq</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-nl3c-auri" target="_blank">https://www.oscs1024.com/hd/MPS-nl3c-auri</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Online-Examination-System SQL注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-111873</p>
+                <h2>Diem超级管理员默认口令漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-112030</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-18</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-vfrk-39gq" target="_blank">https://www.oscs1024.com/hd/MPS-vfrk-39gq</a></p>
+                <p><strong>时间：</strong>2026-10-19</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-nl3c-auri" target="_blank">https://www.oscs1024.com/hd/MPS-nl3c-auri</a></p>
             ]]></content:encoded>
         </item>
 
