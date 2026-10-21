@@ -5,215 +5,236 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Tue, 20 Oct 2026 05:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 05:47:28 GMT</lastBuildDate>
 
         <item>
-            <title>Zephyr HFP缓冲区泄漏</title>
-            <link>https://www.oscs1024.com/hd/MPS-50hr-yeqw</link>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-77684</guid>
+            <title>eMudhra中间证书私钥泄露漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-otuq-1y95</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">MPS-otuq-1y95</guid>
             <description><![CDATA[
-                <h2>Zephyr HFP缓冲区泄漏</h2>
-                <p><strong>编号：</strong>CVE-2026-77684</p>
+                <h2>eMudhra中间证书私钥泄露漏洞</h2>
+                <p><strong>编号：</strong>MPS-otuq-1y95</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-50hr-yeqw" target="_blank">https://www.oscs1024.com/hd/MPS-50hr-yeqw</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-otuq-1y95" target="_blank">https://www.oscs1024.com/hd/MPS-otuq-1y95</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Zephyr HFP缓冲区泄漏</h2>
-                <p><strong>编号：</strong>CVE-2026-77684</p>
+                <h2>eMudhra中间证书私钥泄露漏洞</h2>
+                <p><strong>编号：</strong>MPS-otuq-1y95</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-50hr-yeqw" target="_blank">https://www.oscs1024.com/hd/MPS-50hr-yeqw</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-otuq-1y95" target="_blank">https://www.oscs1024.com/hd/MPS-otuq-1y95</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>TS4500角色映射竞态漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-v6qk-2yjc</link>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-19178</guid>
+            <title>PHP远程代码执行漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-dot5-kbxm</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-109619</guid>
             <description><![CDATA[
-                <h2>TS4500角色映射竞态漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-19178</p>
+                <h2>PHP远程代码执行漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-109619</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-v6qk-2yjc" target="_blank">https://www.oscs1024.com/hd/MPS-v6qk-2yjc</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dot5-kbxm" target="_blank">https://www.oscs1024.com/hd/MPS-dot5-kbxm</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>TS4500角色映射竞态漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-19178</p>
+                <h2>PHP远程代码执行漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-109619</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-v6qk-2yjc" target="_blank">https://www.oscs1024.com/hd/MPS-v6qk-2yjc</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dot5-kbxm" target="_blank">https://www.oscs1024.com/hd/MPS-dot5-kbxm</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>MISP模块SSRF漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-zu50-dx3k</link>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-112991</guid>
+            <title>PHP未授权远程代码执行漏洞</title>
+            <link>https://www.php.net/archive/2026.php#2026-10-20-1</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-109618</guid>
             <description><![CDATA[
-                <h2>MISP模块SSRF漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-112991</p>
+                <h2>PHP未授权远程代码执行漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-109618</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-zu50-dx3k" target="_blank">https://www.oscs1024.com/hd/MPS-zu50-dx3k</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.php.net/archive/2026.php#2026-10-20-1" target="_blank">https://www.php.net/archive/2026.php#2026-10-20-1</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>MISP模块SSRF漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-112991</p>
+                <h2>PHP未授权远程代码执行漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-109618</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-zu50-dx3k" target="_blank">https://www.oscs1024.com/hd/MPS-zu50-dx3k</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.php.net/archive/2026.php#2026-10-20-1" target="_blank">https://www.php.net/archive/2026.php#2026-10-20-1</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>H3C NX15路径穿越漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-71hu-kejz</link>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-112372</guid>
+            <title>CVE-2026-113705 漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-dr4y-etws</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-113705</guid>
             <description><![CDATA[
-                <h2>H3C NX15路径穿越漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-112372</p>
+                <h2>CVE-2026-113705 漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-113705</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-71hu-kejz" target="_blank">https://www.oscs1024.com/hd/MPS-71hu-kejz</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dr4y-etws" target="_blank">https://www.oscs1024.com/hd/MPS-dr4y-etws</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>H3C NX15路径穿越漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-112372</p>
+                <h2>CVE-2026-113705 漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-113705</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-71hu-kejz" target="_blank">https://www.oscs1024.com/hd/MPS-71hu-kejz</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dr4y-etws" target="_blank">https://www.oscs1024.com/hd/MPS-dr4y-etws</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>H3C NX15代码注入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-ljk0-v3x5</link>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-112371</guid>
+            <title>Mozilla::CA根证书漏洞</title>
+            <link>https://www.openwall.com/lists/oss-security/2026/10/20/36</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-113812</guid>
             <description><![CDATA[
-                <h2>H3C NX15代码注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-112371</p>
+                <h2>Mozilla::CA根证书漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-113812</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ljk0-v3x5" target="_blank">https://www.oscs1024.com/hd/MPS-ljk0-v3x5</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.openwall.com/lists/oss-security/2026/10/20/36" target="_blank">https://www.openwall.com/lists/oss-security/2026/10/20/36</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>H3C NX15代码注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-112371</p>
+                <h2>Mozilla::CA根证书漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-113812</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-ljk0-v3x5" target="_blank">https://www.oscs1024.com/hd/MPS-ljk0-v3x5</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.openwall.com/lists/oss-security/2026/10/20/36" target="_blank">https://www.openwall.com/lists/oss-security/2026/10/20/36</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>Zephyr RTIO写校验漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-7w1s-683b</link>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-19595</guid>
+            <title>Cyber Fraud Cookie属性缺失</title>
+            <link>https://www.oscs1024.com/hd/MPS-yp78-vtrz</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-9825</guid>
             <description><![CDATA[
-                <h2>Zephyr RTIO写校验漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-19595</p>
+                <h2>Cyber Fraud Cookie属性缺失</h2>
+                <p><strong>编号：</strong>CVE-2026-9825</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-7w1s-683b" target="_blank">https://www.oscs1024.com/hd/MPS-7w1s-683b</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yp78-vtrz" target="_blank">https://www.oscs1024.com/hd/MPS-yp78-vtrz</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>Zephyr RTIO写校验漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-19595</p>
+                <h2>Cyber Fraud Cookie属性缺失</h2>
+                <p><strong>编号：</strong>CVE-2026-9825</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-7w1s-683b" target="_blank">https://www.oscs1024.com/hd/MPS-7w1s-683b</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yp78-vtrz" target="_blank">https://www.oscs1024.com/hd/MPS-yp78-vtrz</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>TS4500拒绝服务漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-pbl5-0vai</link>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2025-36061</guid>
+            <title>CVE-2026-91668漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-plzu-t8rh</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-91668</guid>
             <description><![CDATA[
-                <h2>TS4500拒绝服务漏洞</h2>
-                <p><strong>编号：</strong>CVE-2025-36061</p>
+                <h2>CVE-2026-91668漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-91668</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pbl5-0vai" target="_blank">https://www.oscs1024.com/hd/MPS-pbl5-0vai</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-plzu-t8rh" target="_blank">https://www.oscs1024.com/hd/MPS-plzu-t8rh</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>TS4500拒绝服务漏洞</h2>
-                <p><strong>编号：</strong>CVE-2025-36061</p>
+                <h2>CVE-2026-91668漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-91668</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-pbl5-0vai" target="_blank">https://www.oscs1024.com/hd/MPS-pbl5-0vai</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-plzu-t8rh" target="_blank">https://www.oscs1024.com/hd/MPS-plzu-t8rh</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>TS4500会话未失效漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-yt0x-qb2f</link>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2025-36069</guid>
+            <title>MeterChart XSS漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-4q31-gdhs</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-94402</guid>
             <description><![CDATA[
-                <h2>TS4500会话未失效漏洞</h2>
-                <p><strong>编号：</strong>CVE-2025-36069</p>
+                <h2>MeterChart XSS漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94402</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yt0x-qb2f" target="_blank">https://www.oscs1024.com/hd/MPS-yt0x-qb2f</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-4q31-gdhs" target="_blank">https://www.oscs1024.com/hd/MPS-4q31-gdhs</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>TS4500会话未失效漏洞</h2>
-                <p><strong>编号：</strong>CVE-2025-36069</p>
+                <h2>MeterChart XSS漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-94402</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yt0x-qb2f" target="_blank">https://www.oscs1024.com/hd/MPS-yt0x-qb2f</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-4q31-gdhs" target="_blank">https://www.oscs1024.com/hd/MPS-4q31-gdhs</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>TS4500会话未失效漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-x3nc-kywe</link>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2025-36252</guid>
+            <title>CVE-2026-93442 漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-7rjw-bnaq</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-93442</guid>
             <description><![CDATA[
-                <h2>TS4500会话未失效漏洞</h2>
-                <p><strong>编号：</strong>CVE-2025-36252</p>
+                <h2>CVE-2026-93442 漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-93442</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-x3nc-kywe" target="_blank">https://www.oscs1024.com/hd/MPS-x3nc-kywe</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-7rjw-bnaq" target="_blank">https://www.oscs1024.com/hd/MPS-7rjw-bnaq</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>TS4500会话未失效漏洞</h2>
-                <p><strong>编号：</strong>CVE-2025-36252</p>
+                <h2>CVE-2026-93442 漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-93442</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-x3nc-kywe" target="_blank">https://www.oscs1024.com/hd/MPS-x3nc-kywe</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-7rjw-bnaq" target="_blank">https://www.oscs1024.com/hd/MPS-7rjw-bnaq</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>H3C NX15命令注入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-3pj6-guzw</link>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-112370</guid>
+            <title>CVE-2026-93441 漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-3r9n-jz2f</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-93441</guid>
             <description><![CDATA[
-                <h2>H3C NX15命令注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-112370</p>
+                <h2>CVE-2026-93441 漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-93441</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-3pj6-guzw" target="_blank">https://www.oscs1024.com/hd/MPS-3pj6-guzw</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-3r9n-jz2f" target="_blank">https://www.oscs1024.com/hd/MPS-3r9n-jz2f</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>H3C NX15命令注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-112370</p>
+                <h2>CVE-2026-93441 漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-93441</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-20</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-3pj6-guzw" target="_blank">https://www.oscs1024.com/hd/MPS-3pj6-guzw</a></p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-3r9n-jz2f" target="_blank">https://www.oscs1024.com/hd/MPS-3r9n-jz2f</a></p>
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>Cursor AI 代码编辑器 命令注入漏洞</title>
+            <link>https://x.threatbook.com/v5/vul/XVE-2025-42130</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">XVE-2025-42130</guid>
+            <description><![CDATA[
+                <h2>Cursor AI 代码编辑器 命令注入漏洞</h2>
+                <p><strong>编号：</strong>XVE-2025-42130</p>
+                <p><strong>来源：</strong>微步</p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2025-42130" target="_blank">https://x.threatbook.com/v5/vul/XVE-2025-42130</a></p>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <h2>Cursor AI 代码编辑器 命令注入漏洞</h2>
+                <p><strong>编号：</strong>XVE-2025-42130</p>
+                <p><strong>来源：</strong>微步</p>
+                <p><strong>时间：</strong>2026-10-21</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2025-42130" target="_blank">https://x.threatbook.com/v5/vul/XVE-2025-42130</a></p>
             ]]></content:encoded>
         </item>
 
