@@ -5,257 +5,236 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Thu, 22 Oct 2026 05:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 05:49:08 GMT</lastBuildDate>
 
         <item>
-            <title>CVE-2026-114223 漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-d47v-t0rc</link>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-114223</guid>
+            <title>gedelumbung HospitalManagement Admin Routing routing_pages.php simpan cross site scripting</title>
+            <link>https://www.oscs1024.com/hd/MPS-9tko-2hn8</link>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-115536</guid>
             <description><![CDATA[
-                <h2>CVE-2026-114223 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114223</p>
+                <h2>gedelumbung HospitalManagement Admin Routing routing_pages.php simpan cross site scripting</h2>
+                <p><strong>编号：</strong>CVE-2026-115536</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-d47v-t0rc" target="_blank">https://www.oscs1024.com/hd/MPS-d47v-t0rc</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9tko-2hn8" target="_blank">https://www.oscs1024.com/hd/MPS-9tko-2hn8</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-114223 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114223</p>
+                <h2>gedelumbung HospitalManagement Admin Routing routing_pages.php simpan cross site scripting</h2>
+                <p><strong>编号：</strong>CVE-2026-115536</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-d47v-t0rc" target="_blank">https://www.oscs1024.com/hd/MPS-d47v-t0rc</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-9tko-2hn8" target="_blank">https://www.oscs1024.com/hd/MPS-9tko-2hn8</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-114222 漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-u8jo-60fr</link>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-114222</guid>
+            <title>Server-Side Request Forgery (SSRF) Leading to Internal Solr Data Disclosure</title>
+            <link>https://www.oscs1024.com/hd/MPS-hsqf-vymi</link>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-19678</guid>
             <description><![CDATA[
-                <h2>CVE-2026-114222 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114222</p>
+                <h2>Server-Side Request Forgery (SSRF) Leading to Internal Solr Data Disclosure</h2>
+                <p><strong>编号：</strong>CVE-2026-19678</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-u8jo-60fr" target="_blank">https://www.oscs1024.com/hd/MPS-u8jo-60fr</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-hsqf-vymi" target="_blank">https://www.oscs1024.com/hd/MPS-hsqf-vymi</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-114222 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114222</p>
+                <h2>Server-Side Request Forgery (SSRF) Leading to Internal Solr Data Disclosure</h2>
+                <p><strong>编号：</strong>CVE-2026-19678</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-u8jo-60fr" target="_blank">https://www.oscs1024.com/hd/MPS-u8jo-60fr</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-hsqf-vymi" target="_blank">https://www.oscs1024.com/hd/MPS-hsqf-vymi</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-114221 漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-3k8w-z5m2</link>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-114221</guid>
+            <title>Authentication Bypass Leading to Server-Side Command Execution</title>
+            <link>https://www.oscs1024.com/hd/MPS-x7iw-q4bs</link>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-19677</guid>
             <description><![CDATA[
-                <h2>CVE-2026-114221 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114221</p>
+                <h2>Authentication Bypass Leading to Server-Side Command Execution</h2>
+                <p><strong>编号：</strong>CVE-2026-19677</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-3k8w-z5m2" target="_blank">https://www.oscs1024.com/hd/MPS-3k8w-z5m2</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-x7iw-q4bs" target="_blank">https://www.oscs1024.com/hd/MPS-x7iw-q4bs</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-114221 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114221</p>
+                <h2>Authentication Bypass Leading to Server-Side Command Execution</h2>
+                <p><strong>编号：</strong>CVE-2026-19677</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-3k8w-z5m2" target="_blank">https://www.oscs1024.com/hd/MPS-3k8w-z5m2</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-x7iw-q4bs" target="_blank">https://www.oscs1024.com/hd/MPS-x7iw-q4bs</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-114220 漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-zht7-0lpy</link>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-114220</guid>
+            <title>gedelumbung HospitalManagement URL Validation routing_pages.php simpan redirect</title>
+            <link>https://www.oscs1024.com/hd/MPS-q5rf-yz4t</link>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-115537</guid>
             <description><![CDATA[
-                <h2>CVE-2026-114220 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114220</p>
+                <h2>gedelumbung HospitalManagement URL Validation routing_pages.php simpan redirect</h2>
+                <p><strong>编号：</strong>CVE-2026-115537</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-zht7-0lpy" target="_blank">https://www.oscs1024.com/hd/MPS-zht7-0lpy</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-q5rf-yz4t" target="_blank">https://www.oscs1024.com/hd/MPS-q5rf-yz4t</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-114220 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114220</p>
+                <h2>gedelumbung HospitalManagement URL Validation routing_pages.php simpan redirect</h2>
+                <p><strong>编号：</strong>CVE-2026-115537</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-zht7-0lpy" target="_blank">https://www.oscs1024.com/hd/MPS-zht7-0lpy</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-q5rf-yz4t" target="_blank">https://www.oscs1024.com/hd/MPS-q5rf-yz4t</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-114219 漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-bczd-x0w4</link>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-114219</guid>
+            <title>gedelumbung HospitalManagement Settings sistem.php simpan cross site scripting</title>
+            <link>https://www.oscs1024.com/hd/MPS-yzr0-lgev</link>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-115535</guid>
             <description><![CDATA[
-                <h2>CVE-2026-114219 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114219</p>
+                <h2>gedelumbung HospitalManagement Settings sistem.php simpan cross site scripting</h2>
+                <p><strong>编号：</strong>CVE-2026-115535</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bczd-x0w4" target="_blank">https://www.oscs1024.com/hd/MPS-bczd-x0w4</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yzr0-lgev" target="_blank">https://www.oscs1024.com/hd/MPS-yzr0-lgev</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-114219 漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114219</p>
+                <h2>gedelumbung HospitalManagement Settings sistem.php simpan cross site scripting</h2>
+                <p><strong>编号：</strong>CVE-2026-115535</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bczd-x0w4" target="_blank">https://www.oscs1024.com/hd/MPS-bczd-x0w4</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yzr0-lgev" target="_blank">https://www.oscs1024.com/hd/MPS-yzr0-lgev</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-114729漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-orhu-70lw</link>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-114729</guid>
+            <title>Open-iscsi: open-iscsi: dhcpv4 option parser heap out-of-bounds read in iscsiuio parse_msg</title>
+            <link>https://www.oscs1024.com/hd/MPS-as74-tx23</link>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-115484</guid>
             <description><![CDATA[
-                <h2>CVE-2026-114729漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114729</p>
+                <h2>Open-iscsi: open-iscsi: dhcpv4 option parser heap out-of-bounds read in iscsiuio parse_msg</h2>
+                <p><strong>编号：</strong>CVE-2026-115484</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-orhu-70lw" target="_blank">https://www.oscs1024.com/hd/MPS-orhu-70lw</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-as74-tx23" target="_blank">https://www.oscs1024.com/hd/MPS-as74-tx23</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-114729漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114729</p>
+                <h2>Open-iscsi: open-iscsi: dhcpv4 option parser heap out-of-bounds read in iscsiuio parse_msg</h2>
+                <p><strong>编号：</strong>CVE-2026-115484</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-orhu-70lw" target="_blank">https://www.oscs1024.com/hd/MPS-orhu-70lw</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-as74-tx23" target="_blank">https://www.oscs1024.com/hd/MPS-as74-tx23</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-114730漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-xy49-b0wl</link>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-114730</guid>
+            <title>CVE-2026-115486漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-yuwk-1r3p</link>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-115486</guid>
             <description><![CDATA[
-                <h2>CVE-2026-114730漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114730</p>
+                <h2>CVE-2026-115486漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-115486</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xy49-b0wl" target="_blank">https://www.oscs1024.com/hd/MPS-xy49-b0wl</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yuwk-1r3p" target="_blank">https://www.oscs1024.com/hd/MPS-yuwk-1r3p</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-114730漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114730</p>
+                <h2>CVE-2026-115486漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-115486</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-xy49-b0wl" target="_blank">https://www.oscs1024.com/hd/MPS-xy49-b0wl</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yuwk-1r3p" target="_blank">https://www.oscs1024.com/hd/MPS-yuwk-1r3p</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-114731漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-eiz9-nm5a</link>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-114731</guid>
+            <title>CVE-2026-115485漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-lp9y-avqw</link>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-115485</guid>
             <description><![CDATA[
-                <h2>CVE-2026-114731漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114731</p>
+                <h2>CVE-2026-115485漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-115485</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-eiz9-nm5a" target="_blank">https://www.oscs1024.com/hd/MPS-eiz9-nm5a</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-lp9y-avqw" target="_blank">https://www.oscs1024.com/hd/MPS-lp9y-avqw</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-114731漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114731</p>
+                <h2>CVE-2026-115485漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-115485</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-eiz9-nm5a" target="_blank">https://www.oscs1024.com/hd/MPS-eiz9-nm5a</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-lp9y-avqw" target="_blank">https://www.oscs1024.com/hd/MPS-lp9y-avqw</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-114732漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-gj0x-2dk8</link>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-114732</guid>
+            <title>HospitalManagement 存储型XSS</title>
+            <link>https://www.oscs1024.com/hd/MPS-0qpa-w3j9</link>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-115534</guid>
             <description><![CDATA[
-                <h2>CVE-2026-114732漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114732</p>
+                <h2>HospitalManagement 存储型XSS</h2>
+                <p><strong>编号：</strong>CVE-2026-115534</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-gj0x-2dk8" target="_blank">https://www.oscs1024.com/hd/MPS-gj0x-2dk8</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0qpa-w3j9" target="_blank">https://www.oscs1024.com/hd/MPS-0qpa-w3j9</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-114732漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-114732</p>
+                <h2>HospitalManagement 存储型XSS</h2>
+                <p><strong>编号：</strong>CVE-2026-115534</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-gj0x-2dk8" target="_blank">https://www.oscs1024.com/hd/MPS-gj0x-2dk8</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0qpa-w3j9" target="_blank">https://www.oscs1024.com/hd/MPS-0qpa-w3j9</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>CVE-2026-110354漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-kv6f-3uix</link>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-110354</guid>
+            <title>Kiloview E3 NDI Encoder Use of Hard-coded Credentials</title>
+            <link>https://www.oscs1024.com/hd/MPS-e3pz-y20b</link>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-92450</guid>
             <description><![CDATA[
-                <h2>CVE-2026-110354漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-110354</p>
+                <h2>Kiloview E3 NDI Encoder Use of Hard-coded Credentials</h2>
+                <p><strong>编号：</strong>CVE-2026-92450</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kv6f-3uix" target="_blank">https://www.oscs1024.com/hd/MPS-kv6f-3uix</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-e3pz-y20b" target="_blank">https://www.oscs1024.com/hd/MPS-e3pz-y20b</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>CVE-2026-110354漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-110354</p>
+                <h2>Kiloview E3 NDI Encoder Use of Hard-coded Credentials</h2>
+                <p><strong>编号：</strong>CVE-2026-92450</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kv6f-3uix" target="_blank">https://www.oscs1024.com/hd/MPS-kv6f-3uix</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-e3pz-y20b" target="_blank">https://www.oscs1024.com/hd/MPS-e3pz-y20b</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>PHP 远程代码执行漏洞</title>
-            <link>https://x.threatbook.com/v5/vul/XVE-2026-84070</link>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">XVE-2026-84070</guid>
+            <title>Google Guava反序列化资源分配未限制导致拒绝服务漏洞</title>
+            <link>https://x.threatbook.com/v5/vul/XVE-2026-75446</link>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">XVE-2026-75446</guid>
             <description><![CDATA[
-                <h2>PHP 远程代码执行漏洞</h2>
-                <p><strong>编号：</strong>XVE-2026-84070</p>
+                <h2>Google Guava反序列化资源分配未限制导致拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>XVE-2026-75446</p>
                 <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-84070" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-84070</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-75446" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-75446</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>PHP 远程代码执行漏洞</h2>
-                <p><strong>编号：</strong>XVE-2026-84070</p>
+                <h2>Google Guava反序列化资源分配未限制导致拒绝服务漏洞</h2>
+                <p><strong>编号：</strong>XVE-2026-75446</p>
                 <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-84070" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-84070</a></p>
-            ]]></content:encoded>
-        </item>
-
-        <item>
-            <title>PHP 远程代码执行漏洞</title>
-            <link>https://x.threatbook.com/v5/vul/XVE-2026-84069</link>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">XVE-2026-84069</guid>
-            <description><![CDATA[
-                <h2>PHP 远程代码执行漏洞</h2>
-                <p><strong>编号：</strong>XVE-2026-84069</p>
-                <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-84069" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-84069</a></p>
-            ]]></description>
-            <content:encoded><![CDATA[
-                <h2>PHP 远程代码执行漏洞</h2>
-                <p><strong>编号：</strong>XVE-2026-84069</p>
-                <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-10-22</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-84069" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-84069</a></p>
+                <p><strong>时间：</strong>2026-10-23</p>
+                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-75446" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-75446</a></p>
             ]]></content:encoded>
         </item>
 
