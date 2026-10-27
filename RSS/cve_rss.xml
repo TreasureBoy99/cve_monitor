@@ -5,236 +5,215 @@
         <link>https://github.com/anonymous99-Rise/cve_monitor</link>
         <description>威胁情报汇总 - 包含每日和每周威胁情报</description>
         <language>zh-CN</language>
-        <lastBuildDate>Mon, 26 Oct 2026 05:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 06:03:16 GMT</lastBuildDate>
 
         <item>
-            <title>产品集插件授权缺失</title>
-            <link>https://www.oscs1024.com/hd/MPS-2lo1-84zm</link>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-116107</guid>
+            <title>Psono设备码权限提升</title>
+            <link>https://www.oscs1024.com/hd/MPS-j1tb-syud</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-117468</guid>
             <description><![CDATA[
-                <h2>产品集插件授权缺失</h2>
-                <p><strong>编号：</strong>CVE-2026-116107</p>
+                <h2>Psono设备码权限提升</h2>
+                <p><strong>编号：</strong>CVE-2026-117468</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2lo1-84zm" target="_blank">https://www.oscs1024.com/hd/MPS-2lo1-84zm</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j1tb-syud" target="_blank">https://www.oscs1024.com/hd/MPS-j1tb-syud</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>产品集插件授权缺失</h2>
-                <p><strong>编号：</strong>CVE-2026-116107</p>
+                <h2>Psono设备码权限提升</h2>
+                <p><strong>编号：</strong>CVE-2026-117468</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-2lo1-84zm" target="_blank">https://www.oscs1024.com/hd/MPS-2lo1-84zm</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-j1tb-syud" target="_blank">https://www.oscs1024.com/hd/MPS-j1tb-syud</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>OpenBB跨域配置漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-nhs6-m1ql</link>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-116108</guid>
+            <title>CVE-2026-111820 漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-yhm4-rcz6</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-111820</guid>
             <description><![CDATA[
-                <h2>OpenBB跨域配置漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-116108</p>
+                <h2>CVE-2026-111820 漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-111820</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-nhs6-m1ql" target="_blank">https://www.oscs1024.com/hd/MPS-nhs6-m1ql</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yhm4-rcz6" target="_blank">https://www.oscs1024.com/hd/MPS-yhm4-rcz6</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>OpenBB跨域配置漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-116108</p>
+                <h2>CVE-2026-111820 漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-111820</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-nhs6-m1ql" target="_blank">https://www.oscs1024.com/hd/MPS-nhs6-m1ql</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-yhm4-rcz6" target="_blank">https://www.oscs1024.com/hd/MPS-yhm4-rcz6</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>HeyCyan明文传输漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-upl7-nvi0</link>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-116105</guid>
+            <title>Apple内核UAF漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-oiyp-l104</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-86916</guid>
             <description><![CDATA[
-                <h2>HeyCyan明文传输漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-116105</p>
+                <h2>Apple内核UAF漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86916</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-upl7-nvi0" target="_blank">https://www.oscs1024.com/hd/MPS-upl7-nvi0</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-oiyp-l104" target="_blank">https://www.oscs1024.com/hd/MPS-oiyp-l104</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>HeyCyan明文传输漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-116105</p>
+                <h2>Apple内核UAF漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-86916</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-upl7-nvi0" target="_blank">https://www.oscs1024.com/hd/MPS-upl7-nvi0</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-oiyp-l104" target="_blank">https://www.oscs1024.com/hd/MPS-oiyp-l104</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>HeyCyan文件访问越权</title>
-            <link>https://www.oscs1024.com/hd/MPS-we31-fib5</link>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-116106</guid>
+            <title>macOS神经引擎沙箱逃逸</title>
+            <link>https://www.oscs1024.com/hd/MPS-elhi-tv1y</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-84633</guid>
             <description><![CDATA[
-                <h2>HeyCyan文件访问越权</h2>
-                <p><strong>编号：</strong>CVE-2026-116106</p>
+                <h2>macOS神经引擎沙箱逃逸</h2>
+                <p><strong>编号：</strong>CVE-2026-84633</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-we31-fib5" target="_blank">https://www.oscs1024.com/hd/MPS-we31-fib5</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-elhi-tv1y" target="_blank">https://www.oscs1024.com/hd/MPS-elhi-tv1y</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>HeyCyan文件访问越权</h2>
-                <p><strong>编号：</strong>CVE-2026-116106</p>
+                <h2>macOS神经引擎沙箱逃逸</h2>
+                <p><strong>编号：</strong>CVE-2026-84633</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-we31-fib5" target="_blank">https://www.oscs1024.com/hd/MPS-we31-fib5</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-elhi-tv1y" target="_blank">https://www.oscs1024.com/hd/MPS-elhi-tv1y</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>勾股CMS用户等级XSS</title>
-            <link>https://www.oscs1024.com/hd/MPS-y7v2-1lhk</link>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-116100</guid>
+            <title>iOS Siri锁屏信息泄露漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-n0tk-ghsd</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-84614</guid>
             <description><![CDATA[
-                <h2>勾股CMS用户等级XSS</h2>
-                <p><strong>编号：</strong>CVE-2026-116100</p>
+                <h2>iOS Siri锁屏信息泄露漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-84614</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-y7v2-1lhk" target="_blank">https://www.oscs1024.com/hd/MPS-y7v2-1lhk</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-n0tk-ghsd" target="_blank">https://www.oscs1024.com/hd/MPS-n0tk-ghsd</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>勾股CMS用户等级XSS</h2>
-                <p><strong>编号：</strong>CVE-2026-116100</p>
+                <h2>iOS Siri锁屏信息泄露漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-84614</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-y7v2-1lhk" target="_blank">https://www.oscs1024.com/hd/MPS-y7v2-1lhk</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-n0tk-ghsd" target="_blank">https://www.oscs1024.com/hd/MPS-n0tk-ghsd</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>蛋糕订购系统SQL注入</title>
-            <link>https://www.oscs1024.com/hd/MPS-kg8t-xo12</link>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-116101</guid>
+            <title>OpenBSM栈缓冲区溢出</title>
+            <link>https://www.oscs1024.com/hd/MPS-dsay-cxqr</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-84604</guid>
             <description><![CDATA[
-                <h2>蛋糕订购系统SQL注入</h2>
-                <p><strong>编号：</strong>CVE-2026-116101</p>
+                <h2>OpenBSM栈缓冲区溢出</h2>
+                <p><strong>编号：</strong>CVE-2026-84604</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kg8t-xo12" target="_blank">https://www.oscs1024.com/hd/MPS-kg8t-xo12</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dsay-cxqr" target="_blank">https://www.oscs1024.com/hd/MPS-dsay-cxqr</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>蛋糕订购系统SQL注入</h2>
-                <p><strong>编号：</strong>CVE-2026-116101</p>
+                <h2>OpenBSM栈缓冲区溢出</h2>
+                <p><strong>编号：</strong>CVE-2026-84604</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-kg8t-xo12" target="_blank">https://www.oscs1024.com/hd/MPS-kg8t-xo12</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-dsay-cxqr" target="_blank">https://www.oscs1024.com/hd/MPS-dsay-cxqr</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>NNabla转换器代码注入</title>
-            <link>https://www.oscs1024.com/hd/MPS-bfo4-iw8v</link>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-116104</guid>
+            <title>TextKit设备名泄露</title>
+            <link>https://www.oscs1024.com/hd/MPS-8729-dv54</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-84605</guid>
             <description><![CDATA[
-                <h2>NNabla转换器代码注入</h2>
-                <p><strong>编号：</strong>CVE-2026-116104</p>
+                <h2>TextKit设备名泄露</h2>
+                <p><strong>编号：</strong>CVE-2026-84605</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bfo4-iw8v" target="_blank">https://www.oscs1024.com/hd/MPS-bfo4-iw8v</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8729-dv54" target="_blank">https://www.oscs1024.com/hd/MPS-8729-dv54</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>NNabla转换器代码注入</h2>
-                <p><strong>编号：</strong>CVE-2026-116104</p>
+                <h2>TextKit设备名泄露</h2>
+                <p><strong>编号：</strong>CVE-2026-84605</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-bfo4-iw8v" target="_blank">https://www.oscs1024.com/hd/MPS-bfo4-iw8v</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-8729-dv54" target="_blank">https://www.oscs1024.com/hd/MPS-8729-dv54</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>NNabla参数编码代码注入</title>
-            <link>https://www.oscs1024.com/hd/MPS-5qpd-ysw8</link>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-116103</guid>
+            <title>Apple Neural Engine越界写入漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-0v2f-ozmx</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-84595</guid>
             <description><![CDATA[
-                <h2>NNabla参数编码代码注入</h2>
-                <p><strong>编号：</strong>CVE-2026-116103</p>
+                <h2>Apple Neural Engine越界写入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-84595</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5qpd-ysw8" target="_blank">https://www.oscs1024.com/hd/MPS-5qpd-ysw8</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0v2f-ozmx" target="_blank">https://www.oscs1024.com/hd/MPS-0v2f-ozmx</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>NNabla参数编码代码注入</h2>
-                <p><strong>编号：</strong>CVE-2026-116103</p>
+                <h2>Apple Neural Engine越界写入漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-84595</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-5qpd-ysw8" target="_blank">https://www.oscs1024.com/hd/MPS-5qpd-ysw8</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-0v2f-ozmx" target="_blank">https://www.oscs1024.com/hd/MPS-0v2f-ozmx</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>docker-mcp命令注入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-lqh4-u1k0</link>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-116102</guid>
+            <title>Apple内核内存破坏漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-cs48-dlb2</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-84599</guid>
             <description><![CDATA[
-                <h2>docker-mcp命令注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-116102</p>
+                <h2>Apple内核内存破坏漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-84599</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-lqh4-u1k0" target="_blank">https://www.oscs1024.com/hd/MPS-lqh4-u1k0</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-cs48-dlb2" target="_blank">https://www.oscs1024.com/hd/MPS-cs48-dlb2</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>docker-mcp命令注入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-116102</p>
+                <h2>Apple内核内存破坏漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-84599</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-lqh4-u1k0" target="_blank">https://www.oscs1024.com/hd/MPS-lqh4-u1k0</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-cs48-dlb2" target="_blank">https://www.oscs1024.com/hd/MPS-cs48-dlb2</a></p>
             ]]></content:encoded>
         </item>
 
         <item>
-            <title>SCP CBM越界写入漏洞</title>
-            <link>https://www.oscs1024.com/hd/MPS-l6ne-px7s</link>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">CVE-2026-116099</guid>
+            <title>iOS UIKit 越权访问漏洞</title>
+            <link>https://www.oscs1024.com/hd/MPS-imrd-47pf</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">CVE-2026-84594</guid>
             <description><![CDATA[
-                <h2>SCP CBM越界写入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-116099</p>
+                <h2>iOS UIKit 越权访问漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-84594</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-l6ne-px7s" target="_blank">https://www.oscs1024.com/hd/MPS-l6ne-px7s</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-imrd-47pf" target="_blank">https://www.oscs1024.com/hd/MPS-imrd-47pf</a></p>
             ]]></description>
             <content:encoded><![CDATA[
-                <h2>SCP CBM越界写入漏洞</h2>
-                <p><strong>编号：</strong>CVE-2026-116099</p>
+                <h2>iOS UIKit 越权访问漏洞</h2>
+                <p><strong>编号：</strong>CVE-2026-84594</p>
                 <p><strong>来源：</strong>OSCS1024漏洞库</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-l6ne-px7s" target="_blank">https://www.oscs1024.com/hd/MPS-l6ne-px7s</a></p>
-            ]]></content:encoded>
-        </item>
-
-        <item>
-            <title>Node.js Brotli 解码器越界写入漏洞</title>
-            <link>https://x.threatbook.com/v5/vul/XVE-2026-84597</link>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <guid isPermaLink="false">XVE-2026-84597</guid>
-            <description><![CDATA[
-                <h2>Node.js Brotli 解码器越界写入漏洞</h2>
-                <p><strong>编号：</strong>XVE-2026-84597</p>
-                <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-84597" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-84597</a></p>
-            ]]></description>
-            <content:encoded><![CDATA[
-                <h2>Node.js Brotli 解码器越界写入漏洞</h2>
-                <p><strong>编号：</strong>XVE-2026-84597</p>
-                <p><strong>来源：</strong>微步</p>
-                <p><strong>时间：</strong>2026-10-26</p>
-                <p><strong>详情：</strong><a href="https://x.threatbook.com/v5/vul/XVE-2026-84597" target="_blank">https://x.threatbook.com/v5/vul/XVE-2026-84597</a></p>
+                <p><strong>时间：</strong>2026-10-27</p>
+                <p><strong>详情：</strong><a href="https://www.oscs1024.com/hd/MPS-imrd-47pf" target="_blank">https://www.oscs1024.com/hd/MPS-imrd-47pf</a></p>
             ]]></content:encoded>
         </item>
 
